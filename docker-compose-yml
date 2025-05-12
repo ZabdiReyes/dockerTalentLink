@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+
+  # MongoDB
+  mongodb:
+    image: mongo:latest
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    restart: always
+
+  # Backend - FastAPI
+  backend:
+    build: ./backend
+    container_name: fastapi-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    depends_on:
+      - mongodb
+    environment:
+      - MONGO_URI=mongodb://mongo:27017
+    restart: always
+
+  # Frontend - NGINX (para /get/ y /post/)
+  frontend:
+    build: ./frontend
+    container_name: nginx-frontend
+    ports:
+      - "80:80"
+    restart: always
+
+volumes:
+  mongo_data:
