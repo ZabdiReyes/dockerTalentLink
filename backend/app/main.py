@@ -2,6 +2,9 @@ from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 import os
 from datetime import datetime
+from typing import List
+from fastapi.responses import JSONResponse
+import subprocess
 
 from app.utils.procesamiento import *
 from app.search.bm25 import BM25SearchEngine
@@ -46,31 +49,62 @@ def inicializar_buscador():
         bm25_engine = None
 
 
-# Ruta para subir PDFs
 @app.post("/upload-pdf/")
-async def upload_pdf(file: UploadFile = File(...)):
-    try:
-        file_path = os.path.join(UPLOAD_FOLDER, file.filename)
-        with open(file_path, "wb") as buffer:
-            buffer.write(file.file.read())
+async def upload_pdf(files: List[UploadFile] = File(...)):
+    procesados = []
+    errores = []
 
-        # Procesar el archivo cargado
+    # Vaciar carpetas Original y TxT_Raw
+    for folder in [UPLOAD_FOLDER, TXT_RAW_FOLDER]:
+        for file_name in os.listdir(folder):
+            file_path = os.path.join(folder, file_name)
+            try:
+                if os.path.isfile(file_path):
+                    os.unlink(file_path)
+                    print(f"🗑️ Archivo eliminado: {file_path}")
+            except Exception as e:
+                print(f"❌ Error al eliminar {file_path}: {e}")
+
+    # 1. Guardar archivos PDF
+    for file in files:
+        try:
+            file_path = os.path.join(UPLOAD_FOLDER, file.filename)
+            with open(file_path, "wb") as buffer:
+                buffer.write(await file.read())
+            print(f"📁 PDF guardado en: {file_path}")
+        except Exception as e:
+            errores.append({
+                "archivo": file.filename,
+                "error": f"Error al guardar el archivo: {e}"
+            })
+
+    # 2. Ejecutar procesamiento completo
+    try:
         lista_pdf_paths = [f for f in os.listdir(UPLOAD_FOLDER) if f.endswith('.pdf')]
+        print(f"📦 Archivos PDF detectados para procesar: {lista_pdf_paths}")
+
         procesar_pdfs(
             lista_pdf_paths,
             directorio_origen=UPLOAD_FOLDER,
-            directorio_Raw=TXT_RAW_FOLDER,
+            directorio_destino=TXT_RAW_FOLDER,
             procesar_todo=True,
-            n=3,
-            m=4,
+            n=0,
+            m=None,
             dividir=True,
-            log=False
+            log=True
         )
 
-        return {"exitoso": True, "mensaje": f"PDF guardado y procesado: {file.filename}"}
+        procesados = lista_pdf_paths
 
     except Exception as e:
-        return {"exitoso": False, "error": str(e)}
+        errores.append({"error": f"Fallo en procesar_pdfs: {e}"})
+
+    return {
+        "mensaje": f"{len(procesados)} archivos subidos y procesados.",
+        "procesados": procesados,
+        "errores": errores
+    }
+
 
 # Ruta para buscar CVs
 @app.get("/buscar/")
