@@ -4,3 +4,4 @@ pymongo
 python-dotenv
 rank-bm25
 nltk
+python-multipart

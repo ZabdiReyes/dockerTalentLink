@@ -18,7 +18,6 @@ class BM25SearchEngine:
         self.tokenized_docs = []
         self.raw_jsons = []
         self.bm25 = None
-        self.index()
 
     def extract_text(self, value):
         if isinstance(value, str):

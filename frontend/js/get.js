@@ -16,7 +16,6 @@ searchInput.addEventListener("keydown", function (e) {
       addTag(input.substring(1));
       this.value = "";
     }
-    // Si no empieza con #, no se borra, se deja para que se use como query al buscar
   }
 });
 
@@ -49,11 +48,18 @@ searchBtn.addEventListener("click", async () => {
     return;
   }
 
+  // Separar secciones de filtros
+  const sectionTags = tags.filter(t => !t.includes(":"));
+  const filterTags = tags.filter(t => t.includes(":"));
+
+  const sections = sectionTags.join(",");
+  const filters = filterTags.join(",");
+
   resultsDiv.innerHTML = "<p>Buscando...</p>";
-  searchInput.value = ""; // limpiar el campo visualmente
+  searchInput.value = "";
 
   try {
-    const url = `http://127.0.0.1:8000/buscar/?query=${encodeURIComponent(queryInput)}`;
+    const url = `http://127.0.0.1:8000/buscar/?query=${encodeURIComponent(queryInput)}&sections=${encodeURIComponent(sections)}&filters=${encodeURIComponent(filters)}`;
     const response = await fetch(url);
     if (!response.ok) throw new Error("La API devolvió un error");
 
