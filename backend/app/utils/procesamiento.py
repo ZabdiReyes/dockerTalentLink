@@ -4,6 +4,7 @@ from typing import Optional
 import re
 import json
 import logging
+import statistics
 
 # Global dictionary to track function calls
 function_calls = {}
@@ -257,7 +258,7 @@ def procesar_archivo(archivo_pdf, directorio_origen, directorio_destino, indice=
                     
                 archivo_final_txt = acum_col2 + [" "] + [" "] + [" "] + acum_col1
                     # Guardar el archivo final en un TXT en el directorio TxT_Procesado
-                directorio_procesado = "Data\TxT_Procesado"
+                directorio_procesado = "Data/TxT_Procesado"
                 if not os.path.exists(directorio_procesado):
                     os.makedirs(directorio_procesado)
                 
@@ -304,7 +305,7 @@ def procesar_archivo(archivo_pdf, directorio_origen, directorio_destino, indice=
                         
                     archivo_final_txt = acum_col2 + [" "] + [" "] + [" "] + acum_col1
                         # Guardar el archivo final en un TXT en el directorio TxT_Procesado
-                    directorio_procesado = "Data\TxT_Procesado"
+                    directorio_procesado = "Data/TxT_Procesado"
                     if not os.path.exists(directorio_procesado):
                         os.makedirs(directorio_procesado)
                     
@@ -367,20 +368,27 @@ def convert_pdf_to_txt(source_directory: str, pdf_filename: str, destination_dir
         return None
 
 def calculate_margin(text_dictionary: dict[int, str]) -> int:
-    print("_"*40)
-    print("calculate_margin")
-    for line_num in range(1, len(text_dictionary) + 1):
-        line = text_dictionary.get(line_num, "")
+    print("_" * 40)
+    print("calculate_margin (usando múltiples líneas con separaciones visibles)")
+    
+    margenes_detectados = []
 
-        # Check if the line contains a word followed by spaces and then a name
-        match = re.match(r"(\w+\s+)(\w+)", line)
+    for line in text_dictionary.values():
+        # Busca una línea con un bloque de espacios (al menos 4 espacios)
+        match = re.search(r'^(.+?)(\s{4,})(.+)', line)
         if match:
-            first_word_with_spaces = match.group(1)
-            leading_spaces = len(line) - len(line.lstrip())
-            return leading_spaces + len(first_word_with_spaces)
+            margen = len(match.group(1)) + len(match.group(2))
+            margenes_detectados.append(margen)
 
-    # Default margin if no suitable line is found
-    return 0
+    if not margenes_detectados:
+        print("❌ No se detectaron márgenes claros. Usando 0 por defecto.")
+        return 0
+
+    # Calcula la mediana para mayor robustez
+    margen_final = int(statistics.median(margenes_detectados))
+    print(f"✅ Márgenes detectados: {margenes_detectados}")
+    print(f"📐 Margen estimado (mediana): {margen_final}")
+    return margen_final
 
 def find_keyword_in_dictionary(text_dictionary: dict[int, str], keyword: str) -> list[int]:
     print_function_name_once("find_keyword_in_dictionary", locals())

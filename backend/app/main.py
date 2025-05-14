@@ -5,6 +5,7 @@ from datetime import datetime
 from typing import List
 from fastapi.responses import JSONResponse
 import subprocess
+from app.utils.extraccion import *
 
 from app.utils.procesamiento import *
 from app.search.bm25 import BM25SearchEngine
@@ -26,6 +27,7 @@ BASE_DIR = os.getcwd()
 UPLOAD_FOLDER = os.path.join(BASE_DIR, "Data", "Original")
 TXT_RAW_FOLDER = os.path.join(BASE_DIR, "Data", "TxT_Raw")
 JSON_GPT4OMINI_FOLDER = os.path.join(BASE_DIR, "Data", "Json", "GPT4omini")
+JSON_CUSTOM_FOLDER = os.path.join(BASE_DIR, "Data", "Json", "Custom")
 
 # Asegurar existencia de carpetas
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -54,8 +56,13 @@ async def upload_pdf(files: List[UploadFile] = File(...)):
     procesados = []
     errores = []
 
-    # Vaciar carpetas Original y TxT_Raw
-    for folder in [UPLOAD_FOLDER, TXT_RAW_FOLDER]:
+    # Vaciar carpetas Original, TxT_Raw, TxT_Procesado, Json/GPT4omini y Json/Custom
+    TXT_PROCESADO_FOLDER = os.path.join(BASE_DIR, "Data", "TxT_Procesado")
+    os.makedirs(TXT_PROCESADO_FOLDER, exist_ok=True)
+    os.makedirs(JSON_GPT4OMINI_FOLDER, exist_ok=True)
+    os.makedirs(JSON_CUSTOM_FOLDER, exist_ok=True)
+
+    for folder in [UPLOAD_FOLDER, TXT_RAW_FOLDER, TXT_PROCESADO_FOLDER, JSON_GPT4OMINI_FOLDER, JSON_CUSTOM_FOLDER]:
         for file_name in os.listdir(folder):
             file_path = os.path.join(folder, file_name)
             try:
@@ -78,7 +85,7 @@ async def upload_pdf(files: List[UploadFile] = File(...)):
                 "error": f"Error al guardar el archivo: {e}"
             })
 
-    # 2. Ejecutar procesamiento completo
+    # 2. Convertir PDF a TXT
     try:
         lista_pdf_paths = [f for f in os.listdir(UPLOAD_FOLDER) if f.endswith('.pdf')]
         print(f"📦 Archivos PDF detectados para procesar: {lista_pdf_paths}")
@@ -98,6 +105,28 @@ async def upload_pdf(files: List[UploadFile] = File(...)):
 
     except Exception as e:
         errores.append({"error": f"Fallo en procesar_pdfs: {e}"})
+
+    # 3. Convertir cada archivo TXT procesado a JSON
+    try:
+        TXT_PROCESADO_FOLDER = os.path.join(BASE_DIR, "Data", "TxT_Procesado")
+        txt_files = [f for f in os.listdir(TXT_PROCESADO_FOLDER) if f.endswith('.txt')]
+        for txt_file in txt_files:
+            txt_path = os.path.join(TXT_PROCESADO_FOLDER, txt_file)
+            base_name = os.path.splitext(txt_file)[0]
+            json_path = os.path.join(JSON_CUSTOM_FOLDER, f"{base_name}.json")
+
+            convert_txt_to_json(txt_path, json_path)
+
+            procesados.append({
+                "archivo": base_name + ".pdf",
+                "txt": txt_file,
+                "json": f"{base_name}.json"
+            })
+
+    except Exception as e:
+        errores.append({
+            "error": f"Fallo en convertir a JSON: {e}"
+        })
 
     return {
         "mensaje": f"{len(procesados)} archivos subidos y procesados.",
