@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Eduardo Escenaro",
+    "linkedin": "www.linkedin.com/in/eduardo-escenaro-2ab70b109",
+    "website": null,
+    "location": "Guymon, Oklahoma, Estados Unidos",
+    "company": "Seaboard Foods"
+  },
+  "profile": "Especialista técnico con experiencia en mantenimiento preventivo y soporte técnico.",
+  "title": "Especialista técnico",
+  "skills": [
+    "Mantenimiento preventivo",
+    "Soporte técnico",
+    "Herramientas eléctricas"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Seaboard Foods",
+      "position": "Especialista técnico",
+      "duration": "octubre de 2021 - Present",
+      "location": "Guymon, Oklahoma, Estados Unidos"
+    },
+    {
+      "company": "FERROSUR",
+      "position": "Miembro de equipo de operaciones",
+      "duration": "julio de 2017 - septiembre de 2021",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": null,
+      "duration": "2009 - 2014"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

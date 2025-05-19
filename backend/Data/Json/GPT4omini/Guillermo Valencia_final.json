@@ -1,0 +1,72 @@
+{
+  "contact": {
+    "name": "Guillermo Valencia",
+    "linkedin": "www.linkedin.com/in/guillermo-valencia-34916b11a",
+    "website": null,
+    "location": "Cedartown, Georgia, Estados Unidos",
+    "company": null
+  },
+  "profile": "IT Site Administrator with extensive experience in IT support and project management.",
+  "title": "IT Site Administrator",
+  "skills": [
+    "Information Technology",
+    "Hardware",
+    "Software"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Hexaware Technologies",
+      "position": "IT Systems Analyst",
+      "duration": "junio de 2022 - Present",
+      "location": "Georgia, Estados Unidos"
+    },
+    {
+      "company": "Halliburton",
+      "position": "IT Desktop Tech II",
+      "duration": "julio de 2019 - junio de 2022",
+      "location": "México"
+    },
+    {
+      "company": "Halliburton",
+      "position": "IT Desktop Tech I",
+      "duration": "diciembre de 2012 - julio de 2019",
+      "location": "Villahermosa, Tabasco, México / Reforma, Chiapas, México"
+    },
+    {
+      "company": "Halliburton",
+      "position": "IT Coordinator – Mexico South Region",
+      "duration": "junio de 2018 - diciembre de 2018",
+      "location": "Reforma, Chiapas, Mexico"
+    },
+    {
+      "company": "Dm Ingenieros",
+      "position": "PROJECT MANAGEMENT ASSISTANT",
+      "duration": "abril de 2012 - diciembre de 2012",
+      "location": "Paraíso, Tabasco"
+    },
+    {
+      "company": "Comisión Federal de Electricidad",
+      "position": "IT Intern",
+      "duration": "enero de 2010 - agosto de 2010",
+      "location": "Central Nucleoeléctrica Laguna Verde"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero en sistemas computacionales",
+      "duration": "2005 - 2010"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "ITIL Foundations"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

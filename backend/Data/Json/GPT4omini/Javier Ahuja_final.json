@@ -1,0 +1,82 @@
+{
+  "contact": {
+    "name": "Javier Ahuja",
+    "linkedin": "https://www.linkedin.com/in/javier-ahuja-194b8011",
+    "website": null,
+    "location": "Aguascalientes, Aguascalientes, Mexico",
+    "company": null
+  },
+  "profile": "Robot Paint Process Engineer with expertise in maintenance, process development, and troubleshooting of Fanuc paint robots.",
+  "title": "Robot Paint Process Engineer",
+  "skills": [
+    "Fanuc Paint robots",
+    "sealer robots",
+    "vision system",
+    "process development",
+    "2k system",
+    "Robotics"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Portuguese",
+      "proficiency": "Limited Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Robots",
+      "position": "Paint Robots Programming",
+      "duration": "April 2016 - Present",
+      "location": "México"
+    },
+    {
+      "company": "Magna Exteriors Queretaro",
+      "position": "Robot Maintenance Coordinator",
+      "duration": "May 2015 - April 2016",
+      "location": null
+    },
+    {
+      "company": "Navistar Inc",
+      "position": "Production & Robot Paint Maintenance Manager",
+      "duration": "January 2012 - March 2014",
+      "location": null
+    },
+    {
+      "company": "FANUC ROBOTICS MEXICO",
+      "position": "Service & Installation Engineer",
+      "duration": "1998 - 2012",
+      "location": null
+    },
+    {
+      "company": "FCA - North America",
+      "position": "FANUC Installation Engineer",
+      "duration": "2000 - 2005",
+      "location": null
+    },
+    {
+      "company": "Sistemas Interactivos del Golfo SA DE CV",
+      "position": "Network Design Engineer",
+      "duration": "January 1998 - November 1998",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico Regional de Veracruz",
+      "degree": "Engineer, Computing Systems",
+      "duration": "1992 - 1997"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Specialties include maintenance in any paint Fanuc robot or any paint Fanuc System."
+  }
+}

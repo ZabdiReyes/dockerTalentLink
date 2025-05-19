@@ -1,0 +1,94 @@
+{
+  "contact": {
+    "name": "Jorge Bolloa",
+    "linkedin": "www.linkedin.com/in/jorgebolloa",
+    "website": null,
+    "location": "Portland, Texas, United States",
+    "company": "CCLNG"
+  },
+  "profile": "Field Engineer IV with extensive experience in turbomachinery controls systems and technical solutions.",
+  "title": "Field Engineer IV",
+  "skills": [
+    "Puesta en marcha",
+    "Solución de problemas",
+    "Gestión de proyectos"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Italiano",
+      "proficiency": "Elementary"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Baker Hughes",
+      "position": "Controls Resident Engineer",
+      "duration": "septiembre de 2018 - Present",
+      "location": null
+    },
+    {
+      "company": "Baker Hughes",
+      "position": "Field Specialist III",
+      "duration": "febrero de 2016 - septiembre de 2018",
+      "location": null
+    },
+    {
+      "company": "Baker Hughes",
+      "position": "Field Engineer",
+      "duration": "septiembre de 2013 - febrero de 2016",
+      "location": null
+    },
+    {
+      "company": "Rapiscan Systems",
+      "position": "Field Service Engineer",
+      "duration": "febrero de 2013 - septiembre de 2013",
+      "location": null
+    },
+    {
+      "company": "Rolls-Royce Energy Systems",
+      "position": "Field Service Representative",
+      "duration": "marzo de 2011 - agosto de 2012",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Solar Turbines",
+      "position": "O & M Technician II",
+      "duration": "diciembre de 2007 - marzo de 2011",
+      "location": "Cd. del Carmen, Campeche, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad del Valle de México",
+      "degree": "Master in Computer Systems",
+      "duration": "2010 - 2012"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Computer Systems Engineer",
+      "duration": "2002 - 2007"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "DLE Mapping",
+      "FSE ADGT CONTROL MkVIe",
+      "Delivering Results Effectively",
+      "Building Your Team",
+      "Recruiting Foundations"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

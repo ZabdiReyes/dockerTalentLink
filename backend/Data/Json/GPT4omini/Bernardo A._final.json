@@ -1,0 +1,66 @@
+{
+  "contact": {
+    "name": "Bernardo A.",
+    "linkedin": "www.linkedin.com/in/bernardo-a-b8852220",
+    "website": null,
+    "location": "Atlanta, Georgia, Estados Unidos",
+    "company": "CoStar Group"
+  },
+  "profile": ".Net Senior Developer & SQL Server Database Administrator",
+  "title": "Software Engineer",
+  "skills": [
+    ".NET",
+    "C#",
+    "ASP.NET"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "CoStar Group",
+      "position": "Software Engineer",
+      "duration": "agosto de 2021 - Present",
+      "location": "Atlanta, Georgia, United States"
+    },
+    {
+      "company": "Starr Companies",
+      "position": "Senior Application Developer",
+      "duration": "enero de 2017 - diciembre de 2020",
+      "location": "Atlanta y alrededores, Estados Unidos"
+    },
+    {
+      "company": "Tech1Ventures",
+      "position": "Software Application Developer",
+      "duration": "abril de 2016 - diciembre de 2016",
+      "location": "Atlanta, Georgia"
+    },
+    {
+      "company": "National Oilwell Varco",
+      "position": "Application Support Analyst",
+      "duration": "marzo de 2012 - septiembre de 2015",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales, Redes y Seguridad",
+      "duration": "2006 - 2011"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Holding Yourself Accountable",
+      "Stepping Up: How Taking Responsibility Changes Everything (getAbstract Summary)"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

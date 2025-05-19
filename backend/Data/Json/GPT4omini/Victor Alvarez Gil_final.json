@@ -1,0 +1,97 @@
+{
+  "contact": {
+    "name": "Victor Alvarez Gil",
+    "linkedin": "www.linkedin.com/in/victormag10",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": "Rufi"
+  },
+  "profile": "Soy una persona honesta, responsable, respetuosa y amigable, poseo una actitud positiva, la cual utilizo en todos los ámbitos de mi vida, me gusta capacitarme en diversos temas, se trabajar bajo presión y en equipo, así como también tomar el liderazgo, respetando siempre los lineamientos de la empresa, y cumpliendo sus requerimientos.",
+  "title": "Chief Technology Officer",
+  "skills": [
+    "Java",
+    "MySQL",
+    "PostgreSQL"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Rufi",
+      "position": "Chief Technology Officer",
+      "duration": "junio de 2017 - Present",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "SIDERT",
+      "position": "Leader of Information Technologies",
+      "duration": "marzo de 2017 - Present",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Id Store & What's On",
+      "position": "Chief Executive Officer",
+      "duration": "julio de 2014 - julio de 2017",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "ICCAAT",
+      "position": "Information Technology Specialist",
+      "duration": "julio de 2016 - diciembre de 2016",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Instituto Tecnológico De Veracruz",
+      "position": "Practicante",
+      "duration": "enero de 2015 - junio de 2015",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Profesor en Club de Verano",
+      "duration": "2015 - 2015",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Nutri-Jugo",
+      "position": "Socio gerente",
+      "duration": "julio de 2012 - julio de 2013",
+      "location": "Veracruz y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ISDI",
+      "degree": "Master Internet Business, Empresa, gestión, marketing y disciplinas afines",
+      "duration": "2017 - 2018"
+    },
+    {
+      "institution": "Instituto Tecnológico Autónomo de México",
+      "degree": "Diplomatura, Desarrollo gerencial",
+      "duration": "febrero de 2021 - agosto de 2021"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería, Ingenieria en Sistemas Computacionales",
+      "duration": "2010 - 2015"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Curso de Planificación de Proyectos",
+      "Audiocurso Fundamentos de Product Management",
+      "Curso de Fundamentos de Project Management",
+      "Diplomado en Desarrollo Gerencial",
+      "Curso Práctico de Project Management"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

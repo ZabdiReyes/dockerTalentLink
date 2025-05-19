@@ -1,0 +1,55 @@
+{
+  "contact": {
+    "name": "Adrian Zayas Viveros",
+    "linkedin": "https://www.linkedin.com/in/adrianzayasviv",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "UNINDETEC"
+  },
+  "profile": "Actualmente, cuento con tres años de experiencia como desarrollador en el campo de Tecnologías de la Información. Durante este tiempo, he tenido la oportunidad de trabajar en múltiples proyectos, lo que me ha permitido adquirir una amplia gama de habilidades y conocimientos prácticos. He trabajado en el desarrollo de aplicaciones web, implementación de sistemas de gestión de bases de datos y soluciones de software personalizadas. Esta experiencia me ha enseñado la importancia de la colaboración en equipo, la adaptabilidad y la resolución de problemas en entornos dinámicos.",
+  "title": "Developer Full-Stack | Software Tester | Android Developer | Agile",
+  "skills": [
+    "Scrum methodology",
+    "VueJS",
+    "NodeJS",
+    "JS",
+    "Infraestructura de software",
+    "Investigación tecnológica",
+    "Arquitectura web"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "UNINDETEC",
+      "position": "Desarrollador de software",
+      "duration": "septiembre de 2021 - Present",
+      "location": "Alvarado, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "UNINDETEC",
+      "position": "Desarrollador de software",
+      "duration": "febrero de 2020 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería, Sistemas Computacionales",
+      "duration": "2016 - 2020"
+    },
+    {
+      "institution": "Conalep",
+      "degree": "Pofesional Técnico Bachiller, PTB-Informática",
+      "duration": "2013 - 2016"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

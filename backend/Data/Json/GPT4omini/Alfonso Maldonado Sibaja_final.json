@@ -1,0 +1,87 @@
+{
+  "contact": {
+    "name": "Alfonso Maldonado Sibaja",
+    "linkedin": "https://www.linkedin.com/in/alfonso-maldonado-s",
+    "website": null,
+    "location": "Euclid, Ohio, United States",
+    "company": null
+  },
+  "profile": "Accomplished IT Project Manager with over 12 years of specialized experience in leading the end-to-end implementation of Manufacturing Execution Systems (MES), particularly PSI Metals, within the steel pipe manufacturing sector across the USA, Canada and Mexico.",
+  "title": "IT Project Manager",
+  "skills": [
+    "PSI Metals",
+    "Scrum foundation",
+    "PL/SQL Dev",
+    "Oracle",
+    "SOAP UI",
+    "Power BI",
+    "Azure Devops",
+    "JIRA",
+    "Solman – Solution Manager",
+    "USD – Service desk manager",
+    "MS Teams",
+    "Office",
+    "Visio",
+    "MS Project",
+    "Natural Adabas"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Lincoln Electric",
+      "position": "Manufacturing Execution System Service Owner",
+      "duration": "octubre de 2024 - Present",
+      "location": "Cleveland, Ohio, United States"
+    },
+    {
+      "company": "Tenaris",
+      "position": "IT Project Manager",
+      "duration": "mayo de 2023 - junio de 2024",
+      "location": "United States"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Project Manager",
+      "duration": "enero de 2022 - mayo de 2023",
+      "location": null
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Project Leader",
+      "duration": "diciembre de 2011 - diciembre de 2021",
+      "location": null
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Application Responsable",
+      "duration": "abril de 2005 - noviembre de 2011",
+      "location": null
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Analyst & Developer",
+      "duration": "julio de 1999 - marzo de 2005",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Cristóbal Colón, Veracruz, Mexico",
+      "degree": "Master's degree, Information Technology",
+      "duration": "2005 - 2007"
+    },
+    {
+      "institution": "Instituto Tecnologico de Veracruz, Veracruz, Mexico",
+      "degree": "Bachelor's degree, Computer Engineering",
+      "duration": "1994 - 1999"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "24+ years of experience in the Steel Manufacturing Industry. Extensive experience in MES Implementation (PSI Metals Expertise)."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "contact": {
+    "name": "Berenice Gómez",
+    "linkedin": "www.linkedin.com/in/berenice-gómez-4a853051",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "TenarisTamsa"
+  },
+  "profile": "Especialista en análisis de sistemas, con experiencia en implementación de soluciones para sistemas industriales y soporte en múltiples plantas en México y USA.",
+  "title": "Analista de sistemas sénior",
+  "skills": [
+    "Capacidad de análisis",
+    "Habilidades sociales",
+    "Autodidacta"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "TenarisTamsa",
+      "position": "Analista de sistemas sénior",
+      "duration": "mayo de 2011 - septiembre de 2020",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Pemex",
+      "position": "Analista Junior",
+      "duration": "junio de 2008 - diciembre de 2010",
+      "location": "Veracruz"
+    },
+    {
+      "company": "Pemex",
+      "position": "Analista de sistemas",
+      "duration": "junio de 2005 - octubre de 2005",
+      "location": "Poza Rica de Hidalgo, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Analista de sistemas",
+      "duration": "marzo de 2000 - junio de 2003",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Printer S.A. de C.V.",
+      "position": "Analista programador",
+      "duration": "julio de 1997 - octubre de 1999",
+      "location": "Ciudad de México, México"
+    },
+    {
+      "company": "BBVA",
+      "position": "Analista programador",
+      "duration": "mayo de 1996 - junio de 1997",
+      "location": "Ciudad de México, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico y de Estudios Superiores de Monterrey / ITESM",
+      "degree": "Maestro en Ciencias Computacionales, Inteligencia Artificial",
+      "duration": "1993 - 1995"
+    },
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales",
+      "duration": "1989 - 1993"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Project 2019 y Project Online Professional esencial",
+      "Fundamentos de la gestión del tiempo",
+      "Scrum Fundamentals Certified",
+      "Mejora tu competencia en conflictos",
+      "Fundamentos de Kanban para desarrollo de software"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

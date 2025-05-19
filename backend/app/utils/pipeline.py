@@ -110,7 +110,10 @@ def convert_txts_with_gpt4omini(
     output_dir: str,
     log: bool = True,
 ) -> Tuple[List[str], List[Dict[str, str]]]:
-    """Convierte .txt a JSON usando GPT‑4o‑mini, ignorando los que terminan en número."""
+    """
+    Convierte archivos .txt a JSON usando GPT-4o-mini,
+    ignorando los que terminan en número y los que ya tienen su .json generado.
+    """
     processed: List[str] = []
     errors: List[Dict[str, str]] = []
 
@@ -122,6 +125,15 @@ def convert_txts_with_gpt4omini(
     ]
 
     for fname in txt_files:
+        out_fname = os.path.splitext(fname)[0].lstrip() + ".json"
+        out_path = os.path.join(output_dir, out_fname)
+
+        # ❌ Si ya existe el .json correspondiente, saltarlo
+        if os.path.exists(out_path):
+            if log:
+                print(f"⏩ Ya existe, omitido: {out_path}")
+            continue
+
         txt_path = os.path.join(input_dir, fname)
         if log:
             print(f"🧠 Procesando: {fname}")
@@ -129,9 +141,6 @@ def convert_txts_with_gpt4omini(
         try:
             json_str = extract_info_from_txt(txt_path)
             json_data = json.loads(json_str)
-
-            out_fname = os.path.splitext(fname)[0].lstrip() + ".json"
-            out_path = os.path.join(output_dir, out_fname)
 
             with open(out_path, "w", encoding="UTF-8") as fout:
                 json.dump(json_data, fout, indent=2, ensure_ascii=False)
