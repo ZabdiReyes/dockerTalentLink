@@ -1,0 +1,112 @@
+{
+  "contact": {
+    "name": "Napoleón Velasco Carrillo",
+    "linkedin": "www.linkedin.com/in/naveca",
+    "website": null,
+    "location": "Richmond Hill, Ontario, Canadá",
+    "company": "Mansteel Rebar Ltd."
+  },
+  "profile": "Always willing to help others and solve problems in an innovative way. Eager to learn about new technologies and processes. As a mechatronics engineer, try to connect different disciplines in order to increase productivity and efficiency.",
+  "title": "Maintenance and Facility Manager",
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Renewable Energies",
+    "PLCs",
+    "Mechanics",
+    "Design",
+    "Automation"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Japanese",
+      "proficiency": "Limited Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mansteel Rebar Ltd.",
+      "position": "Maintenance and Facility Manager",
+      "duration": "agosto de 2021 - Present (3 años 7 meses)",
+      "location": "Ontario, Canadá"
+    },
+    {
+      "company": "Mansteel Rebar Ltd.",
+      "position": "Mechanical and Electrical Engineering Technician",
+      "duration": "diciembre de 2019 - octubre de 2021 (1 año 11 meses)",
+      "location": "Richmond Hill, ON"
+    },
+    {
+      "company": "Tesis IT & Automation",
+      "position": "Automation Engineer",
+      "duration": "febrero de 2019 - diciembre de 2019 (11 meses)",
+      "location": "Houston, Texas Area"
+    },
+    {
+      "company": "Seaboard Foods",
+      "position": "Maintenance Engineer",
+      "duration": "mayo de 2014 - enero de 2019 (4 años 9 meses)",
+      "location": "Guymon, Oklahoma"
+    },
+    {
+      "company": "Seaboard Foods",
+      "position": "Automation Support Specialist",
+      "duration": "enero de 2016 - enero de 2016 (1 mes)",
+      "location": "Guymon, Oklahoma"
+    },
+    {
+      "company": "JBCentury",
+      "position": "Electronic Designer",
+      "duration": "julio de 2013 - abril de 2014 (10 meses)",
+      "location": null
+    },
+    {
+      "company": "Sustainable Energy Applied Research Centre - Saint Lawrence College",
+      "position": "Intern",
+      "duration": "enero de 2013 - julio de 2013 (7 meses)",
+      "location": "Kingston, Ontario, Canada"
+    },
+    {
+      "company": "JBCentury",
+      "position": "Technician and repair consultant in Laptops and Desktop Computers",
+      "duration": "enero de 2011 - diciembre de 2012 (2 años)",
+      "location": "Veracruz, Veracruz, Mexico"
+    },
+    {
+      "company": "Instituto Tecnológico de Veracruz",
+      "position": "Desarrollador",
+      "duration": "2011 - 2012 (1 año)",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Bachelor of Engineering (B.Eng.)",
+      "duration": "2008 - 2012"
+    },
+    {
+      "institution": "Centro de Estudios Tecnológicos Industriales y de Servicios No. 15 (CETIS 15)",
+      "degree": "Computer Technician, Computer Technology/Computer Systems Technology",
+      "duration": "2005 - 2008"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Computer Technician"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

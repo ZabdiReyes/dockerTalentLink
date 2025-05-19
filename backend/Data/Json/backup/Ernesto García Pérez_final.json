@@ -1,0 +1,74 @@
+{
+  "contact": {
+    "name": "Ernesto García Pérez",
+    "linkedin": "www.linkedin.com/in/ernesto-garcía-pérez-22909417a",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": "Instituto Tecnológico De Veracruz"
+  },
+  "profile": "Subdirector de planeación y vinculación en Instituto Tecnológico De Veracruz con más de 16 años de experiencia en el sector educativo.",
+  "title": "Subdirector de Planeación y Vinculación",
+  "skills": [
+    "Programación",
+    "Seguimiento",
+    "Evaluación del rendimiento"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Instituto Tecnológico de Veracruz",
+      "position": "Subdirector de Planeación y Vinculación",
+      "duration": "septiembre de 2008 - Present (16 años 6 meses)",
+      "location": "Veracruz"
+    },
+    {
+      "company": "Instituto Tecnológico de Veracruz",
+      "position": "Jefe de departamento de planeación, programación y presupuestación",
+      "duration": "septiembre de 2015 - agosto de 2019 (4 años)",
+      "location": "M.A. de Quevedo #2779"
+    },
+    {
+      "company": "Instituto Tecnológico de Veracruz",
+      "position": "Jefe de departamento de gestión tecnológica y vinculación",
+      "duration": "mayo de 2013 - septiembre de 2015 (2 años 5 meses)",
+      "location": "M.A. de Quevedo #2779"
+    },
+    {
+      "company": "SAT - Servicio de Administración Tributaria",
+      "position": "Operador de rayos gamma",
+      "duration": "septiembre de 2006 - septiembre de 2008 (2 años 1 mes)",
+      "location": "Veracruz"
+    },
+    {
+      "company": "Kimberly-Clark",
+      "position": "Jefe de turnos",
+      "duration": "enero de 2006 - julio de 2006 (7 meses)",
+      "location": "Orizaba"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EGADE Business School",
+      "degree": "Maestría en administración de las telecomunicaciones",
+      "duration": "2003 - 2005"
+    },
+    {
+      "institution": "Universidad de Granada",
+      "degree": "Residente, Redes de comunicación de datos",
+      "duration": "2003 - 2003"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Título, Ingeniería en electrónica",
+      "duration": "1998 - 2003"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

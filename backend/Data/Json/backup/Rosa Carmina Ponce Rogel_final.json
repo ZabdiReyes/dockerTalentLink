@@ -1,0 +1,58 @@
+{
+  "contact": {
+    "name": "Rosa Carmina Ponce Rogel",
+    "linkedin": "www.linkedin.com/in/carmi-rogel",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Software development with over 3 years of experience as Full Stack. My mains goals are to continuously improve my skills while learning as much as I can. I'm in a constant search to improve both my personal and professional abilities so I give my best at problem solving, task management and completion when helping my users.",
+  "title": "Ingeniero de desarrollo de software",
+  "skills": [
+    "Report builder",
+    "Recopilación de requisitos técnicos",
+    "Microsoft SQL Server"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Techint Ingeniería y Construcción",
+      "position": "Coordinador de soporte de TI",
+      "duration": "julio de 2023 - Present",
+      "location": null
+    },
+    {
+      "company": "Grupo GIGA",
+      "position": "Ingeniero de desarrollo de software",
+      "duration": "enero de 2019 - julio de 2023",
+      "location": null
+    },
+    {
+      "company": "Grupo GIGA",
+      "position": "Ingeniero practicante de automatización nivel 2",
+      "duration": "agosto de 2017 - diciembre de 2018",
+      "location": null
+    },
+    {
+      "company": "Work in Love",
+      "position": "Prácticas Profesionales",
+      "duration": "enero de 2017 - julio de 2017",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": null,
+      "duration": "2012 - 2017"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

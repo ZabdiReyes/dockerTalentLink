@@ -1,0 +1,91 @@
+{
+  "contact": {
+    "name": "Jaime Cervantes",
+    "linkedin": "https://www.linkedin.com/in/jaime-cervantes-58877120",
+    "website": "https://www.pensemosweb.com",
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Pensemos web"
+  },
+  "profile": "I'm an Agile Javascript developer with solid agile principles. I use Clean Architecture and SOLID principles to develop flexible and understandable code.",
+  "title": "Agile Javascript Developer",
+  "skills": [
+    "Google Cloud Run",
+    "Docker",
+    "React Native"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Pensemos web",
+      "position": "Founder and Javascript developer",
+      "duration": "abril de 2017 - Present",
+      "location": "Veracruz Area, Mexico"
+    },
+    {
+      "company": "SitDigital_MEX",
+      "position": "Frontend Web Developer",
+      "duration": "marzo de 2019 - enero de 2022",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "Globant",
+      "position": "Frontend Developer",
+      "duration": "marzo de 2018 - marzo de 2019",
+      "location": "Mexico City Area, Mexico"
+    },
+    {
+      "company": "SNGULAR",
+      "position": "Frontend Web Developer",
+      "duration": "junio de 2017 - diciembre de 2017",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "DS PRIMA Pty Ltd",
+      "position": "JavaScript Developer",
+      "duration": "noviembre de 2014 - octubre de 2016"
+    },
+    {
+      "company": "Interalia.net",
+      "position": "Frontend Web Developer",
+      "duration": "abril de 2014 - octubre de 2014"
+    },
+    {
+      "company": "QuimiNet.com",
+      "position": "Web Developer",
+      "duration": "agosto de 2011 - abril de 2013"
+    },
+    {
+      "company": "Tony Tiendas S.A. de C.V.",
+      "position": "Front-end Developer",
+      "duration": "enero de 2011 - marzo de 2011"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Computer system engineer, Information Technology",
+      "duration": "2005 - 2011"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Google cloud Associate Cloud Engineer",
+      "M101JS: MongoDB for node.js Developers",
+      "Learning How to Learn"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "I'm passionate about developing flexible and maintainable software."
+  }
+}

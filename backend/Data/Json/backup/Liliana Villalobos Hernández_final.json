@@ -1,0 +1,29 @@
+{
+  "contact": {
+    "name": "Liliana Villalobos Hernández",
+    "linkedin": "www.linkedin.com/in/liliana-villalobos-hernández-17096099",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Ayuntamiento de Alvarado"
+  },
+  "profile": "Professional with a background in Systems Engineering.",
+  "title": null,
+  "skills": [],
+  "languages": [],
+  "experience": [],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería, Sistemas Computacionales",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

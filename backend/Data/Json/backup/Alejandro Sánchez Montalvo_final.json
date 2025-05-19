@@ -1,0 +1,41 @@
+{
+  "contact": {
+    "name": "Alejandro Sánchez Montalvo",
+    "linkedin": "www.linkedin.com/in/alejandro-sánchez-montalvo-845114207",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Estudiante de Ingeniería en Sistemas Computacionales con experiencia en metodologías ágiles y desarrollo web.",
+  "title": null,
+  "skills": [
+    "Metodologías ágiles",
+    "Scrum"
+  ],
+  "languages": [],
+  "experience": [],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Licenciatura, Ingeniería en Sistemas Computacionales",
+      "duration": "agosto de 2021 - diciembre de 2025"
+    },
+    {
+      "institution": "CONALEP Veracruz",
+      "degree": "Informatica, Desarrollo de páginas web, contenido digital/multimedia y recursos informáticos",
+      "duration": "2014 - 2021"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Introducción al desarrollo web l",
+      "Scrum Fundamentals Certified (SFC)",
+      "Introducción al desarrollo web ll"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

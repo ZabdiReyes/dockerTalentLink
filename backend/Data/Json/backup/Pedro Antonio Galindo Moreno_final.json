@@ -1,0 +1,69 @@
+{
+  "contact": {
+    "name": "Pedro Antonio Galindo Moreno",
+    "linkedin": "www.linkedin.com/in/galindomx",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniero en Sistemas Computacionales",
+  "title": null,
+  "skills": [
+    "Linux",
+    "macOS Server",
+    "Ingeniería de servicio postventa"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Grupo Chedraui",
+      "position": "Supervisor de Transportes",
+      "duration": "septiembre de 2018 - noviembre de 2023",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Achto SA de CV",
+      "position": "Ingeniero de soporte",
+      "duration": "marzo de 2018 - agosto de 2018",
+      "location": "Boca del Río, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "SERCOM SA DE CV",
+      "position": "Ingeniero de soporte",
+      "duration": "noviembre de 2017 - febrero de 2018",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "TRANSPORTES HGC, S.A. DE C.V.",
+      "position": "Administrativo de logística",
+      "duration": "agosto de 2012 - septiembre de 2017",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Comisión Federal de Electricidad",
+      "position": "Becario de TI",
+      "duration": "agosto de 2011 - agosto de 2012",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Jean Piaget",
+      "degree": "Ingeniero en Sistemas Computacionales",
+      "duration": "agosto de 2007 - junio de 2011"
+    },
+    {
+      "institution": "Colegio de Bachilleres del Estado de Veracruz (COBAEV)",
+      "degree": "Formación Profesional de Grado Medio",
+      "duration": "agosto de 2004 - julio de 2007"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "contact": {
+    "name": "Luis Lopez",
+    "linkedin": "www.linkedin.com/in/luis-lopez-88b209a",
+    "website": null,
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "company": "PSI Software"
+  },
+  "profile": "Delivering Solutions for Production Management for Metals producers",
+  "title": null,
+  "skills": [
+    "Oracle",
+    "PL/SQL",
+    "Business Intelligence"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "PSI Software - Process Industries & Metals",
+      "position": "MES Solutions Expert",
+      "duration": "September 2021 - Present",
+      "location": "Pittsburgh, Pennsylvania, United States"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Applications Manager",
+      "duration": "December 2018 - August 2021",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Project Leader",
+      "duration": "March 2016 - December 2018",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Applications Analyst",
+      "duration": "December 2010 - February 2016",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "Manpower",
+      "position": "Analista Sr.",
+      "duration": "August 2001 - August 2010",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Systems Engineering, Information Technology",
+      "duration": "1996 - 2001"
+    },
+    {
+      "institution": "Universidad Cristóbal Colón",
+      "degree": "Master of Business Administration - MBA, Finance, General",
+      "duration": "2003 - 2005"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

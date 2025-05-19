@@ -1,0 +1,115 @@
+{
+  "contact": {
+    "name": "Emilio Mendoza Chaparro",
+    "linkedin": "www.linkedin.com/in/emiliomendozachaparro",
+    "website": null,
+    "location": "Zapopan, Jalisco, México",
+    "company": "Amdocs"
+  },
+  "profile": "As a seasoned Oracle DBA with 17+ years of experience, I'm passionate about managing large-scale Oracle databases and ensuring their high availability, performance, and security. My tech stack includes Oracle Database 11g, 12c, and 19c, as well as Oracle Enterprise Manager, RAC, Data Guard, and GoldenGate. I'm a pro at SQL and PL/SQL, performance tuning, backup and recovery, and security management, and I'm always exploring new ways to optimize database performance.",
+  "title": "DB Specialist",
+  "skills": [
+    "Oracle Database Administration",
+    "SQL",
+    "PL/SQL",
+    "Performance Tuning",
+    "Backup and Recovery",
+    "Shell Scripting"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Amdocs",
+      "position": "DB Specialist",
+      "duration": "mayo de 2020 - Present",
+      "location": "Zapopan, Jalisco, México"
+    },
+    {
+      "company": "Global Hitss",
+      "position": "Application DBA",
+      "duration": "octubre de 2015 - enero de 2020",
+      "location": "Zapopan y alrededores, México"
+    },
+    {
+      "company": "Oracle",
+      "position": "Service Delivery Engineer",
+      "duration": "octubre de 2012 - agosto de 2015",
+      "location": "Guadalajara, Jal"
+    },
+    {
+      "company": "BA Continuum Mexico Administracion S. de R.L. de C.V.",
+      "position": "DATABASE ADMIN CNSLT-CAPMKT",
+      "duration": "mayo de 2010 - octubre de 2012",
+      "location": "Tlaquepaque y alrededores, México"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Oracle DBA",
+      "duration": "octubre de 2009 - abril de 2010",
+      "location": "Zapopan y alrededores, México"
+    },
+    {
+      "company": "Hewlett-Packard Mexico S. de R.L. de C.V.",
+      "position": "SQL and Oracle DBA",
+      "duration": "septiembre de 2008 - octubre de 2009",
+      "location": "Querétaro y alrededores, México"
+    },
+    {
+      "company": "HP CDS",
+      "position": "Administrador de bases de datos DBA",
+      "duration": "abril de 2007 - septiembre de 2008",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Tech support",
+      "duration": "octubre de 2006 - abril de 2007",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "GE Capital",
+      "position": "Help Desk Support Specialist",
+      "duration": "junio de 2001 - diciembre de 2005",
+      "location": "Bellevue, WA"
+    },
+    {
+      "company": "Corning Cable Systems",
+      "position": "Production lines supervisor",
+      "duration": "mayo de 2000 - mayo de 2001",
+      "location": "Reynosa y alrededores, México"
+    },
+    {
+      "company": "ITVer - Instituto Tecnológico de Veracruz",
+      "position": "Tech support",
+      "duration": "mayo de 1998 - mayo de 2000",
+      "location": "Veracruz y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Licenciatura en sistemas computacionales, Base de datos",
+      "duration": "1995 - 1999"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "SQL Server: Servicios de integración esencial",
+      "Aprende Photoshop para empresas",
+      "MySQL esencial",
+      "Oracle Database 11g Security",
+      "Certified Implementation Specialist",
+      "Fundamentos de big data: Técnicas y conceptos"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "I'm a skilled communicator and a great team player who thrives in fast-paced environments. I also love automating database maintenance tasks using shell scripting and Oracle Enterprise Manager."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "contact": {
+    "name": "Paulina Gutierrez",
+    "linkedin": "www.linkedin.com/in/paulina-gutierrez-688053a8",
+    "website": null,
+    "location": "Veracruz, Mexico",
+    "company": "Tecnológico Nacional de México (TecNM)"
+  },
+  "profile": "Program Coordinator at Tecnológico Nacional de México (TecNM) with extensive experience in education and project coordination.",
+  "title": "Program Coordinator",
+  "skills": [
+    "Matlab",
+    "Mathematics",
+    "Mathematical Modeling"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "French",
+      "proficiency": "Limited Working"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "IEEE",
+      "position": "Consejera Rama estudiantil IEEE",
+      "duration": "October 2021 - Present",
+      "location": "Mexico"
+    },
+    {
+      "company": "Tecnológico Nacional de México (TecNM)",
+      "position": "Program Coordinator",
+      "duration": "February 2021 - Present",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "Tecnológico Nacional de México (TecNM)",
+      "position": "Coordinator MEXFITEC",
+      "duration": "January 2020 - Present",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "Tecnológico Nacional de México (TecNM)",
+      "position": "Teacher",
+      "duration": "January 2017 - Present",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "NASA HERC 2022",
+      "position": "Counselor of the 'TECNM Explorers' team",
+      "duration": "September 2021 - May 2022",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Veracruzana",
+      "degree": "Doctor's Degree, Ingeniería Aplicada",
+      "duration": "August 2022 - August 2026"
+    },
+    {
+      "institution": "Tecnológico Nacional de México campus CENIDET",
+      "degree": "Master’s Degree, Automatic Control",
+      "duration": "2015 - 2017"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Bachelor’s Degree, Mechatronics Engineering",
+      "duration": "2009 - 2014"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": [
+      "Implementation of a fault tolerant system for the internal combustion engine’s MAF sensor"
+    ]
+  },
+  "others": {
+    "additional_information": null
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "contact": {
+    "name": "Rafael Rivera López",
+    "linkedin": "www.linkedin.com/in/rafael-rivera-lópez-465712220",
+    "website": "www.rafaelriveralopez.net/",
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": "Instituto Tecnológico De Veracruz"
+  },
+  "profile": "Profesor investigador en Instituto Tecnológico De Veracruz con más de 10 artículos publicados en revistas indexadas JCR Q1. Miembro del Sistema Nacional de Investigadores de Conacyt, nivel 1, y de la Red Temática Conacyt de Aprendizaje e Inteligencia Computacional Aplicada.",
+  "title": "Profesor Investigador",
+  "skills": [
+    "Educación",
+    "Investigación científica",
+    "Divulgación científica"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Instituto Tecnológico De Veracruz",
+      "position": "Profesor investigador",
+      "duration": "septiembre de 1992 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Notaria Pública No. 28",
+      "position": "Analista y Soporte Técnico",
+      "duration": "junio de 1993 - septiembre de 1998",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Grupo Net, S.A. de C.V.",
+      "position": "Analista de sistemas de información",
+      "duration": "febrero de 1991 - junio de 1993",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "TF de México, S.A. de C.V.",
+      "position": "Analista de sistemas de información",
+      "duration": "julio de 1989 - febrero de 1991",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Juárez Autónoma de Tabasco",
+      "degree": "Doctor en Ciencias de la Computación",
+      "duration": "agosto de 2014 - febrero de 2018"
+    },
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Maestro en Ciencias de la Computación",
+      "duration": "enero de 1999 - mayo de 2000"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales",
+      "duration": "agosto de 1985 - julio de 1989"
+    },
+    {
+      "institution": "CBTis 78",
+      "degree": "Certificado de Bachillerato Tecnológico",
+      "duration": "septiembre de 1981 - julio de 1984"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Reproducible Research",
+      "Regression Models",
+      "Investigador SNI Nivel 1",
+      "Getting and Cleaning Data",
+      "Statistical Inference"
+    ],
+    "awards_honors": [],
+    "publications": [
+      "Más de 10 artículos en revistas indexadas JCR Q1"
+    ]
+  },
+  "others": {
+    "additional_information": "Intereses de investigación incluyen el estudio y aplicación de metaheurísticas para resolver problemas complejos y el diseño de modelos orientados a objetos para implementar procedimientos de machine learning."
+  }
+}

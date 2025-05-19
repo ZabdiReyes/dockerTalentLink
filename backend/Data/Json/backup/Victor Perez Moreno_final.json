@@ -1,0 +1,106 @@
+{
+  "contact": {
+    "name": "Victor Perez Moreno",
+    "linkedin": "https://www.linkedin.com/in/victor-perez-moreno-b284a55",
+    "website": null,
+    "location": "Sterling, Virginia, United States",
+    "company": "The National Institutes of Health"
+  },
+  "profile": "Net developer with experience in translating business needs into technical requirements, ability to implement enterprise level application architecture using ASP.Net MVC, manipulate the DOM using jQuery/JavaScript and model/create databases using SQL Server 2016. Very good understanding of Software Development Life Cycle and the ability to elicit requirements.",
+  "title": ".NET Developer",
+  "skills": [
+    "ASP.Net",
+    "MVC",
+    "CSS 3",
+    "HTML 5",
+    "Bootstrap",
+    "OOP",
+    "JavaScript",
+    "jQuery",
+    "Ajax",
+    "JSON",
+    "C#",
+    "SQL Server 2016",
+    "GitHub",
+    "Azure DevOps",
+    "Log4Net"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Portuguese",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "The National Institutes of Health",
+      "position": ".Net Developer",
+      "duration": "September 2019 - Present",
+      "location": "Bethesda, Maryland, United States"
+    },
+    {
+      "company": "Sunrise Landscape, Inc",
+      "position": ".NET Developer",
+      "duration": "October 2018 - May 2019",
+      "location": "Sterling, VA"
+    },
+    {
+      "company": "Hair By Yeon Inc",
+      "position": ".Net Developer",
+      "duration": "August 2017 - September 2018",
+      "location": "Chantilly, VA"
+    },
+    {
+      "company": "Widelity, Inc.",
+      "position": "Business Analyst",
+      "duration": "January 2017 - July 2017",
+      "location": "Fairfax, VA"
+    },
+    {
+      "company": "Nexius",
+      "position": "Business Analyst",
+      "duration": "July 2011 - April 2016",
+      "location": "Reston, VA"
+    },
+    {
+      "company": "Universidad CEUNICO",
+      "position": ".Net Developer",
+      "duration": "August 2009 - June 2011",
+      "location": "Coatzacoalcos Area, Mexico"
+    },
+    {
+      "company": "State Street",
+      "position": "Investment Operations Analyst",
+      "duration": "2008 - 2008",
+      "location": "Greater Boston Area"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harvest America Co.",
+      "degree": "English language",
+      "duration": "2003 - 2004"
+    },
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Bachelor's Degree, Computer Systems Engineering",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Access the project code for TruckCheckUp at https://github.com/victorperezmoreno/TruckCheckUp and for ApmtSite at https://github.com/victorperezmoreno/ApmtSite."
+  }
+}

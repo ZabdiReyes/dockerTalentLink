@@ -1,0 +1,76 @@
+{
+  "contact": {
+    "name": "Cinthia Raquel García Piñon",
+    "linkedin": "https://www.linkedin.com/in/cinthia-raquel-garcía-piñon-29a478b4",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "GRUMA"
+  },
+  "profile": "Arquitecto de aplicaciones SAP FICO con experiencia en implementación y auditoría de procesos.",
+  "title": "Arquitecto de aplicaciones SAP FICO",
+  "skills": [
+    "Programacion de SDK para SAP BO",
+    "Dominio de SAP para consultoria",
+    "Desarrollo del módulo de la contabilidad Electrónica"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "GRUMA",
+      "position": "Arquitecto de soluciones Fico",
+      "duration": "2019 - Present",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Ca,Sa Aquaboutique",
+      "position": "Gerente de sistemas y auditoria de procesos",
+      "duration": "octubre de 2017 - diciembre de 2018",
+      "location": "calzada del valle, san pedro"
+    },
+    {
+      "company": "Independiente",
+      "position": "Consultor de implementación SAP",
+      "duration": "enero de 2014 - diciembre de 2018",
+      "location": null
+    },
+    {
+      "company": "GK CORPORATIVO S.C.",
+      "position": "Proyectos de Aplicaciones Empresariales",
+      "duration": "enero de 2015 - mayo de 2017",
+      "location": "Veracruz, Boca del Río"
+    },
+    {
+      "company": "GK CORPORATIVO S.C.",
+      "position": "Proyectos de Aplicaciones Empresariales",
+      "duration": "enero de 2013 - diciembre de 2014",
+      "location": null
+    },
+    {
+      "company": "Roosvelt",
+      "position": "Docente",
+      "duration": "mayo de 2011 - mayo de 2013",
+      "location": null
+    },
+    {
+      "company": "tiburon software, s.a. de c.v.",
+      "position": "Consultora SAP BO",
+      "duration": "enero de 2012 - enero de 2013",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ing. Sistemas Computacionales, Base de datos",
+      "duration": "2001 - 2006"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

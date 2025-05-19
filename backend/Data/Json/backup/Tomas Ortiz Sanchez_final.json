@@ -1,0 +1,70 @@
+{
+  "contact": {
+    "name": "Tomas Ortiz Sanchez",
+    "linkedin": "www.linkedin.com/in/tomas-ortiz-sanchez-97930920",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "TenarisTamsa"
+  },
+  "profile": "Project Leader with extensive experience in Information Technology and Business Analysis.",
+  "title": "Project Leader",
+  "skills": [
+    "Project Management",
+    "Business Analysis"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": null
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "TenarisTamsa",
+      "position": "Project Leader",
+      "duration": "2015 - Present",
+      "location": null
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Information Technology Business Analyst",
+      "duration": "julio de 2008 - junio de 2015",
+      "location": null
+    },
+    {
+      "company": "Manpower",
+      "position": "Analista Programador",
+      "duration": "diciembre de 2005 - julio de 2008",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Popular Autónoma de Veracruz",
+      "degree": "Licenciatura, Idioma Ingles",
+      "duration": "(2019)"
+    },
+    {
+      "institution": "Universidad Villa Rica",
+      "degree": "Master's degree, Business Administration and Management, General",
+      "duration": "(2007 - 2009)"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero, Ingeniería en Sistemas Computacionales",
+      "duration": "(2001 - 2005)"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

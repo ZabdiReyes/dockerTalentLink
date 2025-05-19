@@ -1,0 +1,80 @@
+{
+  "contact": {
+    "name": "Alfredo Morales",
+    "linkedin": "www.linkedin.com/in/alfredo-morales-3ab92312",
+    "website": "www.planeaciondidactica.sems.gob.mx",
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "CBTIS 190"
+  },
+  "profile": "Docente de medio tiempo en preparatoria. Desarrollador Full Stack (Laravel Backend y Vue Frontend).",
+  "title": "Docente Informática. Desarrollador Full-Stack",
+  "skills": [
+    "Vue 3",
+    "Tailwind",
+    "Bootstrap"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "CBTIS 190",
+      "position": "Profesor",
+      "duration": "agosto de 2015 - Present (9 años 7 meses)",
+      "location": "Boca del Rio"
+    },
+    {
+      "company": "Azit developers",
+      "position": "Desarrollador full stack Laravel-Vue",
+      "duration": "enero de 2022 - julio de 2022 (7 meses)"
+    },
+    {
+      "company": "Manpower Industrial",
+      "position": "Analista Programador A",
+      "duration": "septiembre de 2012 - septiembre de 2015 (3 años 1 mes)"
+    },
+    {
+      "company": "Tesis Automation & IT",
+      "position": "Analista Sr",
+      "duration": "enero de 2012 - agosto de 2012 (8 meses)"
+    },
+    {
+      "company": "Corporativo Enciso",
+      "position": "Gerente de Sistemas",
+      "duration": "agosto de 2009 - enero de 2012 (2 años 6 meses)"
+    },
+    {
+      "company": "Redes y Consultoría al Comercio Exterior",
+      "position": "Programador C#",
+      "duration": "julio de 2007 - marzo de 2009 (1 año 9 meses)"
+    },
+    {
+      "company": "Registro Civil de Veracruz",
+      "position": "Encargado de Sistemas",
+      "duration": "agosto de 2006 - julio de 2007 (1 año)"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales, Bases de Datos",
+      "duration": "2001 - 2006"
+    },
+    {
+      "institution": "IEU Universidad",
+      "degree": "Maestría, Ciencias de la Educación",
+      "duration": ""
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Experiencia desde 2007 como desarrollador y analista de sistemas."
+  }
+}

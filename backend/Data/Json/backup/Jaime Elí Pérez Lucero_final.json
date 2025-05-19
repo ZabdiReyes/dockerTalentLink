@@ -1,0 +1,70 @@
+{
+  "contact": {
+    "name": "Jaime Elí Pérez Lucero",
+    "linkedin": "https://www.linkedin.com/in/jaimeeliperezlucero",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "CORPORACIÓN INTEGRAL DE COMERCIO EXTERIOR S.A. DE C.V."
+  },
+  "profile": "Desarrollador de Sistemas con Bases de Datos y Analista de Sistemas.",
+  "title": "DBA & SysAdmin EBS",
+  "skills": [
+    "C#",
+    "Oracle PL/SQL",
+    "PL/pgSql",
+    "Oracle Forms & Reports",
+    "Oracle Application Express",
+    "Java",
+    "PHP",
+    "PostgreSQL",
+    "Oracle"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "CORPORACIÓN INTEGRAL DE COMERCIO EXTERIOR S.A. DE C.V.",
+      "position": "DBA & SysAdmin EBS",
+      "duration": "julio de 2014 - Present (10 años 8 meses)",
+      "location": null
+    },
+    {
+      "company": "CORPORACIÓN INTEGRAL DE COMERCIO EXTERIOR S.A. DE C.V.",
+      "position": "DBA Jr.",
+      "duration": "mayo de 2012 - julio de 2014 (2 años 3 meses)",
+      "location": null
+    },
+    {
+      "company": "CORPORACIÓN INTEGRAL DE COMERCIO EXTERIOR S.A. DE C.V.",
+      "position": "Especialista EBS",
+      "duration": "mayo de 2011 - mayo de 2013 (2 años 1 mes)",
+      "location": null
+    },
+    {
+      "company": "CORPORACIÓN INTEGRAL DE COMERCIO EXTERIOR S.A. DE C.V.",
+      "position": "Ingeniero de Desarrollo",
+      "duration": "diciembre de 2007 - mayo de 2011 (3 años 6 meses)",
+      "location": null
+    },
+    {
+      "company": "SiFinSA S.A. de C.V.",
+      "position": "Desarrollador Web",
+      "duration": "junio de 2007 - noviembre de 2007 (6 meses)",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITVer",
+      "degree": "I.S.C., Computación, Ingeniería",
+      "duration": "2001 - 2006"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Actividades de Mantenimiento Preventivo y Correctivo, Respaldos, Clonado RAC to Single de EBS R12, Clonado RAC to RAC de EBS R12."
+  }
+}

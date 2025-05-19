@@ -1,0 +1,94 @@
+{
+  "contact": {
+    "name": "José Antonio Pascual Herrera",
+    "linkedin": "www.linkedin.com/in/jantonio-pascual",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "AutoZone"
+  },
+  "profile": "Desarrollador Web con 10 años de experiencia en tecnologías de software Libre. Me he desempeñado como tal tanto en el sector público como privado. Así también me he dedicado al mantenimiento preventivo y correctivo de equipos de cómputo, así como soporte y asistencia técnica presencial ó vía remota.",
+  "title": "Desarrollador Web",
+  "skills": [
+    "PHP",
+    "Laravel",
+    "ASP.NET",
+    "Java",
+    "JSP",
+    "Bootstrap",
+    "Wordpress",
+    "jQuery"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "AutoZone Business and Technology Store Support Center",
+      "position": "Desarrollador de PHP",
+      "duration": "junio de 2021 - Present",
+      "location": "Monterrey, Nuevo León, México"
+    },
+    {
+      "company": "Profesional independiente",
+      "position": "Desarrollo web",
+      "duration": "mayo de 2020 - junio de 2021",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "DEUX Estudio de Inteligencia y Creatividad",
+      "position": "Desarrollador web",
+      "duration": "enero de 2019 - mayo de 2020",
+      "location": null
+    },
+    {
+      "company": "Profesional independiente",
+      "position": "Desarrollador de aplicaciones",
+      "duration": "octubre de 2018 - diciembre de 2018",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "TONY Tiendas S.A. de C.V",
+      "position": "Programador de .NET y PHP",
+      "duration": "mayo de 2017 - septiembre de 2018",
+      "location": "Boca del Río, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Profesional independiente",
+      "position": "Desarrollador de sistemas",
+      "duration": "enero de 2015 - mayo de 2017",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Relojes Checadores Timeman",
+      "position": "Supervisor de TI",
+      "duration": "enero de 2010 - enero de 2015",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Sinergia Corporativa",
+      "position": "Desarrollador de aplicaciones",
+      "duration": "enero de 2009 - enero de 2010",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EDteam",
+      "degree": "Javascript desde cero, Tecnología de la información",
+      "duration": "marzo de 2023 - diciembre de 2029"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Licenciatura, Ingeniería de sistemas",
+      "duration": "2003 - 2008"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Certificación en normas de calidad MoProSoft"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Manejo de Wordpress y Bootstrap en un nivel más avanzado."
+  }
+}

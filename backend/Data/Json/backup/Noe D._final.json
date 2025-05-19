@@ -1,0 +1,108 @@
+{
+  "contact": {
+    "name": "Noe D.",
+    "linkedin": "https://www.linkedin.com/in/ndarteaga",
+    "website": null,
+    "location": "Monterrey, Nuevo León, Mexico",
+    "company": "Grupo AlEn"
+  },
+  "profile": "Bilingual executive with +23 years of career achieving operational excellence and innovation within global companies, through the direction of strategies and projects focused on building and implementing IT tools aligned with market trends and allowing to maximize operations, sales and administration of organization resources. Pioneer in leading strategic plans to build and implement AI based operating models to drive value from business processes, services and products.",
+  "title": "Head of IT Transformation + AI Project Manager",
+  "skills": [
+    "ERP",
+    "Service Desk",
+    "#Net",
+    "Oracle Software",
+    "Hardware vendors: HP, SUN, IBM and DELL",
+    "Operating systems: Solaris, HP-UX, Linux, Windows and AIX",
+    "Databases: Oracle, Progress and SQL Server",
+    "Applications Server: Oracle (9i y 10g), Weblogic, Websphere, Progress, Microsoft (IIS) Web Server: Apache, Microsoft (IIS), SUN",
+    "Middleware: Progress SONIC, Oracle ESB, Oracle BPM",
+    "Applications: SAP (FI-CO, MM, HR), Oracle Siebel CRM, Legacy running on Progress"
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "proficiency": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Grupo AlEn",
+      "position": "Head of IT Transformation + AI Project Manager",
+      "duration": "2019 - Present",
+      "location": "Santa Catarina, Nuevo Leon, Mexico"
+    },
+    {
+      "company": "Farmacias del Ahorro",
+      "position": "Architect & Innovation IT Senior Manager",
+      "duration": "2016 - 2018",
+      "location": "San Pedro, Garza Garcia, Nuevo Leon"
+    },
+    {
+      "company": "Enterprise Architect Senior Manager",
+      "position": "November 2013 - November 2016",
+      "duration": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "BEI IT Consulting",
+      "position": "IT Architect Manager",
+      "duration": "November 2010 - November 2013",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "Tecnológico de Monterrey",
+      "position": "IT Infrastructure Manager",
+      "duration": "May 2010 - January 2011",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "Multimedios Redes",
+      "position": "IT Architect Manager",
+      "duration": "January 2006 - February 2010",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "TELUM La Red De Alto Desempeño",
+      "position": "Project Manager | Application Administrator",
+      "duration": "April 2001 - December 2004",
+      "location": "Monterrey Area, Mexico"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Master of Science in Intelligent Systems",
+      "duration": null
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Bachelor of Science in Computer Science",
+      "duration": "1994 - 1998"
+    },
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Master of Science in Information Technology",
+      "duration": null
+    },
+    {
+      "institution": "ICAMI Formación de Perfeccionamiento",
+      "degree": "Developing Leaders",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Understanding Google Cloud",
+      "Security and Operations",
+      "Digital Transformation with Google Cloud",
+      "Professional Scrum Master™ I (PSM I)",
+      "Cultivating a Growth Mindset"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Top Skills: Leadership and Goal Setting, IT Management, ITIL"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Cristina Palacios Rodríguez",
+    "linkedin": "www.linkedin.com/in/cristinapalrod8",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniero en Sistemas Computacionales apasionada por la programación y el aprendizaje constante. A lo largo de mi trayectoria, he tenido el privilegio de trabajar en proyectos desafiantes que han perfeccionado mis habilidades en el diseño y la implementación de código limpio y eficiente, generando experiencias web excepcionales.",
+  "title": "Ingeniero de Software | Desarrollador Full Stack",
+  "skills": [
+    "Programación orientada a objetos (POO)",
+    "Programación en C",
+    "Capacidad de análisis"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Tesis IT & Automation México",
+      "position": "Desarrollador Nivel 2",
+      "duration": "marzo de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Welldex Logistics",
+      "position": "Desarrollador web",
+      "duration": "junio de 2023 - marzo de 2024",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería, Ingeniería de sistemas",
+      "duration": "agosto de 2019 - enero de 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Actualmente, me encuentro activamente en la búsqueda de nuevas oportunidades profesionales. Mi objetivo es no solo aplicar las habilidades que he adquirido, sino también desarrollar competencias adicionales fuera de mi zona de confort. Con la perspectiva de enfrentar nuevos desafíos y aprender tecnologías emergentes."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "contact": {
+    "name": "Eirud Juárez Cruz",
+    "linkedin": "https://www.linkedin.com/in/eirudjcpmba",
+    "website": null,
+    "location": "Monterrey, Nuevo León, México",
+    "company": null
+  },
+  "profile": "24 años en consultoría de proyectos IT y desarrollo de tecnología, en empresas de diferentes sectores: Retail, Telecomunicaciones, Transporte, Banca, Metalúrgica, Salud, Educación. He participado en su transformación tecnológica, mediante la Gestión de Proyectos Predictivos y Agiles, como PM o con el rol de Scrum Master.",
+  "title": "PMP® | Scrum Master | BA",
+  "skills": [
+    "Trabajo en equipo",
+    "Project Management Body of Knowledge (PMBOK)",
+    "Metodologías Agile y Waterfall"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Limited Working"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Amauta Consulting",
+      "position": "Project Manager y Scrum Master",
+      "duration": "abril de 2014 - abril de 2021",
+      "location": null
+    },
+    {
+      "company": "Softnet Soluciones SA de CV",
+      "position": "Business Analyst Sr.",
+      "duration": "julio de 2013 - abril de 2014",
+      "location": null
+    },
+    {
+      "company": "Axtel",
+      "position": "Business Analyst Sr. & Arquitecto",
+      "duration": "julio de 2008 - junio de 2013",
+      "location": null
+    },
+    {
+      "company": "TAE-TOWA",
+      "position": "PM & Business Analyst",
+      "duration": "enero de 2005 - junio de 2008",
+      "location": null
+    },
+    {
+      "company": "CFE-GCN Central Nucleoeléctrica Laguna Verde",
+      "position": "Analista Sistema y Procesos",
+      "duration": "julio de 2000 - diciembre de 2004",
+      "location": "Carretera Cardel-Nautla Km. 42.5, 91476 Laguna Verde, Ver. México"
+    },
+    {
+      "company": "CFE - GCN Dos Bocas",
+      "position": "Analista Programador",
+      "duration": "enero de 1997 - junio de 2000",
+      "location": "km. 7.5, Carretera Veracruz - Medellin, Dos Bocas, 94272 Medellín de Bravo, Ver."
+    }
+  ],
+  "education": [
+    {
+      "institution": "INSTITUTO TECNOLÓGICO DE VERACRUZ",
+      "degree": "Ingeniería, Ingeniero En Sistemas Computacionales",
+      "duration": "1992 - 1997"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Cómo y por qué desarrollar una mentalidad de aprendizaje continuo",
+      "Fundamentos de la negociación",
+      "Habilidades de coaching para líderes y gerentes",
+      "CRASH COURSE ON RISK IDENTIFICATION",
+      "Agilidad estratégica"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Experiencia en la administración de proyectos presenciales o remotos. Facilitador entre las áreas de Negocio y TI. Habilidades de comunicación y negociación con interesados del proyecto. Liderazgo y trabajo en equipo. Me gusta aprender (Autoestudio) y compartir lo aprendido."
+  }
+}

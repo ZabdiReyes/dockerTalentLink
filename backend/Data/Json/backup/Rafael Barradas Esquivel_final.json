@@ -1,0 +1,70 @@
+{
+  "contact": {
+    "name": "Rafael Barradas Esquivel",
+    "linkedin": "www.linkedin.com/in/rafael-barradas-esquivel-6133202b",
+    "website": null,
+    "location": "Seattle, Washington, Estados Unidos",
+    "company": "Globant in Walt Disney Parks and Resorts Online"
+  },
+  "profile": "Rafael is an Android Technical Lead. He has been working in the development of android mobile applications for the last 9 years, using best practices, standards, agile methodologies, design patterns and participating in all software development life-cycle.",
+  "title": "Android Technical Lead",
+  "skills": [
+    "Android SDK",
+    "Java",
+    "JavaScript"
+  ],
+  "languages": [
+    {
+      "language": "Inglés medieval",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Globant in Walt Disney Parks and Resorts Online",
+      "position": "Android Developer",
+      "duration": "marzo de 2014 - Present",
+      "location": null
+    },
+    {
+      "company": "Centro de Apoyo al Microempresario CAME",
+      "position": "Desarrollador Android Senior",
+      "duration": "abril de 2013 - febrero de 2014",
+      "location": null
+    },
+    {
+      "company": "iSystems",
+      "position": "Desarrollador Java - Mobile",
+      "duration": "abril de 2010 - abril de 2013",
+      "location": "Montecito 38 Psio 8 Oficina 8"
+    },
+    {
+      "company": "Develop Talent & Technology",
+      "position": "Asesor Java",
+      "duration": "febrero de 2012 - julio de 2012",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales",
+      "duration": "2006 - 2011"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Sun Certified Java Programmer",
+      "Sun Certified Web Component Developer"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

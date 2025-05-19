@@ -1,0 +1,122 @@
+{
+  "contact": {
+    "name": "Alfredo Marin Chiquet",
+    "linkedin": "www.linkedin.com/in/alfredo-marin-chiquet",
+    "website": null,
+    "location": "Canada",
+    "company": null
+  },
+  "profile": "SAP Senior Consultant with over eleven years of functional and technical experience for Utilities, Manufacturing, Mining and Poultry industries. Wide breath of knowledge in SAP customizing, development and modules integration. Strong background designing and deploying integrated solutions with SAP. Able to translate business objectives into clear functional and technical requirements.",
+  "title": "SAP ISU Consultant",
+  "skills": [
+    "SAP IS-U Device Management",
+    "SAP IS-U Work Management",
+    "SAP IS-U Customer Service",
+    "SAP Material Management",
+    "SAP Production Planning and Control",
+    "SAP Plant Maintenance"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": null
+    },
+    {
+      "language": "English",
+      "proficiency": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "BC Hydro",
+      "position": "SAP ISU Consultant",
+      "duration": "February 2017 - Present",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company": "BACAB Consulting Inc",
+      "position": "Director",
+      "duration": "September 2016 - Present",
+      "location": null
+    },
+    {
+      "company": "Capital Regional District",
+      "position": "SAP ISU Consultant",
+      "duration": "October 2017 - July 2018",
+      "location": "Victoria, BC"
+    },
+    {
+      "company": "Puget Sound Energy",
+      "position": "SAP ISU Consultant at PSE",
+      "duration": "September 2016 - January 2017",
+      "location": "Bellevue, WA"
+    },
+    {
+      "company": "Ouest Business Solutions Inc.",
+      "position": "SAP Consultant at BC Hydro",
+      "duration": "December 2015 - September 2016",
+      "location": null
+    },
+    {
+      "company": "BC Hydro",
+      "position": "SAP Consultant",
+      "duration": "January 2013 - September 2016",
+      "location": null
+    },
+    {
+      "company": "BC Hydro",
+      "position": "SAP Consultant",
+      "duration": "January 2011 - March 2016",
+      "location": null
+    },
+    {
+      "company": "BC Hydro",
+      "position": "SAP Consultant",
+      "duration": "August 2010 - December 2010",
+      "location": null
+    },
+    {
+      "company": "Goldcorp Inc.",
+      "position": "SAP Consultant",
+      "duration": "May 2010 - July 2010",
+      "location": null
+    },
+    {
+      "company": "Oce Display Graphics Systems",
+      "position": "SAP Specialist",
+      "duration": "October 2008 - April 2010",
+      "location": null
+    },
+    {
+      "company": "Accenture / BC Hydro",
+      "position": "SAP Technical Analyst",
+      "duration": "May 2006 - September 2008",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "degree": "Master's degree, Computer Science",
+      "duration": "1998 - 2001"
+    },
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Bachelor's degree, Computer Technology/Computer Systems Technology",
+      "duration": "1989 - 1993"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "SAP Certified Application Associate – SAP Service Cloud 1805",
+      "SAP Certified Development Associate",
+      "SAP Certified Associate - Utilities with SAP ERP 6.0",
+      "SAP Certified Associate - CRM with SAP CRM 7.0 EhP2"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "contact": {
+    "name": "Ramiro Sandoval Campos",
+    "linkedin": "www.linkedin.com/in/ramiro-sandoval-campos-6279b066",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniero en Sistemas Computacionales con experiencia en análisis y programación en diversas plataformas y lenguajes.",
+  "title": "Ingeniero en Sistemas Computacionales",
+  "skills": [
+    "Visual Basic",
+    "Visual Studio",
+    "C#"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "NTT DATA",
+      "position": "Analista sénior",
+      "duration": "octubre de 2021 - Present",
+      "location": null
+    },
+    {
+      "company": "Allware Solutions",
+      "position": "Analista sénior",
+      "duration": "marzo de 2017 - octubre de 2021",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "ManpowerGroup",
+      "position": "Analista Programador",
+      "duration": "2009 - marzo de 2017",
+      "location": null
+    },
+    {
+      "company": "ETESA",
+      "position": "Programador Analista",
+      "duration": "julio de 2008 - febrero de 2010",
+      "location": null
+    },
+    {
+      "company": "Servicios Integrados en Tecnologias de Información",
+      "position": "Ingeniero de Automatización",
+      "duration": "mayo de 2006 - junio de 2008",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales, Base de Datos",
+      "duration": "2001 - 2005"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

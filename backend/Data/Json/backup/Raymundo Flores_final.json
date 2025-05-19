@@ -1,0 +1,103 @@
+{
+  "contact": {
+    "name": "Raymundo Flores",
+    "linkedin": "www.linkedin.com/in/raymundo-flores-85b08021",
+    "website": "www.raymundoflores.com",
+    "location": "Flower Mound, Texas, United States",
+    "company": "RS Americas"
+  },
+  "profile": "Highly experienced SAP Development and Basis Manager with a proven track record in leading and coordinating multicultural teams globally. Bringing over 15 years of management expertise and 24 years of IT industry experience, with a strong focus on software development, implementation, and SAP systems.",
+  "title": "Technical Applications & Services Manager | Sr. SAP ABAP Certified Developer",
+  "skills": [
+    "SAP ABAP Development",
+    "Project Management",
+    "Vendor Management",
+    "Software Development"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "RS Americas",
+      "position": "Technical Applications & Services Manager",
+      "duration": "February 2022 - Present",
+      "location": "Dallas-Fort Worth Metroplex"
+    },
+    {
+      "company": "Allied Electronics & Automation",
+      "position": "Sr. SAP ABAP Developer",
+      "duration": "February 2021 - February 2022",
+      "location": "Fort Worth, Texas, United States"
+    },
+    {
+      "company": "PrimeSource Building Products",
+      "position": "SAP ABAP Developer",
+      "duration": "June 2016 - February 2021",
+      "location": "Irving, TX"
+    },
+    {
+      "company": "IDHASOFT",
+      "position": "Sr. SAP ABAP Analyst and Workflow Developer",
+      "duration": "October 2011 - April 2016",
+      "location": "Houston, TX"
+    },
+    {
+      "company": "Johnson Controls",
+      "position": "SAP ABAP & Basis Team Leader",
+      "duration": "August 2010 - November 2011",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "Kansas City Southern de México",
+      "position": "ABAP Development Lead and Workflow Specialist",
+      "duration": "January 2008 - August 2010",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "Team Solutions",
+      "position": "ABAP Certified Consultor and SAP ABAP Trainer",
+      "duration": "May 2005 - December 2007",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Tecnológico de Monterrey",
+      "position": "Development Team lead and software ergonomic specialist, Developer",
+      "duration": "November 1999 - May 2005",
+      "location": "Monterrey Area, Mexico"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "MTI, Management, Computer systems",
+      "duration": "2000 - 2002"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Bachelor as Engineer in Computer Systems",
+      "duration": "1994 - 1999"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Six Sigma Green Belt (CSSGB)",
+      "SAP Workflow developer",
+      "SAP Web Dynpro developer",
+      "SAP ABAP Developer Certification",
+      "SAP FI Certifications"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Bilingual in English and Spanish, enhancing communication and collaboration across diverse teams."
+  }
+}

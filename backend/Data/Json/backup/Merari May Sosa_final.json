@@ -1,0 +1,69 @@
+{
+  "contact": {
+    "name": "Merari May Sosa",
+    "linkedin": "www.linkedin.com/in/merari-may-sosa-a14402211",
+    "website": null,
+    "location": "Boca del Río, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Amante de los retos y entusiasta de la tecnología. Me he adentrado en el desarrollo de software para aplicativos web y móviles, el diseño de interfaces de usuario, el procesamiento natural del lenguaje (NLP) y actualmente en la aplicación de la IA en la automatización de procesos en la industria.",
+  "title": "ISIC | AI Developer | LLM Engineer",
+  "skills": [
+    "RAG",
+    "Inteligencia artificial",
+    "programación"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Grupo Galván®",
+      "position": "Programadora de Aprendizaje Automático",
+      "duration": "noviembre de 2024 - Present",
+      "location": "México"
+    },
+    {
+      "company": "Grupo CICE",
+      "position": "Residente de Proyectos de Software",
+      "duration": "febrero de 2024 - julio de 2024",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Relativity6",
+      "position": "Documentadora",
+      "duration": "septiembre de 2023 - septiembre de 2023",
+      "location": "México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "agosto de 2019 - agosto de 2023"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Lógica de programación: sumérgete en la programación con JavaScript",
+      "Formación Lógica de programación con JavaScript",
+      "CONGRESO INTERNACIONAL DE INVESTIGACIÓN DE ACADEMIA JOURNALS CHETUMAL 2023",
+      "Formación Principiante en Programación G6 - ONE",
+      "Toma de Decisiones para el Impacto Social: G Suite en acción"
+    ],
+    "awards_honors": [],
+    "publications": [
+      "Aplicación del OCR y las Técnicas de Cómputo para Automatizar Tareas Administrativas en la Generación de Matrículas en una Escuela Primaria"
+    ]
+  },
+  "others": {
+    "additional_information": null
+  }
+}

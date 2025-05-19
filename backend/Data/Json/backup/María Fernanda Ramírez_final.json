@@ -1,0 +1,58 @@
+{
+  "contact": {
+    "name": "María Fernanda Ramírez Vicente",
+    "linkedin": "www.linkedin.com/in/maria-fernanda-ramirez-vicente",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Highly motivated Industrial Engineer with experience in the automotive sector, focused on process optimization through the application of precise diagnoses and continuous improvement strategies. Competent in the use of engineering tools to increase the efficiency and productivity of an area.",
+  "title": "Industrial Engineer",
+  "skills": [
+    "Gestión de proyectos",
+    "Medios de comunicación social",
+    "Tablas dinámicas"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Volkswagen MX",
+      "position": "Practicante Talento Joven Nacional",
+      "duration": "febrero de 2024 - agosto de 2024",
+      "location": "Puebla, México"
+    },
+    {
+      "company": "Rama Estudiantil ASQ ITVer",
+      "position": "Presidenta",
+      "duration": "septiembre de 2022 - enero de 2024",
+      "location": null
+    },
+    {
+      "company": "Rama Estudiantil ASQ ITVer",
+      "position": "Secretaria",
+      "duration": "febrero de 2021 - septiembre de 2022",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico Nacional de México campus Veracruz",
+      "degree": "Ingeniería, Ingeniería Industrial",
+      "duration": "2019 - 2023"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Learning Microsoft 365 (Office 365)",
+      "Project Management Foundations",
+      "Leading Projects",
+      "Conducting a SWOT Analysis",
+      "Power BI Essential Training"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

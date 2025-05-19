@@ -1,0 +1,103 @@
+{
+  "contact": {
+    "name": "Jorge Vinicio Vivero Baltazar",
+    "linkedin": "https://www.linkedin.com/in/jorge-vinicio-vivero-baltazar-b52a5130",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Dedicated and experienced IT Engineer with knowledge in Software Development, Business Analysis, Project Management and SCRUM",
+  "title": "Certified Scrum Master + Agile Business Analyst + Project Manager",
+  "skills": [
+    "JIRA Admin",
+    "Agile Evangelist"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Infosys",
+      "position": "Scrum Master",
+      "duration": "diciembre de 2023 - Present",
+      "location": null
+    },
+    {
+      "company": "Sorenson Communications",
+      "position": "SCRUM Master, Agile Coach, Project Manager, Business Analyst",
+      "duration": "mayo de 2022 - octubre de 2023",
+      "location": "Utah, Estados Unidos"
+    },
+    {
+      "company": "GRIVER",
+      "position": "Coordinador de Desarrollo",
+      "duration": "septiembre de 2019 - mayo de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "SOFTDEM",
+      "position": "Coordinador de Analistas y SCRUM Master",
+      "duration": "enero de 2017 - septiembre de 2019",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "SOFTDEM",
+      "position": "Analista de Sistemas",
+      "duration": "enero de 2015 - enero de 2017",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Proceda",
+      "position": "Coordinador Producto",
+      "duration": "enero de 2013 - enero de 2015",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Proceda",
+      "position": "Analista de Sistemas y Desarrollador",
+      "duration": "enero de 2012 - enero de 2013",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Proceda",
+      "position": "Desarrollador de Software",
+      "duration": "marzo de 2008 - diciembre de 2012",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Grupo Olmedo y Asociados",
+      "position": "Programador",
+      "duration": "junio de 2006 - marzo de 2008",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero, Sistemas Computacionales",
+      "duration": "2001 - 2006"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales, Especialidad en Base de Datos",
+      "duration": "2001 - 2006"
+    },
+    {
+      "institution": "Centro Universitario Hispano Mexicano",
+      "degree": "Master's degree, Tecnologías de la Información",
+      "duration": "2010 - 2011"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "IELTS",
+      "Scrum Foundation Professional Certificate SFPC (v2020)",
+      "Características de un gran Scrum Master",
+      "Scrum Fundamentals Certified",
+      "EC0217 - Impartición de cursos de formación del capital humano de manera presencial grupal"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

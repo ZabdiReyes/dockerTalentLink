@@ -1,0 +1,60 @@
+{
+  "contact": {
+    "name": "Elvia Ruiz Beltrán",
+    "linkedin": "https://www.linkedin.com/in/elvia-ruiz-beltrán-3a166230",
+    "website": null,
+    "location": "Aguascalientes, México",
+    "company": "Instituto Tecnológico de Aguascalientes"
+  },
+  "profile": "Profesora Investigadora del Instituto Tecnológico de Aguascalientes",
+  "title": "Profesora Investigadora",
+  "skills": [
+    "Redes neuronales",
+    "Matemáticas",
+    "Ciencia de datos"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tecnológico Nacional de México",
+      "position": "Profesora Investigadora",
+      "duration": "enero de 2008 - Present",
+      "location": "México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of New Mexico School of Engineering",
+      "degree": "Posdoctorado en sistemas complejos",
+      "duration": "2015 - 2016"
+    },
+    {
+      "institution": "Centro de Investigación y de Estudios Avanzados del IPN",
+      "degree": "Doctorado en Ciencias en la Especialidad en Ingeniería Eléctrica, Diagnóstico de Fallas en Sistemas",
+      "duration": "2004 - 2007"
+    },
+    {
+      "institution": "Centro de Investigación y de Estudios Avanzados del IPN",
+      "degree": "Maestria en Ciencias en la especialidad de Ciencias Computacionales, Diagnóstico de Fallas",
+      "duration": "2002 - 2004"
+    },
+    {
+      "institution": "Universidad Autónoma de Sinaloa",
+      "degree": "Licencitura en Informática, Inteligencia artificial",
+      "duration": "agosto de 1997 - diciembre de 2002"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

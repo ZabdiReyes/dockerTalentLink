@@ -1,0 +1,159 @@
+{
+  "contact": {
+    "name": "Juan Bañuelos",
+    "linkedin": "https://www.linkedin.com/in/juanbanuelos",
+    "website": "https://www.sdn.sap.com/irj/sdn/index",
+    "location": "Veracruz, Veracruz, Mexico",
+    "company": "RYC ALIMENTOS S.A de C. V"
+  },
+  "profile": "Project Manager and SAP Logistic consultant with 19 years of professional experience in SAP, specializing in MM, WM, and PP consulting.",
+  "title": "Project Manager and SAP Logistic Consultant",
+  "skills": [
+    "Warehouse Management Systems",
+    "Data Management",
+    "Third-Party Logistics (3PL)"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Schneider Electric",
+      "position": "SAP SCM consultant for DTC-America",
+      "duration": "March 2022 - June 2023",
+      "location": "N/A"
+    },
+    {
+      "company": "RYC ALIMENTOS S.A de C. V",
+      "position": "Project Manager and SAP functional solution architect",
+      "duration": "May 2019 - April 2023",
+      "location": "Puebla de Zaragoza Area, Mexico"
+    },
+    {
+      "company": "Logix Solutions",
+      "position": "PMO",
+      "duration": "June 2017 - April 2023",
+      "location": "N/A"
+    },
+    {
+      "company": "particular",
+      "position": "consultor SAP MM, WM, PP",
+      "duration": "January 2004 - April 2023",
+      "location": "N/A"
+    },
+    {
+      "company": "RYC Foods",
+      "position": "SAP s/4 Hana WM consultant",
+      "duration": "January 2022 - June 2022",
+      "location": "San Antonio, Texas, United States"
+    },
+    {
+      "company": "ULSA TECH S.A DE C.V",
+      "position": "Project Lead",
+      "duration": "November 2015 - April 2017",
+      "location": "Guadalajara Area, Mexico"
+    },
+    {
+      "company": "TODO INOXIDABLE S.A DE C.V",
+      "position": "Lead Project Manager",
+      "duration": "March 2015 - September 2015",
+      "location": "Cancún, Quintana Roo, Mexico"
+    },
+    {
+      "company": "VITACAR",
+      "position": "Consultor MM",
+      "duration": "December 2014 - January 2015",
+      "location": "N/A"
+    },
+    {
+      "company": "Grupo Kuo, S.A.B. de C.V.",
+      "position": "consultor logistica",
+      "duration": "August 2014 - November 2014",
+      "location": "N/A"
+    },
+    {
+      "company": "Mina peña colorada",
+      "position": "Consultor de soporte logistico SAP",
+      "duration": "April 2014 - September 2014",
+      "location": "Manzanillo, Colima"
+    },
+    {
+      "company": "Palace Resorts",
+      "position": "SAP Logistics Leader",
+      "duration": "July 2011 - October 2013",
+      "location": "N/A"
+    },
+    {
+      "company": "Tecno Lite",
+      "position": "SAP Sr Leader for MM & WM",
+      "duration": "March 2010 - October 2010",
+      "location": "N/A"
+    },
+    {
+      "company": "Hoteles Presidente Intercontinental",
+      "position": "SAP Sr. MM & technical development",
+      "duration": "December 2009 - May 2010",
+      "location": "N/A"
+    },
+    {
+      "company": "SILANES",
+      "position": "SAP Sr. MM/WM",
+      "duration": "October 2009 - January 2010",
+      "location": "N/A"
+    },
+    {
+      "company": "NESTLE Panama",
+      "position": "MM SAP Data Expert",
+      "duration": "May 2008 - January 2009",
+      "location": "N/A"
+    },
+    {
+      "company": "Grupo Bocar",
+      "position": "SAP MM consultant",
+      "duration": "November 2007 - February 2008",
+      "location": "N/A"
+    },
+    {
+      "company": "COTEMAR @ Cd. del Carmen, Mexico",
+      "position": "Consultor SAP Sr. MM/QM",
+      "duration": "January 2007 - November 2007",
+      "location": "N/A"
+    },
+    {
+      "company": "Team Solutions",
+      "position": "QM freelance consultant",
+      "duration": "2007 - 2007",
+      "location": "N/A"
+    },
+    {
+      "company": "Crystalis Consulting",
+      "position": "MM consultant",
+      "duration": "2003 - 2005",
+      "location": "N/A"
+    },
+    {
+      "company": "Tenaris",
+      "position": "SAP MM",
+      "duration": "2002 - 2003",
+      "location": "N/A"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniero sistemas computacionales, Ingeniería informática",
+      "duration": "1983 - 1989"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Abroad working experience in Canada, Argentina, Panama, and Guatemala."
+  }
+}

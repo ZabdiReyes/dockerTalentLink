@@ -1,0 +1,118 @@
+{
+  "contact": {
+    "name": "Adriana Aguilera González",
+    "linkedin": "www.linkedin.com/in/adriana-aguilera-gonzález-30037237",
+    "website": null,
+    "location": "Arbonne, Nouvelle-Aquitaine, France",
+    "company": "ESTIA Institute of technology"
+  },
+  "profile": "Associate Professor Responsable des Etudes Cycle Ingénieur CI-2A - Responsable Unité Doctorale EstiaR - Secrétaire WIE France",
+  "title": "Associate Professor",
+  "skills": [
+    "Educational Technology",
+    "University Lecturing",
+    "Recherche"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "French",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "ESTIA Institute of technology",
+      "position": "Responsable Unité Doctorale Estia-Recherche",
+      "duration": "January 2024 - Present",
+      "location": "Bidart"
+    },
+    {
+      "company": "ESTIA Institute of technology",
+      "position": "Responsable des Etudes Cycle Ingénieur CI-2A",
+      "duration": "September 2021 - Present",
+      "location": "Bidart"
+    },
+    {
+      "company": "ESTIA Institute of technology",
+      "position": "Associate Professor",
+      "duration": "September 2018 - Present",
+      "location": "Bidart"
+    },
+    {
+      "company": "ESTIA Institute of technology",
+      "position": "Assistant Professor",
+      "duration": "September 2017 - August 2018",
+      "location": "Bidart, Nouvelle-Aquitaine, France"
+    },
+    {
+      "company": "IEEE",
+      "position": "IEEE SENIOR MEMBER",
+      "duration": "2002 - Present",
+      "location": null
+    },
+    {
+      "company": "Indian Institute of Technology, Mandi",
+      "position": "Visiting Researcher",
+      "duration": "June 2023 - August 2023",
+      "location": "Mandi, Himachal Pradesh, India"
+    },
+    {
+      "company": "University of Luxembourg",
+      "position": "Associate Researcher",
+      "duration": "October 2014 - August 2017",
+      "location": "Luxembourg City"
+    },
+    {
+      "company": "Université de Picardie Jules Verne (Amiens)",
+      "position": "Post-Doc à Modélisation, Information & Systèmes (MIS)",
+      "duration": "October 2012 - October 2013",
+      "location": "Amiens Area, France"
+    },
+    {
+      "company": "CRAN - Research Centre for Automatic Control",
+      "position": "Research Internship",
+      "duration": "June 2010 - December 2010",
+      "location": "Nancy Area, France"
+    },
+    {
+      "company": "Instituto Potosino de Investigación Científica y Tecnológica - IPICYT",
+      "position": "Research Internship",
+      "duration": "January 2009 - June 2009",
+      "location": "Région de San Luis Potosí, Mexique"
+    },
+    {
+      "company": "Shimadzu",
+      "position": "Service engineer",
+      "duration": "2002 - 2006",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "CENIDET - Centro Nacional de Investigacion y Desarrollo Tecnologico",
+      "degree": "Doctor of Philosophy (Ph.D.), Electronic / Automation Engineer",
+      "duration": "2008 - 2012"
+    },
+    {
+      "institution": "CENIDET - Centro Nacional de Investigacion y Desarrollo Tecnologico",
+      "degree": "Master of Science - MS, Electrical and Electronics Engineering",
+      "duration": "2006 - 2008"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

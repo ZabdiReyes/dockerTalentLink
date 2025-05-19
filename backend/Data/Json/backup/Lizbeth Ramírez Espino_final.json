@@ -1,0 +1,69 @@
+{
+  "contact": {
+    "name": "Lizbeth Ramírez Espino",
+    "linkedin": "www.linkedin.com/in/lizbeth-ramírez-espino-b3388519a",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": "Welldex Logistics"
+  },
+  "profile": "Soy una persona que disfruta aprendiendo, gracias a mi formación como Ing. Industrial deseo contribuir a organizaciones así como a mí sociedad. Me apasiona el Liderazgo de Servicio, por ello soy socia activa en Toastmasters International desde el 2017, lugar que me permite crecer mientras ayudo a otros.",
+  "title": "Past President en Club Toastmasters ITVER",
+  "skills": [
+    "Comunicación",
+    "Persuasión",
+    "Networking"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Welldex Logistics",
+      "position": "Analista de costes",
+      "duration": "noviembre de 2022 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Welldex Logistics",
+      "position": "Becario de costes",
+      "duration": "julio de 2022 - octubre de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Welldex Logistics",
+      "position": "Becario de compras",
+      "duration": "febrero de 2022 - junio de 2022",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Cameron, a Schlumberger company",
+      "position": "Estudiante en prácticas de ingeniería",
+      "duration": "julio de 2021 - enero de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Secretaría de la Defensa Nacional",
+      "position": "Auxiliar de farmacia",
+      "duration": "julio de 2015 - enero de 2016",
+      "location": "Boca del Río, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico Nacional de México Campus Veracruz",
+      "degree": "Ingeniería, Ingeniería industrial",
+      "duration": "2016 - 2021"
+    },
+    {
+      "institution": "Centro de bachillerato Tecnológico Industrial y de Servicios No. 79",
+      "degree": "Técnico, Logística",
+      "duration": "2013 - 2016"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

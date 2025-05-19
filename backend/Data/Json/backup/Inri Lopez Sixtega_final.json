@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Inri Lopez Sixtega",
+    "linkedin": "www.linkedin.com/in/inri-lopez-sixtega-360307297",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "TSCO Computación"
+  },
+  "profile": "Soy un joven con una mentalidad muy competitiva, me gustan los retos y lo complicado, en mi tiempo de trabajo siempre soy muy concentrado y competitivo, me gusta realizar los trabajos bien, aprendo rápido y si es necesario estudio, me gustaría trabajar en una empresa donde me valoren y valoren mi esfuerzo.",
+  "title": "Ingeniero de soporte",
+  "skills": [
+    "Gestión de sistemas",
+    "Ingeniería",
+    "Seguros"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "TSCO Computación",
+      "position": "Ingeniero de soporte",
+      "duration": "enero de 2022 - agosto de 2023",
+      "location": null
+    },
+    {
+      "company": "JM PALAZUELOS",
+      "position": "Ingeniero de soporte",
+      "duration": "junio de 2021 - agosto de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro de Estudios Superiores de Veracruz (CESUVER)",
+      "degree": "Ingeniería, Sistemas computacionales",
+      "duration": "agosto de 2018 - marzo de 2022"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

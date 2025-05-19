@@ -1,0 +1,82 @@
+{
+  "contact": {
+    "name": "Hugo Jair Escalante",
+    "linkedin": "https://www.linkedin.com/in/hugo-jair-escalante-228a0417",
+    "website": "http://ccc.inaoep.mx/~hugojair/",
+    "location": "Puebla, Puebla, Mexico",
+    "company": "INAOE"
+  },
+  "profile": "I senior researcher (equivalent of full professor) at the National Institute of Astrophysics, Optics and Electronics, (INAOE), previously I worked at the Graduate Program in Systems Engineering (PISIS) in Universidad Autónoma de Nuevo León. I received the B. S. degree from the Universidad Autónoma de Puebla in 2004. I obtained the Ph.D. and M. S. degrees from INAOE in 2010 and 2006, respectively. I am member of Sistema Nacional de Investigadores (SNI) since 2011, currently level 2. Member of the Mexican Academy of Sciences, the board of directors of ChaLearn and chair of TC 12 the IAPR.",
+  "title": "Research Scientist - C",
+  "skills": [
+    "Computer Vision",
+    "Machine Learning",
+    "Research"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Fluent"
+    }
+  ],
+  "experience": [
+    {
+      "company": "INAOE",
+      "position": "Senior Researcher",
+      "duration": "January 2012 - Present",
+      "location": "Tonantzintla, Puebla, Mexico"
+    },
+    {
+      "company": "TeSLA Project",
+      "position": "Project Researcher",
+      "duration": "January 2016 - November 2020",
+      "location": "EU"
+    },
+    {
+      "company": "CINVESTAV",
+      "position": "Visiting Professor",
+      "duration": "April 2019 - April 2020",
+      "location": "Mexico City, CDMX, Mexico"
+    },
+    {
+      "company": "Universidad Autónoma de Nuevo León",
+      "position": "Assistant Professor",
+      "duration": "August 2010 - December 2011"
+    },
+    {
+      "company": "National Institute of Astrophysics, Optics and Electronics",
+      "position": "Postdoctoral Researcher",
+      "duration": "March 2010 - September 2010"
+    }
+  ],
+  "education": [
+    {
+      "institution": "INAOE",
+      "degree": "PhD, Computer Science",
+      "duration": "2006 - 2010"
+    },
+    {
+      "institution": "INAOE",
+      "degree": "Master, Computer Science",
+      "duration": "2003 - 2006"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [
+      "Best student paper award of the International Joint Conference on Neural Networks IJCNN 2010",
+      "Best PhD Thesis on Artificial Intelligence 2010 award",
+      "Candidate level of the Sistema Nacional de Investigadores"
+    ],
+    "publications": [
+      "The Segmented and Annotated IAPR-TC12 Benchmark"
+    ]
+  },
+  "others": {
+    "additional_information": ""
+  }
+}

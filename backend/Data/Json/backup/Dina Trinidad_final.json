@@ -1,0 +1,93 @@
+{
+  "contact": {
+    "name": "Dina Trinidad",
+    "linkedin": "www.linkedin.com/in/dinatrinidad",
+    "website": null,
+    "location": "Área metropolitana de Ciudad de México",
+    "company": "Oracle"
+  },
+  "profile": "Ingeniero en Sistemas Computacionales con 20 años de experiencia en soluciones TI, especializada los últimos +3 años en servicio postventa para clientes de diversos sectores en sus proyectos estratégicos y transformacionales hacia la nube. Gestor y líder en el relacionamiento con clientes, partners, equipos especializados y de soporte. Fuertes habilidades analíticas, solución creativa de problemas, rápido aprendizaje y adaptación a distintos sistemas de TI.",
+  "title": "Customer Experience Manager",
+  "skills": [
+    "Éxito del cliente",
+    "Oracle Cloud",
+    "Gestión de relaciones con clientes (CRM)"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Oracle",
+      "position": "Customer Experience Manager",
+      "duration": "septiembre de 2021 - Present",
+      "location": "CDMX"
+    },
+    {
+      "company": "Nousfera",
+      "position": "Delivery Manager",
+      "duration": "mayo de 2017 - agosto de 2021",
+      "location": "CDMX"
+    },
+    {
+      "company": "Xaniya",
+      "position": "Dirección General",
+      "duration": "noviembre de 2016 - agosto de 2021",
+      "location": "CDMX"
+    },
+    {
+      "company": "Holcim México",
+      "position": "Coordinador de Gestión de Proyectos Especiales",
+      "duration": "agosto de 2012 - junio de 2016",
+      "location": "CDMX"
+    },
+    {
+      "company": "CEMEX México",
+      "position": "Jefe de Información Comercial",
+      "duration": "junio de 2009 - junio de 2011",
+      "location": "CDMX"
+    },
+    {
+      "company": "CEMEX México",
+      "position": "Administrador Comercial",
+      "duration": "junio de 2005 - mayo de 2009",
+      "location": "Monterrey, N.L."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológio de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales",
+      "duration": "1993 - 1998"
+    },
+    {
+      "institution": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "degree": "Maestría en Administración de Tecnologías de Información",
+      "duration": "1999 - 2002"
+    },
+    {
+      "institution": "Universidad Anáhuac Mexico Sur",
+      "degree": "Entrepreneurship Ecommerce Diploma, Comercio electrónico",
+      "duration": "2016 - 2016"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Oracle Cloud Data Management 2022 Foundations Certified Associate",
+      "Scrum Master Professional Certificate (SMPC)",
+      "Oracle Cloud Infrastructure Foundations 2021 Certified Associate"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

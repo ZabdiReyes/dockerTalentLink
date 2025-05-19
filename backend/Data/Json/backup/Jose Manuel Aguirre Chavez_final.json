@@ -1,0 +1,133 @@
+{
+  "contact": {
+    "name": "Jose Manuel Aguirre Chavez",
+    "linkedin": "www.linkedin.com/in/jose-manuel-aguirre-chavez-76826a146",
+    "website": null,
+    "location": "Houston y alrededores",
+    "company": null
+  },
+  "profile": "15+ years of experience in Quality Assurance and all software life cycle phases, with a strong background in banking and finance. Experienced in both Agile and Waterfall methodologies, and certified as a Scrum Master.",
+  "title": "Test Manager",
+  "skills": [
+    "Quality Assurance",
+    "Test Management",
+    "Agile Methodologies",
+    "Performance Testing",
+    "Database Testing",
+    "Automation Testing"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Truist",
+      "position": "Business System Senior Analyst / Testing Coordinator",
+      "duration": "diciembre de 2022 - Present (2 años 3 meses)",
+      "location": null
+    },
+    {
+      "company": "NTT DATA Services",
+      "position": "Principal Consultant Test Manager",
+      "duration": "junio de 2020 - diciembre de 2022 (2 años 7 meses)",
+      "location": "Charlotte, North Carolina, United States"
+    },
+    {
+      "company": "Wells Fargo (Contractor through KForce)",
+      "position": "Test Manager",
+      "duration": "julio de 2018 - junio de 2020 (2 años)",
+      "location": "Charlotte, North Carolina, United States"
+    },
+    {
+      "company": "Accenture",
+      "position": "Project Test Manager",
+      "duration": "julio de 2017 - junio de 2018 (1 año)",
+      "location": "Charlotte, North Carolina Area"
+    },
+    {
+      "company": "Accenture",
+      "position": "Test Release Manager",
+      "duration": "febrero de 2016 - diciembre de 2017 (1 año 11 meses)",
+      "location": "Charlotte, North Carolina Area"
+    },
+    {
+      "company": "Accenture",
+      "position": "Project Test Manager",
+      "duration": "octubre de 2013 - diciembre de 2017 (4 años 3 meses)",
+      "location": "Charlotte, North Carolina Area"
+    },
+    {
+      "company": "Accenture",
+      "position": "Team Supervisor",
+      "duration": "febrero de 2012 - septiembre de 2013 (1 año 8 meses)",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "Accenture",
+      "position": "Test Lead",
+      "duration": "noviembre de 2009 - septiembre de 2013 (3 años 11 meses)",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "Hexaware Technologies",
+      "position": "Test Consultant",
+      "duration": "marzo de 2009 - julio de 2009 (5 meses)",
+      "location": "Saltillo Area, Mexico"
+    },
+    {
+      "company": "Hexaware Technologies",
+      "position": "PPM Consultant",
+      "duration": "noviembre de 2008 - febrero de 2009 (4 meses)",
+      "location": "Saltillo Area, Mexico"
+    },
+    {
+      "company": "Hexaware Technologies",
+      "position": "Test Consultant",
+      "duration": "agosto de 2008 - septiembre de 2008 (2 meses)",
+      "location": "Spartanburg, SC, USA"
+    },
+    {
+      "company": "GE",
+      "position": "Business Analyst",
+      "duration": "mayo de 2007 - mayo de 2008 (1 año 1 mes)",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "PEMEX",
+      "position": "Application Developer",
+      "duration": "enero de 2004 - junio de 2004 (6 meses)",
+      "location": "Veracruz Area, Mexico"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Master's degree, Computer/Information Technology Administration and Management",
+      "duration": "2005 - 2007"
+    },
+    {
+      "institution": "Instituto tecnologico de veracruz",
+      "degree": "Computer Systems Engineer, Information Technology",
+      "duration": "1999 - 2004"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "PSM 1 - Professional Scrum Master"
+    ],
+    "awards_honors": [
+      "Graduated with honors Master Degree"
+    ],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

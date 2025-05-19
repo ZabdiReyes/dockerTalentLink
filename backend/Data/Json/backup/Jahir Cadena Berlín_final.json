@@ -1,0 +1,138 @@
+{
+  "contact": {
+    "name": "Jahir Cadena Berlín",
+    "linkedin": "www.linkedin.com/in/jahirc",
+    "website": null,
+    "location": "Monterrey, Nuevo León, Mexico",
+    "company": null
+  },
+  "profile": "Project Manager with extensive experience in PMI methodology, SCRUM framework, and project management across various industries.",
+  "title": "Project Manager Sr",
+  "skills": [
+    "PMI Methodology",
+    "SCRUM Framework",
+    "RUP Methodology",
+    "Project Management",
+    "Risk Management",
+    "Analysis and Management of Requirements",
+    "UML",
+    "Design and Architecture for Web applications",
+    "Microsoft Web Technologies",
+    "Microsoft SQL Server Technologies"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Globant",
+      "position": "Project Manager Sr",
+      "duration": "June 2021 - Present",
+      "location": "Monterrey, Nuevo León, Mexico"
+    },
+    {
+      "company": "AXEN IT Consulting",
+      "position": "Operations Manager",
+      "duration": "June 2019 - June 2021",
+      "location": "Monterrey, Nuevo León, Mexico"
+    },
+    {
+      "company": "Xignux",
+      "position": "Project Manager Coach",
+      "duration": "March 2019 - June 2019",
+      "location": "San Pedro Garza García, Nuevo León, Mexico"
+    },
+    {
+      "company": "Arca Continental",
+      "position": "IT Project Manager",
+      "duration": "August 2018 - March 2019",
+      "location": "Monterrey, Nuevo León, Mexico"
+    },
+    {
+      "company": "LAMOSA",
+      "position": "IT Project Manager",
+      "duration": "July 2017 - July 2018",
+      "location": "San Pedro Garza García, Nuevo León, Mexico"
+    },
+    {
+      "company": "The Home Depot México",
+      "position": "IT Project Manager",
+      "duration": "March 2015 - June 2017",
+      "location": "San Pedro Garza García, Nuevo León, Mexico"
+    },
+    {
+      "company": "OXXO",
+      "position": "IT Project Manager",
+      "duration": "March 2014 - February 2015",
+      "location": "Monterrey, Nuevo León, Mexico"
+    },
+    {
+      "company": "ABA Seguros",
+      "position": "Technical Lead .NET",
+      "duration": "February 2011 - February 2014",
+      "location": null
+    },
+    {
+      "company": "ABA Seguros",
+      "position": "Business Analyst / Technical Lead .NET",
+      "duration": "January 2010 - February 2011",
+      "location": null
+    },
+    {
+      "company": "ABA Seguros",
+      "position": "Business Analyst / Sr. Developer .NET",
+      "duration": "June 2008 - January 2010",
+      "location": null
+    },
+    {
+      "company": "Alestra",
+      "position": "Business Analyst",
+      "duration": "January 2008 - May 2008",
+      "location": null
+    },
+    {
+      "company": "Grupo Proeza",
+      "position": "Business Analyst / Sr. Developer .NET",
+      "duration": "March 2007 - January 2008",
+      "location": "Monterrey Area, Mexico"
+    },
+    {
+      "company": "PEMEX",
+      "position": "Business Analyst / Developer .NET",
+      "duration": "January 2006 - March 2007",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "BS, Computer Systems Engineer",
+      "duration": "2001 - 2005"
+    },
+    {
+      "institution": "Universidad Tecmilenio",
+      "degree": "Master of Business Administration - MBA, Marketing",
+      "duration": "April 2020 - December 2021"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Professional Scrum Master (PSM I)",
+      "Microsoft Certified Professional",
+      "Project Management Professional (PMP)",
+      "Analysis and Object-Oriented Design with UML"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

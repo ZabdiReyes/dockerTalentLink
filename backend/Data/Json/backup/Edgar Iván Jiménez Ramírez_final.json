@@ -1,0 +1,70 @@
+{
+  "contact": {
+    "name": "Edgar Iván Jiménez Ramírez",
+    "linkedin": "https://www.linkedin.com/in/jimenezer",
+    "website": "https://github.com/ivanjimenezer",
+    "location": "Veracruz, Veracruz, Mexico",
+    "company": "Grupo MAS"
+  },
+  "profile": "Developing solutions over needs. Being a Fullstack Developer was the key piece in becoming a different kind of Data Analyst today. Understanding system architecture has helped me extract and clean data accurately. Thanks to Front End development, I’ve been able to create visually appealing reports.",
+  "title": "Database Analyst",
+  "skills": [
+    "SQL Server",
+    "PostgreSQL",
+    "MySQL",
+    "Azure",
+    "AWS",
+    "PowerBI"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Grupo MAS Agua",
+      "position": "Database Analyst",
+      "duration": "agosto de 2024 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Towing Servicios Integrales",
+      "position": "Fullstack Developer",
+      "duration": "diciembre de 2023 - agosto de 2024",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Towing Servicios Integrales",
+      "position": "Information Technology Support Analyst",
+      "duration": "enero de 2023 - junio de 2023",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Bachelor of Engineering - BE, Computer Systems / Sistemas Computacionales",
+      "duration": "septiembre de 2019 - junio de 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Scrum Fundamentals Certified",
+      "Project Management Fundamentals",
+      "Cloud Computing Technician",
+      "Oracle Cloud Certified Associate Foundations",
+      "Diploma in Financial Education"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Análisis de requisitos, Obtención de requisitos, Relaciones con los empleados"
+  }
+}

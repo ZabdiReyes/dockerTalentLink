@@ -1,0 +1,50 @@
+{
+  "contact": {
+    "name": "Noemi del Carmen Tenorio Prieto",
+    "linkedin": "www.linkedin.com/in/noemi-del-carmen-tenorio-prieto-5462a77a",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "ITVER"
+  },
+  "profile": "Docente en ITVER",
+  "title": "Docente",
+  "skills": [
+    "Docencia universitaria",
+    "Microsoft Office"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "ITVER",
+      "position": "Docente",
+      "duration": null,
+      "location": null
+    },
+    {
+      "company": "Instituto Tecnologico Superior de San Andres Tuxtla",
+      "position": "Docente",
+      "duration": "agosto de 1994 - agosto de 1995",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Orizaba",
+      "degree": "Técnico Laboratorista Químico, Análisis Clínicos, Análisis Químicos",
+      "duration": "1980 - 1983"
+    },
+    {
+      "institution": "Instituto Tecnológico de Orizaba",
+      "degree": "Maestria en Ingenieria Administrativa, Licenciatura en Informática",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

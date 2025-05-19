@@ -1,0 +1,66 @@
+{
+  "contact": {
+    "name": "Erick Cantu-Paz",
+    "linkedin": "www.linkedin.com/in/cantupaz",
+    "website": null,
+    "location": "Spain",
+    "company": null
+  },
+  "profile": "Aspiring Python programmer with extensive experience in machine learning and data processing.",
+  "title": null,
+  "skills": [
+    "Machine Learning",
+    "Information Retrieval",
+    "Hadoop"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "A9.com",
+      "position": "Senior Manager, Ranking",
+      "duration": "December 2010 - March 2022",
+      "location": null
+    },
+    {
+      "company": "Yahoo!",
+      "position": "Principal Scientist",
+      "duration": "2005 - December 2010",
+      "location": null
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "position": "Computer Scientist",
+      "duration": "1999 - 2005",
+      "location": null
+    },
+    {
+      "company": null,
+      "position": "Aspiring Python programmer",
+      "duration": "February 2022 - Present",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "degree": "PhD, Computer Science",
+      "duration": "1994 - 1999"
+    },
+    {
+      "institution": "Instituto Tecnológico Autónomo de México",
+      "degree": "BS, Computer Engineering",
+      "duration": "1989 - 1994"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [
+      "Super Star awards at Yahoo! in 2008 and 2010",
+      "2006 R&D Magazine team award for Sapphire Scientific Data Mining software"
+    ],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "I program computers for fun in early retirement."
+  }
+}

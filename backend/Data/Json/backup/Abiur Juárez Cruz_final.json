@@ -1,0 +1,54 @@
+{
+  "contact": {
+    "name": "Abiur Juárez Cruz",
+    "linkedin": "www.linkedin.com/in/abiurjc",
+    "website": null,
+    "location": "Santa Catarina, Nuevo León, México",
+    "company": "HEB México"
+  },
+  "profile": "Arquitecto de soluciones con 12 años de experiencia en Tibco y 17 años en el área de sistemas, especializado en desarrollo de aplicaciones Web.",
+  "title": "Arquitecto de soluciones",
+  "skills": [
+    "TIBCO BusinessWorks",
+    "TIBCO EMS",
+    "TIBCO Rendezvous"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "HEB México",
+      "position": "Arquitecto de soluciones",
+      "duration": "mayo de 2022 - Present",
+      "location": "Monterrey, Nuevo León, México"
+    },
+    {
+      "company": "Axtel",
+      "position": "Tibco Middleware Specialist",
+      "duration": "enero de 2009 - mayo de 2022",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Patni Computer System",
+      "position": "Tibco Middleware Specialist",
+      "duration": "enero de 2011 - septiembre de 2011",
+      "location": "Monterrey y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Licenciatura",
+      "duration": "1995 - 2000"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Instructor Autorizado por el SEI de Personal Software Process (2008)"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "12 años de experiencia en Tibco (Active Matrix BusinessWork, EMS, Integration Manager, Tibco SDK, Tibco Administrator, Tibco Designer) y 7 años como analista de aplicaciones Web."
+  }
+}

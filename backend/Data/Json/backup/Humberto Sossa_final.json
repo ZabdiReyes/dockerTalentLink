@@ -1,0 +1,52 @@
+{
+  "contact": {
+    "name": "Humberto Sossa",
+    "linkedin": "www.linkedin.com/in/humberto-sossa-a93a3a41",
+    "website": null,
+    "location": "Ciudad de México, México",
+    "company": "IPN_CIC"
+  },
+  "profile": "Profesor-Investigador del CIC-IPN",
+  "title": "Profesor-Investigador",
+  "skills": [
+    "Investigación",
+    "Planificación estratégica",
+    "Liderazgo de equipos"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "IPN_CIC",
+      "position": "Profesor-Investigador",
+      "duration": "noviembre de 1996 - Present",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "INP Grenoble",
+      "degree": "Doctorado, Informática",
+      "duration": "1989 - 1992"
+    },
+    {
+      "institution": "CINVESTAV-IPN",
+      "degree": "Maestría, Ingeniería Eléctrica",
+      "duration": "1984 - 1987"
+    },
+    {
+      "institution": "Universidad de Guadalajara",
+      "degree": "Ingeniería, Ingeniería en comunicaciones y electrónica",
+      "duration": "1972 - 1979"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": [
+      "Self Organizing Natural Scene Image Retrieval"
+    ]
+  },
+  "others": {
+    "additional_information": null
+  }
+}

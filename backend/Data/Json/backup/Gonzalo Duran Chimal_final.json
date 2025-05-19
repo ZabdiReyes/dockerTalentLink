@@ -1,0 +1,107 @@
+{
+  "contact": {
+    "name": "Gonzalo Duran Chimal",
+    "linkedin": "www.linkedin.com/in/gonzalo-duran-chimal-620095297",
+    "website": null,
+    "location": "Veracruz, Veracruz, Mexico",
+    "company": null
+  },
+  "profile": "Computer systems engineer with experience in the areas of data analysis, networks, programming and technical support. I consider myself a proactive, organized, responsible person, capable of solving problems and good teamwork.",
+  "title": "Analista de datos",
+  "skills": [
+    "Tableau",
+    "Google Sheets",
+    "R"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Limited Working"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Japanese",
+      "proficiency": "Elementary"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Horizon Auto Logistics",
+      "position": "Data Analyst in Power BI",
+      "duration": "agosto de 2023 - Present",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "SuKarne",
+      "position": "Data Engineer",
+      "duration": "diciembre de 2022 - marzo de 2023",
+      "location": "Culiacán, Sinaloa, Mexico"
+    },
+    {
+      "company": "INTERAX",
+      "position": "Software Engineer specialized in Power BI",
+      "duration": "agosto de 2022 - octubre de 2022",
+      "location": "Monterrey, Nuevo León, Mexico"
+    },
+    {
+      "company": "Freelance",
+      "position": "Freelance",
+      "duration": "agosto de 2016 - mayo de 2022",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "Consorcio De la Fuente",
+      "position": "IT Manager",
+      "duration": "enero de 2017 - abril de 2021",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "Mantenimiento Electrostático e Integral",
+      "position": "Project Manager Jr",
+      "duration": "enero de 2010 - diciembre de 2016",
+      "location": "Veracruz, Mexico"
+    },
+    {
+      "company": "Centro de Estudios Tecnológicos del Mar no. 07",
+      "position": "Math and Physics Advisor",
+      "duration": "enero de 2015 - agosto de 2016",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "arrobamx",
+      "position": "Frontend Web Developer",
+      "duration": "enero de 2016 - julio de 2016",
+      "location": "Boca del Río, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "INSTITUTO VERACRUZANO DEL DEPORTE",
+      "position": "Volunteer and recruiter",
+      "duration": "noviembre de 2014 - enero de 2015",
+      "location": "Boca del Río, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TecNM - Campus Instituto Tecnológico de Veracruz",
+      "degree": "B.D. Computer Information Systems, Data Analyst",
+      "duration": "agosto de 2010 - junio de 2016"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Preintermediate Communicative English",
+      "Data Science Tools",
+      "Data Science Foundations - Level 2 (V2)",
+      "Data Science Foundations - Level 1",
+      "SQL"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

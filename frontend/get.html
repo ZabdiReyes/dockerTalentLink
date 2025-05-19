@@ -8,14 +8,45 @@
 </head>
 <body>
   <div class="container">
-    <h1>Buscador de CVs</h1>
+    <!-- Título + botón de ayuda -->
+    <h1>
+      Buscador de CVs
+      <button id="helpBtn" title="Mostrar guía de etiquetas">?</button>
+    </h1>
+
+    <!-- Cuadro de búsqueda -->
     <div class="search-box-row">
-      <input type="text" id="searchInput" placeholder="Escribe #etiquetas o texto libre y presiona Enter">
+      <input type="text" id="searchInput"
+             placeholder="Escribe #etiquetas o texto libre y presiona Enter">
       <button id="searchBtn">Buscar</button>
     </div>
+
+    <!-- Etiquetas elegidas -->
     <div id="tagList" class="tag-list"></div>
+
+    <!-- Resultados -->
     <div id="results" class="results"></div>
   </div>
+
+  <!-- Panel flotante con la guía -->
+  <div id="tagHelp" class="tag-help hidden">
+    <strong>Etiquetas válidas</strong><br>
+    <em>1.ª&nbsp;categoría</em>:<br>
+    contact · profile · title · skills · languages · experience · education · achievements · others
+    <br><br>
+    <em>Sub-etiquetas principales</em>:<br>
+    contact.name · contact.linkedin · contact.location · contact.company<br>
+    experience.company · experience.position · education.institution&nbsp;…<br>
+    achievements.certifications · others.additional_information
+    <hr>
+    <small>
+      Ejemplos:<br>
+      <code>#skills:python</code><br>
+      <code>#contact.name:Ana</code><br>
+      <code>#skills</code> (limita la similitud a skills)
+    </small>
+  </div>
+
   <script src="js/get.js"></script>
 </body>
 </html>

@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Brian Fernández Báez",
+    "linkedin": "www.linkedin.com/in/brian-fernández-báez",
+    "website": null,
+    "location": "Ciudad de México, México",
+    "company": null
+  },
+  "profile": "Estudiante de Sistemas Computacionales, con gran interés en acceder al mercado laboral para poner en práctica mis conocimientos. Soy una persona trabajadora, comunicativa y comprometida. Deseó encontrar una oportunidad para adquirir experiencia profesional, con pasión por su profesión, excelente capacidad de organización y facilidad para el trabajo en equipo. Persona muy adaptable a todo tipo de entornos y clara orientación a objetivos. Quiero desarrollarme profesionalmente en una empresa con proyección de futuro.",
+  "title": null,
+  "skills": [
+    "Ingeniería de redes",
+    "Seguridad de la información",
+    "Resolución de problemas"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "DEON",
+      "position": "Practicante del departamento de TI",
+      "duration": "enero de 2024 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto tecnológico de Veracruz",
+      "degree": null,
+      "duration": "enero de 2019 - julio de 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Introduction to Cybersecurity",
+      "Técnico instalador de cableado estructurado",
+      "Instalador de fibra óptica",
+      "Los bits y bytes de las redes informáticas",
+      "Técnico instalador de red de acceso"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "contact": {
+    "name": "Irahan Otoniel José Guzmán",
+    "linkedin": "www.linkedin.com/in/irahanjose",
+    "website": null,
+    "location": "Misantla, Veracruz de Ignacio de la Llave, México",
+    "company": "TecNM Campus Misantla"
+  },
+  "profile": "Profesor del TecNM Campus Misantla con experiencia en enseñanza de sistemas computacionales y desarrollo de software.",
+  "title": "Profesor",
+  "skills": [
+    "Almacenamiento de datos",
+    "LaTeX",
+    "Negociación"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "TecNM Campus Misantla",
+      "position": "Profesor de Maestría en Sistemas Computacionales",
+      "duration": "agosto de 2019 - Present",
+      "location": "km 1.8 carretera loma de cojolite"
+    },
+    {
+      "company": "TecNM Campus Misantla",
+      "position": "Jefatura de Carrera Ingeniería en Sistemas Computacionales",
+      "duration": "febrero de 2022 - Present",
+      "location": "km 1.8 carretera a loma de cojolite"
+    },
+    {
+      "company": "TecNM Campus Misantla",
+      "position": "Subdirector de Planeación",
+      "duration": "agosto de 2020 - febrero de 2022",
+      "location": null
+    },
+    {
+      "company": "Google Developer Group Misantla",
+      "position": "Co-Fundador GDGMisantla",
+      "duration": "septiembre de 2015 - Present",
+      "location": "Misantla, Ver."
+    },
+    {
+      "company": "Business Solutions Veracruz, S.A de C.V",
+      "position": "Senior Technical Instructor Java",
+      "duration": "febrero de 2008 - diciembre de 2008",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Instituto Tecnologico Superior de Pánuco",
+      "position": "Profesor",
+      "duration": "agosto de 2003 - agosto de 2008",
+      "location": "Pánuco Ver."
+    },
+    {
+      "company": "Iscotam",
+      "position": "Ingeniero de soporte técnico",
+      "duration": "diciembre de 2000 - julio de 2003",
+      "location": "Tampico, Tamaulipas, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica del Sur, México.",
+      "degree": "Doctorado en Sistemas Computacionales",
+      "duration": "2020 - 2022"
+    },
+    {
+      "institution": "Tecnologico Nacional de México Campus Misantla",
+      "degree": "Maestria en Sistemas Computacionales",
+      "duration": "2016 - 2019"
+    },
+    {
+      "institution": "Tecnologico Nacional de México Campus Ciudad Madero",
+      "degree": "Ingeniero en Sistemas Computacionales",
+      "duration": "agosto de 1994 - diciembre de 1999"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Introduction to Data Science in Python",
+      "Curso Gratis de Ciberseguridad: Simulador Práctico en WhatsApp",
+      "Fundamentos de la gestión de proyectos",
+      "Salesforce esencial",
+      "Introduction to Generative AI"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Materias impartidas en diferentes niveles de educación en sistemas computacionales."
+  }
+}

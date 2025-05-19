@@ -1,0 +1,41 @@
+{
+  "contact": {
+    "name": "Daniela Trinidad Gil Pérez",
+    "linkedin": "www.linkedin.com/in/daniela-trinidad-gil-pérez",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Estudiante en Tecnológico Nacional de Mexico campus Veracruz",
+  "title": null,
+  "skills": [],
+  "languages": [],
+  "experience": [
+    {
+      "company": "ASQ ITVer",
+      "position": "Vicepresidenta",
+      "duration": "enero de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico Nacional de Mexico campus Veracruz",
+      "degree": "Industrial engineer",
+      "duration": "2021 - 2025"
+    },
+    {
+      "institution": "Centro de Estudios Tecnológicos industriales y de Servicios no.15 “Epigmenio Gonzalez”",
+      "degree": "Técnico, Gestión de recursos humanos/Administración de personal",
+      "duration": "agosto de 2018 - junio de 2021"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

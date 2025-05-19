@@ -1,0 +1,58 @@
+{
+  "contact": {
+    "name": "Erik Andres Granda Martinez",
+    "linkedin": "www.linkedin.com/in/erikandresgranda",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": "COMPRENDE A.C."
+  },
+  "profile": "Passionate professional with a solid background in server infrastructure, both in cloud and on-premises environments. With notable experience in managing physical servers, my focus is on ensuring the availability, security, and efficiency of IT systems.",
+  "title": "Server Infrastructure Administrator | Cybersecurity Engineer",
+  "skills": [
+    "Documentación técnica",
+    "Gestión de servidores",
+    "Gestión de proyectos"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "COMPRENDE A.C.",
+      "position": "Especialista en ciberseguridad",
+      "duration": "junio de 2024 - Present",
+      "location": null
+    },
+    {
+      "company": "Relativity6",
+      "position": "Junior Infrastructure Support",
+      "duration": "diciembre de 2021 - mayo de 2024",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Tecnológico Nacional de México",
+      "position": "Administración de servidores",
+      "duration": "junio de 2021 - junio de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico Nacional de México (TecNM)",
+      "degree": "Ingenieria en Sistemas Computacionales, Sistemas y Tecnologías de Información",
+      "duration": "agosto de 2015 - septiembre de 2021"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Introduccion a la Seguridad Cibernetica",
+      "ISO 27001 Fundamentos",
+      "Foundations of Project Management",
+      "Networking Defense Essentials",
+      "The Leadership Skills for Cybersecurity Professionals"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "I have practical experience in conducting pentests, identifying vulnerabilities, and strengthening defenses against potential threats. Additionally, I possess skills in risk management and compliance with standards such as ISO 27001, ensuring alignment with international information security standards."
+  }
+}

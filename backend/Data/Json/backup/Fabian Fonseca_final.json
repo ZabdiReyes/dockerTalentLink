@@ -1,0 +1,122 @@
+{
+  "contact": {
+    "name": "Fabian Fonseca",
+    "linkedin": "www.linkedin.com/in/fabian-fonseca-4299366",
+    "website": null,
+    "location": "Conroe, Texas, United States",
+    "company": null
+  },
+  "profile": "ABAP Certified Consultant with experience in SAP EDI & Liaison Technologies. SAP ABAP Instructor for ABAP Courses.",
+  "title": "SAP ABAP and EDI Consultant",
+  "skills": [
+    "Root Cause Analysis",
+    "X12",
+    "SAP Development"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Cricut",
+      "position": "SAP EDI and ABAP",
+      "duration": "July 2020 - January 2023",
+      "location": "United States"
+    },
+    {
+      "company": "Fomar Technologies LLC",
+      "position": "SAP ABAP and EDI Consultant",
+      "duration": "July 2016 - June 2020",
+      "location": "Hou"
+    },
+    {
+      "company": "IDHASOFT",
+      "position": "Abap Certified & EDI Consultant",
+      "duration": "August 2011 - June 2016",
+      "location": null
+    },
+    {
+      "company": "Consulting",
+      "position": "Sr. ABAP Certified Consultant",
+      "duration": "March 2010 - August 2011",
+      "location": null
+    },
+    {
+      "company": "Nasoft",
+      "position": "Sr. ABAP Consultant",
+      "duration": "April 2009 - March 2010",
+      "location": null
+    },
+    {
+      "company": "Cemex",
+      "position": "ABAP Consultant",
+      "duration": "2010 - 2010",
+      "location": null
+    },
+    {
+      "company": "Cerveceria Cuauhtemoc Moctezuma",
+      "position": "Abap Architect",
+      "duration": "2009 - 2010",
+      "location": null
+    },
+    {
+      "company": "Infosys",
+      "position": "PM",
+      "duration": "2008 - 2009",
+      "location": null
+    },
+    {
+      "company": "Team Solutions",
+      "position": "ABAP Consultant",
+      "duration": "October 2006 - September 2008",
+      "location": null
+    },
+    {
+      "company": "BAT EAS Project",
+      "position": "ABAP Developer",
+      "duration": "2007 - 2007",
+      "location": null
+    },
+    {
+      "company": "SYAAT",
+      "position": "SAP ABAP Consultant",
+      "duration": "August 2005 - September 2006",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "SAP",
+      "degree": "Experience SAP Cloud for Customer",
+      "duration": "2018 - 2018"
+    },
+    {
+      "institution": "SAP",
+      "degree": "SAP Hybris Cloud for Customer Integration with On-Premise SAP Solutions",
+      "duration": "2018 - 2018"
+    },
+    {
+      "institution": "SAP",
+      "degree": "Integration with SAP S/4HANA Cloud",
+      "duration": "2018 - 2018"
+    },
+    {
+      "institution": "SAP",
+      "degree": "SAP Hybris Solution Architect: Integration of SAP Hybris Commerce with SAP Hybris Cloud for Service",
+      "duration": "2018 - 2018"
+    },
+    {
+      "institution": "SAP",
+      "degree": "ABAP Development for SAP HANA",
+      "duration": "2017 - 2017"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "SAP Netweaver-ABAP WebAS 6.40"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "contact": {
+    "name": "Geovani Montero",
+    "linkedin": "https://www.linkedin.com/in/geova-mont-gamboa",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "BE PRIME"
+  },
+  "profile": "Apasionado a mejorar los entornos en seguridad de datos y su comunicación enfrentando desafíos que demandan profesionalismo y soluciones innovadoras. Mi pasión por el networking y el entorno tecnológico me permite estar siempre al día en las últimas tendencias, asegurando la protección de la información y la optimización de recursos. Me motiva trabajar en proyectos que no solo desafían mis habilidades técnicas, sino que también me permiten colaborar directamente con los clientes para construir entornos digitales más seguros y eficientes.",
+  "title": "Cybersecurity Consultant",
+  "skills": [
+    "Zero Trust Network Access",
+    "Security Email Gateway",
+    "Administración de identidades y acceso (IAM)"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "BE PRIME",
+      "position": "N2 Servicios Profesionales Fortinet",
+      "duration": "febrero de 2023 - Present",
+      "location": "Monterrey, Nuevo León, México"
+    },
+    {
+      "company": "Onbit",
+      "position": "Consultor en redes",
+      "duration": "agosto de 2017 - febrero de 2023",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Licenciatura, Ing. Sistemas Computacionales",
+      "duration": "2012 - 2017"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Fortinet Certified Professional Network Security"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Disfruto de los viajes y de reconectar con la naturaleza, lo que me ayuda a mantener un equilibrio entre la innovación y la apreciación del mundo que nos rodea."
+  }
+}

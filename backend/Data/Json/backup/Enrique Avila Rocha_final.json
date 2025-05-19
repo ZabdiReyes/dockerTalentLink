@@ -1,0 +1,98 @@
+{
+  "contact": {
+    "name": "Enrique Avila Rocha",
+    "linkedin": "www.linkedin.com/in/enriqueavilar",
+    "website": null,
+    "location": "Área metropolitana de Ciudad de México",
+    "company": "Sinersys Technologies"
+  },
+  "profile": "Project Manager & Scrum Master con 14+ años de experiencia en liderazgo de proyectos para empresas del sector siderúrgico, automotriz y financiero. Como Product Owner y experto en Scrum, he liderado y guiado equipos de desarrollo de 5 a 30 personas, así como a otros Product Owners, para maximizar la entrega temprana de valor.",
+  "title": "IT Sr Project Manager",
+  "skills": [
+    "Riesgo de proyectos",
+    "Planes de desarrollo de productos",
+    "Administración del alcance"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Sinersys Technologies",
+      "position": "Portfolio Manager (Nissan Mexicana)",
+      "duration": "agosto de 2024 - Present",
+      "location": "Ciudad de México, México"
+    },
+    {
+      "company": "Engen Capital",
+      "position": "Agile Project Manager",
+      "duration": "septiembre de 2020 - mayo de 2024",
+      "location": "Ciudad de México, México"
+    },
+    {
+      "company": "Sinersys Technologies",
+      "position": "Project Manager (Nissan Mexicana)",
+      "duration": "agosto de 2017 - junio de 2020",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Getronics",
+      "position": "Project Manager (BBVA)",
+      "duration": "abril de 2014 - agosto de 2017",
+      "location": null
+    },
+    {
+      "company": "Sinersys Technologies",
+      "position": "Project Manager (Nissan Mexicana)",
+      "duration": "marzo de 2011 - abril de 2014",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Líder Técnico Mainframe",
+      "duration": "febrero de 2010 - marzo de 2011",
+      "location": null
+    },
+    {
+      "company": "Sinersys Technologies",
+      "position": "Programador Analista Mainframe (Nissan Mexicana)",
+      "duration": "noviembre de 2008 - febrero de 2010",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Programador Analista Mainframe",
+      "duration": "agosto de 2006 - noviembre de 2008",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Grado en Ingeniería, Ingeniería de sistemas",
+      "duration": "2002 - 2006"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Scrum Master Certified",
+      "Kanban Management Professional",
+      "KMP II",
+      "Kanban System Design KMP I",
+      "Certified SAFe 5.0 Scrum Master",
+      "Certified SAFe 5.0 Agilist"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

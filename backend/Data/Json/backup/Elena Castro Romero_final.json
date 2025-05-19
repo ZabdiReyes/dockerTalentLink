@@ -1,0 +1,49 @@
+{
+  "contact": {
+    "name": "Elena Castro Romero",
+    "linkedin": "www.linkedin.com/in/elenac10",
+    "website": null,
+    "location": "Boca del Río, Veracruz de Ignacio de la Llave, México",
+    "company": "Welldex Logistics"
+  },
+  "profile": "Soy ingeniera de software especializada en el desarrollo web con un enfoque centrado en la creación de experiencias digitales excepcionales. Me apasiona colaborar en equipos donde pueda aportar mi experiencia técnica y mi creatividad para resolver desafíos complejos y crear soluciones innovadoras. En búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente y así poder contribuir al éxito de proyectos ambiciosos.",
+  "title": "Ingeniera en Sistemas Computacionales | Web Developer | FullStack",
+  "skills": [
+    "Web Services API",
+    "Desarrollo de API",
+    "JavaScript"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Welldex Logistics",
+      "position": "Desarollador de Software Jr.",
+      "duration": "febrero de 2025 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Welldex Logistics",
+      "position": "Becario de programación",
+      "duration": "enero de 2024 - enero de 2025",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Engineer's degree, Ingenieria en sistemas computacionales",
+      "duration": "agosto de 2019 - junio de 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Formación Principiante en Programación G7 - ONE",
+      "Programa Oracle Next Education F2 T7 Back-end"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

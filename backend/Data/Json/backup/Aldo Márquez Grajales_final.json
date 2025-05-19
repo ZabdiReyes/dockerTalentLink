@@ -1,0 +1,57 @@
+{
+  "contact": {
+    "name": "Aldo Márquez Grajales",
+    "linkedin": "www.linkedin.com/in/aldo-márquez-grajales-4217a410a",
+    "website": null,
+    "location": "Pachuca de Soto, Hidalgo, México",
+    "company": null
+  },
+  "profile": "Profesor investigador en cómputo evolutivo, aprendizaje automático y profundo, minería de datos temporal, y visión artificial",
+  "title": "Ph. D. Artificial Intelligence",
+  "skills": [
+    "Docencia universitaria",
+    "Ciencia de datos"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Universidad Autónoma del Estado de Hidalgo",
+      "position": "Profesor investigador",
+      "duration": "julio de 2024 - Present",
+      "location": "México"
+    },
+    {
+      "company": "Infotec, Centro de Investigación e Innovación en TIC",
+      "position": "Profesor Investigador Ingeniero Tecnólogo",
+      "duration": "febrero de 2024 - agosto de 2024",
+      "location": "Aguascalientes, México"
+    },
+    {
+      "company": "Instituto Tecnológico Superior de Xalapa",
+      "position": "Docencia",
+      "duration": "agosto de 2019 - febrero de 2024",
+      "location": null
+    },
+    {
+      "company": "FPO - Finance Process Optimization",
+      "position": "Data Science Expert",
+      "duration": "agosto de 2019 - agosto de 2019",
+      "location": "Ciudad de México y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Veracruzana",
+      "degree": "Doctor of Philosophy - PhD, Inteligencia artificial",
+      "duration": "2014 - 2018"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

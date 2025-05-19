@@ -1,0 +1,104 @@
+{
+  "contact": {
+    "name": "Victor Gutiérrez González",
+    "linkedin": "https://www.linkedin.com/in/vgutierrezg",
+    "website": null,
+    "location": "Veracruz, Mexico",
+    "company": null
+  },
+  "profile": "Computer Systems Engineer with 13+ years of professional experience in software development life cycle.",
+  "title": "Computer Systems Engineer",
+  "skills": [
+    "Software Development Life Cycle (SDLC)",
+    "Microsoft SQL Server",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Instituto Nacional de Electricidad y Energías Limpias",
+      "position": "IT Researcher Level F",
+      "duration": "August 2014 - March 2017",
+      "location": "Cuernavaca, Morelos"
+    },
+    {
+      "company": "Ingenieria Avanzada e Informática",
+      "position": "Systems Engineer",
+      "duration": "December 2008 - July 2014",
+      "location": "Veracruz, Ver"
+    },
+    {
+      "company": "Consorcio Joyero de Veracruz",
+      "position": "Consultant",
+      "duration": "May 2011 - August 2011",
+      "location": "Jalapa Enríquez Area, Mexico"
+    },
+    {
+      "company": "Grupo Irimo, S.A. de C.V.",
+      "position": "Consultant",
+      "duration": "2008 - 2009",
+      "location": "Veracruz Area, Mexico"
+    },
+    {
+      "company": "Comisión Federal de Electricidad",
+      "position": "Advanced Technician",
+      "duration": "June 2007 - December 2008",
+      "location": "Laguna Verde, Nuclear Power Station"
+    },
+    {
+      "company": "Ultra Ingeniería S.A. de C.V.",
+      "position": "IT Engineer",
+      "duration": "February 2005 - June 2007",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Washington International Inc",
+      "position": "IT Design Engineer",
+      "duration": "May 2004 - January 2005",
+      "location": null
+    },
+    {
+      "company": "Comisión Federal de Electricidad",
+      "position": "Advanced Technician",
+      "duration": "April 2003 - May 2004",
+      "location": "Laguna Verde, Nuclear Power Station"
+    },
+    {
+      "company": "Grupo Rullán-ITV",
+      "position": "Programmer Analyst",
+      "duration": "March 2002 - March 2003",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Grupo Irimo, S.A. de C.V",
+      "position": "Programmer Analyst",
+      "duration": "June 2001 - March 2003",
+      "location": "Veracruz, Ver"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harmon Hall Institute",
+      "degree": "English Course, Basic, Intermediate and Advanced Level",
+      "duration": "2003 - 2004"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Computer Systems Engineer",
+      "duration": "1998 - 2002"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

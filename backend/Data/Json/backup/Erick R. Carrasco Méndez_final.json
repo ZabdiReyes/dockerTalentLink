@@ -1,0 +1,52 @@
+{
+  "contact": {
+    "name": "Erick R. Carrasco Méndez",
+    "linkedin": "www.linkedin.com/in/erick-r-carrasco-méndez-5b997b139",
+    "website": null,
+    "location": "Ciudad de México, México",
+    "company": "Grupo Salinas"
+  },
+  "profile": "Desarrollador de java en Grupo Salinas",
+  "title": "Desarrollador de java y movil android",
+  "skills": [
+    "Desarrollo de Android",
+    "Java",
+    "Desarrollo de software"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Grupo Salinas",
+      "position": "Desarrollador de java y movil android",
+      "duration": "marzo de 2019 - Present",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Allware Solutions",
+      "position": "Analista Funcional",
+      "duration": "marzo de 2017 - enero de 2019",
+      "location": null
+    },
+    {
+      "company": "Giga Automation & IT",
+      "position": "Analista Funcional",
+      "duration": "agosto de 2016 - febrero de 2017",
+      "location": "Veracruz y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto tecnologico de veracruz",
+      "degree": "LICENCIATURA EN INGENIERÍA EN SISTEMAS COMPUTACIONALES",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Analista funcional, área de soporte técnico nivel 2"
+  }
+}

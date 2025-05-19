@@ -1,0 +1,45 @@
+{
+  "contact": {
+    "name": "Jorge Francisco Bernal Baxin",
+    "linkedin": "www.linkedin.com/in/jorge-francisco-bernal-baxin",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniero de desarrollo de software con experiencia en diseño y desarrollo de aplicaciones utilizando C# y .NET.",
+  "title": "Ingeniero de desarrollo de software",
+  "skills": [
+    "C#",
+    "Java"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "(SITI)SERVICIOS INTEGRADOS EN TECNOLOGÍA DE INFORMACION, S.A. DE C.V.",
+      "position": "Desarrollador de software .NET",
+      "duration": "abril de 2022 - octubre de 2024",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Unindetec",
+      "position": "Becario Desarrollador de Software",
+      "duration": "febrero de 2021 - febrero de 2022",
+      "location": "Anton lizardo, Veracruz"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico nacional de Mexico campus Veracruz",
+      "degree": "Ingeniería, Sistemas computacionales",
+      "duration": "septiembre de 2020"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Experiencia en herramientas Atlassian como Confluence, Jira y BitBucket."
+  }
+}

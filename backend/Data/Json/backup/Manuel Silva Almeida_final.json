@@ -1,0 +1,85 @@
+{
+  "contact": {
+    "name": "Manuel Silva Almeida",
+    "linkedin": "www.linkedin.com/in/manuel-silva-almeida-93571b68",
+    "website": null,
+    "location": "Monterrey, Nuevo León, México",
+    "company": "Cadena Comercial OXXO"
+  },
+  "profile": "Arquitecto de Soluciones Tecnológicas con más de 21 años de experiencia en el desarrollo y gestión de proyectos de software, especializado en arquitectura de punto de venta y soluciones tecnológicas.",
+  "title": "Arquitecto de Soluciones Tecnológicas",
+  "skills": [
+    "SQL",
+    "Liderazgo de equipos",
+    "Gestión de proyectos de software"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "90%"
+    }
+  ],
+  "experience": [
+    {
+      "company": "OXXO",
+      "position": "Arquitecto de Soluciones Tecnológicas",
+      "duration": "marzo de 2014 - Present",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "OXXO",
+      "position": "Arquitecto Punto de Venta",
+      "duration": "septiembre de 2007 - febrero de 2014",
+      "location": null
+    },
+    {
+      "company": "OXXO",
+      "position": "Desarrollador",
+      "duration": "octubre de 2003 - agosto de 2007",
+      "location": null
+    },
+    {
+      "company": "Tecnológico de Monterrey",
+      "position": "Administrador de Servicios de Web",
+      "duration": "mayo de 2002 - octubre de 2003",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Tecnológico de Monterrey",
+      "position": "Profesionista de Apoyo",
+      "duration": "octubre de 1999 - abril de 2002",
+      "location": null
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Ingeniero de Automatización",
+      "duration": "septiembre de 1998 - octubre de 1999",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Licentiate degree, Computer Engineering",
+      "duration": "1993 - 1998"
+    },
+    {
+      "institution": "Cenesco S.A.",
+      "degree": "Técnico en Informática, Ingeniería informática",
+      "duration": "1991 - 1994"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "SCRUM Master Certified",
+      "Building Skills to Become a Powerhouse Negotiator",
+      "Digital Transformation",
+      "The Three Pillars of Effective Communication"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

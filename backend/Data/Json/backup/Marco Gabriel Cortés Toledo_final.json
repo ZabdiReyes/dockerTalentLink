@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Marco Gabriel Cortés Toledo",
+    "linkedin": "www.linkedin.com/in/marcogabriel99",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Hutchison Ports ICAVE"
+  },
+  "profile": "¡Hola! Soy Marco Gabriel, recién egresado en Ingeniería en Sistemas Computacionales del Instituto Tecnológico de Veracruz. Durante esta etapa universitaria he formado parte de la Comunidad de Ingeniería en Sistemas, donde he podido desarrollar mis habilidades de comunicación y trabajo en equipo.",
+  "title": "Ingeniero en Sistemas Computacionales",
+  "skills": [
+    "Soporte técnico",
+    "Mantenimiento preventivo",
+    "Soporte para impresoras"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Hutchison Ports ICAVE",
+      "position": "Service Desk",
+      "duration": "agosto de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "COMPUSOF S.A.",
+      "position": "Ingeniero de campo",
+      "duration": "abril de 2024 - agosto de 2024",
+      "location": "Veracruz"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería, Sistemas Computacionales",
+      "duration": "agosto de 2018 - octubre de 2023"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Me gusta poder ayudar a otras personas cuando tienen problemas con sus equipos de hardware o software, por lo que me interesa mucho el área de Soporte Técnico a Usuarios, así como, las redes y telecomunicaciones."
+  }
+}

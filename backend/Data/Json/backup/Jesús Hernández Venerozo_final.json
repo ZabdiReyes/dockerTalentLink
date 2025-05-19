@@ -1,0 +1,55 @@
+{
+  "contact": {
+    "name": "Jesús Hernández Venerozo",
+    "linkedin": "https://www.linkedin.com/in/jesushdzv",
+    "website": "https://itverland.com/",
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": "Instituto Tecnológico De Veracruz"
+  },
+  "profile": "Soy estudiante de Ingeniería en Sistemas, apasionado por el análisis y la optimización de sistemas informáticos. Mi enfoque principal está en bases de datos, redes y gestión de proyectos, donde disfruto de la combinación entre la resolución de problemas técnicos y la mejora continua de procesos.",
+  "title": "Estudiante de Ingeniería en Sistemas Computacionales",
+  "skills": [
+    "Seguridad de la información",
+    "Resolución de problemas",
+    "Soporte técnico"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "GDG Xalapa",
+      "position": "Team Member GDG Xalapa",
+      "duration": "julio de 2024 - Present",
+      "location": "Xalapa, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Instituto Tecnológico De Veracruz",
+      "position": "Colaborador en Proyecto ITVERLAND de Minecraft",
+      "duration": "junio de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Instituto Tecnológico De Veracruz",
+      "position": "Auxiliar de Infraestructura",
+      "duration": "junio de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería, Sistemas Computacionales",
+      "duration": "agosto de 2020 - agosto de 2026"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "ECM0352 MICROSOFT OFFICE 365, EXCEL",
+      "Fundamentos en Gestión de Proyectos"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Colaborador de la comunidad Minecraft ITVERLAND donde junto con un equipo de estudiantes y una empresa patrocinadora, trabajamos en conjunto para el desarrollo del proyecto el cual espera convertirse en una comunidad referente a nivel Latinoamérica."
+  }
+}

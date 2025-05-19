@@ -1,0 +1,51 @@
+{
+  "contact": {
+    "name": "Luis Alberto Leal Rojas",
+    "linkedin": "www.linkedin.com/in/luisalbertolealrojas",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Passionate about the #SocialMedia #MarketingDigital #WebDeveloper and see the fun of the #Communication.",
+  "title": null,
+  "skills": [
+    "Python",
+    "Análisis de datos",
+    "HTML5"
+  ],
+  "languages": [
+    {
+      "language": "Italiano",
+      "proficiency": "Elementary"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ing. Sistemas Computacionales, Computer Programming",
+      "duration": "2006 - 2011"
+    },
+    {
+      "institution": "Curso Coparmex",
+      "degree": "Community Management, Métricas y Manejo de Crisis en Redes Sociales",
+      "duration": "2013 - 2013"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Desarrollador de contenido digital",
+      "Taller Figma",
+      "Branding y Estrategia de Marca"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

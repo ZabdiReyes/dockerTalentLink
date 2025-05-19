@@ -1,0 +1,30 @@
+{
+  "contact": {
+    "name": "Victor De",
+    "linkedin": "www.linkedin.com/in/victor-de-064940195",
+    "website": null,
+    "location": "Guadalajara, México",
+    "company": "Cjf"
+  },
+  "profile": "Professional in the field of IT.",
+  "title": null,
+  "skills": [],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Cjf",
+      "position": "Ti",
+      "duration": null,
+      "location": null
+    }
+  ],
+  "education": [],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

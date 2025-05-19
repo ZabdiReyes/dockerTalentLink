@@ -87,3 +87,34 @@ body {
   font-size: 16px;
   cursor: pointer;
 }
+
+/* Botón “?” dentro del título */
+#helpBtn{
+  margin-left:8px;
+  width:22px;
+  height:22px;
+  border-radius:50%;
+  border:1px solid #007bff;
+  background:#fff;
+  color:#007bff;
+  cursor:pointer;
+  font-weight:bold;
+  line-height:18px;
+  padding:0;
+}
+
+/* Panel flotante de ayuda */
+.tag-help{
+  background:#fdfdfd;
+  border:1px solid #ddd;
+  border-radius:6px;
+  padding:10px 14px;
+  font-size:13px;
+  max-width:260px;
+  position:absolute;
+  top:60px;                       /* ajusta según la altura de tu header */
+  right:calc(50% - 380px);        /* alinea al costado del contenedor */
+  box-shadow:0 2px 8px rgba(0,0,0,.1);
+  z-index:10;
+}
+.hidden{ display:none; }

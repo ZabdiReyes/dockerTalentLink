@@ -1,0 +1,51 @@
+{
+  "contact": {
+    "name": "Luis Alberto Cruz Hernández",
+    "linkedin": "www.linkedin.com/in/antix2",
+    "website": null,
+    "location": "Ciudad de México, México",
+    "company": "IBM"
+  },
+  "profile": "I am a Linux System Administrator with 5 years of experience. I have worked in critical production environments. I consider myself a fast learner and very good at adapting to unexpected situations. I have a lot of experience in Debian, CentOS, and SUSE Linux.",
+  "title": "Linux Administrator/Cloud engineer",
+  "skills": [
+    "SQL",
+    "Docker",
+    "Kubernetes"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "IBM",
+      "position": "Cloud and Linux Administrator",
+      "duration": "febrero de 2022 - Present",
+      "location": "Mexico"
+    },
+    {
+      "company": "ADVTI SOLUTIONS",
+      "position": "Linux Administrator/Cloud engineer",
+      "duration": "noviembre de 2019 - enero de 2022",
+      "location": "Remote"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Grado en Ingeniería, Systems engineering",
+      "duration": "2019 - 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Google Cloud Platform Essential Training (2019)",
+      "Linux Essentials",
+      "AWS Certified Solutions Architect",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "In charge of technical support tasks for the end customer through mail and virtual assistance on the Google Cloud Platform for Linux and Windows virtual servers."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "contact": {
+    "name": "Julio Martinez Sanchez",
+    "linkedin": "www.linkedin.com/in/julio-martinez-sanchez",
+    "website": null,
+    "location": "Englewood, Colorado, United States",
+    "company": "DaVita Inc."
+  },
+  "profile": "Full Stack Developer with 14+ years of experience in system design, maintenance and development with Microsoft and Front End technologies. Currently actively engaged with Angular, TypeScript, AI and Google Cloud products.",
+  "title": "Sr. Angular Developer/UI Developer/Tech Lead",
+  "skills": [
+    "AngularJS",
+    "Angular",
+    "TypeScript"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "DaVita Inc.",
+      "position": "Sr. Angular Developer/UI Developer/Tech Lead",
+      "duration": "September 2019 - Present (5 years 6 months)",
+      "location": "Greater Denver Area"
+    },
+    {
+      "company": "CVS Health",
+      "position": "Full Stack/Angular/UI Developer & Tech Lead",
+      "duration": "June 2018 - July 2019 (1 year 2 months)",
+      "location": "Centennial, Colorado"
+    },
+    {
+      "company": "University of California, Los Angeles",
+      "position": "Full Stack Programmer Analyst & Project Lead (.NET/Angular)",
+      "duration": "April 2015 - May 2018 (3 years 2 months)",
+      "location": "Los Angeles, California"
+    },
+    {
+      "company": "Secretaría de Educación del Estado de Veracruz",
+      "position": ".NET Developer / Database Designer / Programmer Analyst",
+      "duration": "October 2010 - March 2015 (4 years 6 months)",
+      "location": "Jalapa Enríquez Area, Mexico"
+    },
+    {
+      "company": "Centro Estratégico de Litigio Latinoamericano A.C.",
+      "position": ".NET Developer / Database Designer / Programmer Analyst",
+      "duration": "October 2011 - March 2013 (1 year 6 months)",
+      "location": "Jalapa Enríquez Area, Mexico"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Bachelor of Engineering - BE, Computer Systems Engineering",
+      "duration": "2002 - 2008"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Interested in research and development, maximizing leadership skills, lover of best practices and standards, UX Oriented Design mindset, experience working under AGILE environments, digging into AI, GCP, GKE, Google Console."
+  }
+}

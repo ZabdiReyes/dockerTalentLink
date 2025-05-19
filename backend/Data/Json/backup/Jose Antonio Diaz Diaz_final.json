@@ -1,0 +1,69 @@
+{
+  "contact": {
+    "name": "Jose Antonio Diaz Diaz",
+    "linkedin": "www.linkedin.com/in/jose-antonio-diaz-diaz-33895420",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Sodimac"
+  },
+  "profile": "Especialista en Reposición en Sodimac con experiencia en diseño y elaboración de sistemas de gestión de calidad y seguridad electrónica.",
+  "title": "Especialista en Reposición",
+  "skills": [
+    "Microsoft",
+    "Análisis de datos",
+    "Comunicación"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Sodimac",
+      "position": "Especialista en Reposicion",
+      "duration": "agosto de 2022 - Present",
+      "location": "México"
+    },
+    {
+      "company": "ABASTOS Y DISTRIBUCIONES S.A. DE C.V.",
+      "position": "Jefe de planeacion Centro de Distribucion",
+      "duration": "mayo de 2017 - marzo de 2023",
+      "location": "Ciudad Industrial Bruno Pagliai"
+    },
+    {
+      "company": "AUTOTRANSPORTESTEC S.A. DE C.V.",
+      "position": "Gerente de Trafico",
+      "duration": "junio de 2016 - marzo de 2017",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Despacho Integral de Comercio Exterior S.C",
+      "position": "Gerente de Sistemas y SGC",
+      "duration": "abril de 2013 - junio de 2016",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Comercializadora de Alarmas Generales",
+      "position": "Coordinador de Operaciones",
+      "duration": "mayo de 2008 - enero de 2013",
+      "location": "Veracruz y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto tecnológico de Veracruz",
+      "degree": "Grado en Ingeniería, Ingeniería de sistemas",
+      "duration": "junio de 2001 - agosto de 2005"
+    },
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniería, Sistemas Computacionales",
+      "duration": "2001 - 2005"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Diseño e implementación de sistemas de seguridad electrónica integral. Manejo de equipos de trabajo efectivos."
+  }
+}

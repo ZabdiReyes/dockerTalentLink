@@ -1,0 +1,61 @@
+{
+  "contact": {
+    "name": "Victor Eduardo Guzman Casanova",
+    "linkedin": "www.linkedin.com/in/victor-e-guzman-c",
+    "website": null,
+    "location": "Área metropolitana de Ciudad de México",
+    "company": null
+  },
+  "profile": "I am an engineering student in computer systems, interested in the area of networking and cybersecurity, I like to have new challenges every day that make me grow personally and professionally, this to acquire new knowledge and put it into practice.",
+  "title": "Computer Systems Engineer",
+  "skills": [
+    "Object-Oriented Programming (OOP)",
+    "Java",
+    "Desarrollo de software"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "TenarisTamsa",
+      "position": "Internship Trainee",
+      "duration": "agosto de 2024 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": null,
+      "duration": "2020 - 2024"
+    },
+    {
+      "institution": "Cisco Networking Academy",
+      "degree": "CXA Winter Incubation Program, Informática, comunicaciones y servicios de asistencia",
+      "duration": "febrero de 2024 - marzo de 2024"
+    },
+    {
+      "institution": "Fundación Carlos Slim",
+      "degree": "Técnico redes IP",
+      "duration": "noviembre de 2022 - diciembre de 2022"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Fundamentos de la ciberseguridad",
+      "Google Cloud Computing",
+      "Foundations: Infrastructure in Google Cloud",
+      "Networking Basics",
+      "Introduction to Cybersecurity Certificate of Completion - Cisco Winter Incubation Program"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

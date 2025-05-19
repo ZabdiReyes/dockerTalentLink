@@ -1,0 +1,64 @@
+{
+  "contact": {
+    "name": "Alejandro Valdés",
+    "linkedin": "www.linkedin.com/in/alejandro-valdés-099b72ba",
+    "website": null,
+    "location": "México",
+    "company": "SAP"
+  },
+  "profile": "ECS Technical Service Manager",
+  "title": "ECS Technical Service Manager",
+  "skills": [
+    "ITIL Certified"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "SAP",
+      "position": "ECS Technical Service Manager",
+      "duration": "enero de 2023 - Present",
+      "location": null
+    },
+    {
+      "company": "Syntax",
+      "position": "Sap Basis Consultant",
+      "duration": "agosto de 2019 - enero de 2023",
+      "location": "Puebla de Zaragoza y alrededores, México"
+    },
+    {
+      "company": "Freudenberg Group",
+      "position": "SAP Basis",
+      "duration": "octubre de 2016 - agosto de 2019",
+      "location": null
+    },
+    {
+      "company": "Freudenberg Group",
+      "position": "Sap Basis Trainee",
+      "duration": "agosto de 2016 - octubre de 2016",
+      "location": "Puebla de Zaragoza y alrededores, México"
+    },
+    {
+      "company": "Gobierno del Estado de Veracruz",
+      "position": "Analista de Información",
+      "duration": "2011 - 2012",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero En Sistemas Computacionales",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "ITIL Certified"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

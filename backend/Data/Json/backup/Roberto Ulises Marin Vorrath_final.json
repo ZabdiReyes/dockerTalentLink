@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Roberto Ulises Marin Vorrath",
+    "linkedin": "www.linkedin.com/in/rumarin1587",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "NTT DATA Europe & LATAM"
+  },
+  "profile": "7 years experience developing web applications using ASP.Net, C#, JavaScript, Web Services and SQL Server. Currently working with Azure Cloud Technologies.",
+  "title": "Full-Stack .NET Developer",
+  "skills": [
+    "Apache Airflow",
+    "ASP.NET",
+    "C#"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "NTT DATA Europe & LATAM",
+      "position": "Big Data Engineer",
+      "duration": "noviembre de 2020 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "MOZ Agencias Aduanales",
+      "position": "Desarrollador de software",
+      "duration": "enero de 2013 - enero de 2018",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería de sistemas",
+      "duration": "2005 - 2011"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

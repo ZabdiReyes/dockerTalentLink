@@ -1,0 +1,62 @@
+{
+  "contact": {
+    "name": "Juan Carballo Sepe",
+    "linkedin": "www.linkedin.com/in/juan-carballo-sepe",
+    "website": "github.com/juancarsep",
+    "location": "Buenos Aires, Provincia de Buenos Aires, Argentina",
+    "company": "ICON ARGENTINA S.A."
+  },
+  "profile": "Soy un profesional en transición al mundo del análisis de datos. Mi enfoque está en transformar datos en decisiones estratégicas a través de análisis precisos y comunicación efectiva.",
+  "title": "Data Analytics Professional",
+  "skills": [
+    "SQL",
+    "Tableau",
+    "Excel",
+    "Google Sheets",
+    "R"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "ICON ARGENTINA S.A.",
+      "position": "Administrativo de facturación",
+      "duration": "mayo de 2022 - Present",
+      "location": "Argentina"
+    },
+    {
+      "company": "Rapipago",
+      "position": "Servicio de atención al cliente",
+      "duration": "junio de 2021 - abril de 2022",
+      "location": "Provincia de Buenos Aires, Argentina"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ORT Argentina",
+      "degree": "Tecnicatura, Análisis de sistemas informáticos/Analista",
+      "duration": "marzo de 2023 - noviembre de 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Introducción a las Bases de Datos Relacionales (Con MySQL)",
+      "Microservicios con Spring Cloud",
+      "Programa especializado: Análisis de Datos de Google",
+      "Desarrollo de APIs en Java con SpringBoot + Hibernate"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Recientemente completé la certificación Google Data Analytics, desarrollando habilidades clave en la limpieza, visualización y análisis de datos."
+  }
+}

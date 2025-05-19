@@ -1,0 +1,40 @@
+{
+  "contact": {
+    "name": "Carlos Reyes Gutiérrez",
+    "linkedin": "www.linkedin.com/in/carlos-reyes-gutiérrez-9b15b8a6",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Universidad Veracruzana"
+  },
+  "profile": "Responsable del Centro de Computo en Universidad Veracruzana",
+  "title": "Responsable del Centro de Computo",
+  "skills": [
+    "Microsoft Office",
+    "Gestión de proyectos",
+    "Liderazgo de equipos"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Universidad Veracruzana",
+      "position": "Responsable del Centro de Computo",
+      "duration": "mayo de 1997 - Present (27 años 10 meses)",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Grado en Ingeniería, Sistemas Computacionales",
+      "duration": "1987 - 1993"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

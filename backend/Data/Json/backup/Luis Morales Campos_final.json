@@ -1,0 +1,83 @@
+{
+  "contact": {
+    "name": "Luis Morales Campos",
+    "linkedin": "www.linkedin.com/in/luis-morales-campos-80b68659",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Sistemas Contino"
+  },
+  "profile": "Le doy a las compañías soluciones en Tecnologías de la Información que mejor se ajustan a sus necesidades para mejorar su productividad y ayudarles a alcanzar sus metas de negocio.",
+  "title": "Coordinador de Infraestructura de TI y Soporte Técnico",
+  "skills": [
+    "Microsoft Windows XP Pro",
+    "Windows 7 Pro",
+    "Windows 2003 Server"
+  ],
+  "languages": [
+    {
+      "language": "Japonés",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Sistemas Contino",
+      "position": "Coordinador de infraestructura de TI y Soporte Técnico",
+      "duration": "marzo de 2021 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Sistemas Contino",
+      "position": "Gerente de Soluciones de Cómputo, Software y Audiovisuales",
+      "duration": "julio de 2015 - marzo de 2022",
+      "location": "Veracruz, Veracruz"
+    },
+    {
+      "company": "Sistemas Contino",
+      "position": "Consultor Corporativo de TI del Segmento Gobierno",
+      "duration": "julio de 2013 - junio de 2015",
+      "location": "Veracruz, Veracruz"
+    },
+    {
+      "company": "Sistemas Contino",
+      "position": "Ing. de Soporte Técnico en Cómputo",
+      "duration": "marzo de 2011 - junio de 2013",
+      "location": null
+    },
+    {
+      "company": "Talleres Navales del Golfo (HPH)",
+      "position": "Ing. de Soporte Técnico",
+      "duration": "mayo de 2008 - abril de 2010",
+      "location": "Veracruz, Veracruz"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": null,
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "ITIL Foundation V4",
+      "ESET Sales Certified Endpoint Solutions",
+      "UniFlow Specialist",
+      "Chrome for Enterprise: Sales Specialist",
+      "G Suite: Deployment Services Specialist"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

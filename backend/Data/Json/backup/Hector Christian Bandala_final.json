@@ -1,0 +1,118 @@
+{
+  "contact": {
+    "name": "Hector Christian Bandala Hernandez",
+    "linkedin": "https://www.linkedin.com/in/hector-christian-bandala-hernandez-892b0552",
+    "website": null,
+    "location": "Malmo, Provincia de Escania, Suecia",
+    "company": "Ericsson"
+  },
+  "profile": "Experienced and resourceful Analog and Mixed-Signal Integrated Circuit (IC) Designer at block level and Top-Level Integration. Proficient with EDA tools from Cadence, Siemens EDA and Ansys for design, simulation, layout and signoff. Knowledgeable in Power Integrity studies for ASIC lifetime and reliability using Electromigration and IR drop (EMIR) analysis.",
+  "title": "RFIC Design Engineer",
+  "skills": [
+    "Technical Requirements",
+    "Architecture",
+    "Power Analysis"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "Swedish",
+      "proficiency": "Limited Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ericsson",
+      "position": "RFIC Design Engineer",
+      "duration": "noviembre de 2019 - Present (5 años 4 meses)",
+      "location": "Lund, Sweden"
+    },
+    {
+      "company": "Ericsson",
+      "position": "Hardware designer",
+      "duration": "octubre de 2018 - diciembre de 2019 (1 año 3 meses)",
+      "location": "Lund, Suecia"
+    },
+    {
+      "company": "Wipro Limited / NXP",
+      "position": "Analog Design Engineer",
+      "duration": "enero de 2018 - octubre de 2018 (10 meses)",
+      "location": "Guadalajara y alrededores, México"
+    },
+    {
+      "company": "INAOE",
+      "position": "Integrated Circuit Design - PhD INAOE",
+      "duration": "enero de 2014 - marzo de 2018 (4 años 3 meses)",
+      "location": "Puebla"
+    },
+    {
+      "company": "INAOE",
+      "position": "Adjunct Assistant Professor",
+      "duration": "julio de 2017 - diciembre de 2017 (6 meses)",
+      "location": "Puebla de Zaragoza y alrededores, México"
+    },
+    {
+      "company": "Instituto de Microelectrónica de Sevilla IMSE-CNM",
+      "position": "Visitor Staff Member",
+      "duration": "septiembre de 2016 - agosto de 2017 (1 año)",
+      "location": "Sevilla y alrededores, España"
+    },
+    {
+      "company": "Universidad Politécnica de Puebla",
+      "position": "Part time Professor",
+      "duration": "septiembre de 2013 - diciembre de 2014 (1 año 4 meses)",
+      "location": null
+    },
+    {
+      "company": "Fresenius Medical Care",
+      "position": "Field Service Engineer",
+      "duration": "2009 - 2010 (1 año)",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Nacional de Astrofísica, Óptica y Electrónica",
+      "degree": "Doctor of Philosophy - PhD, Integrated Circuit Design",
+      "duration": "2014 - 2018"
+    },
+    {
+      "institution": "Instituto Nacional de Astrofísica, Óptica y Electrónica",
+      "degree": "Master of Science (M.Sc.), Integrated Circuits Design",
+      "duration": "2011 - 2013"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Electronic Engineer, Digital Systems",
+      "duration": "2003 - 2008"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "CMOS Analog Circuit Design",
+      "ESD - An Analog Design Viewpoint",
+      "Artificial Intelligence Essentials V2",
+      "GenAI for Everyone",
+      "Introduction to Generative AI"
+    ],
+    "awards_honors": [],
+    "publications": [
+      "CMOS Analog Rank Order",
+      "Filters Using Positive Feedback",
+      "Comparators",
+      "Exploring the Efficacy of Nonlinear Filters in CMOS for 2-D Signal Processing for Image Quality Enhancement",
+      "Weighted Median Filters: An analog implementation",
+      "Concurrent focal-plane generation of compressed samples from time-encoded pixel values"
+    ]
+  },
+  "others": {
+    "additional_information": "Proficient with EDA tools from Cadence, Siemens EDA and Ansys for design, simulation, layout and signoff. Knowledgeable in Power Integrity studies for ASIC lifetime and reliability using Electromigration and IR drop (EMIR) analysis."
+  }
+}

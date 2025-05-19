@@ -1,0 +1,135 @@
+{
+  "contact": {
+    "name": "Omar Josué",
+    "linkedin": "www.linkedin.com/in/omarjosuehernandez",
+    "website": null,
+    "location": "Región de Bratislava, Eslovaquia",
+    "company": "Swiss Re"
+  },
+  "profile": "Career based on building Enterprise projects (Java, Node.js) pointing to the Twelve-Factor App manifest, most lately building APIs over Cloud platform. Very enthusiast on DevOps, UX design, Agile methodology.",
+  "title": "Senior Software Engineer",
+  "skills": [
+    "Java",
+    "Node.js",
+    "DevOps",
+    "Agile methodology",
+    "API development",
+    "Cloud platforms"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Slovak",
+      "proficiency": "Limited Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Swiss Re",
+      "position": "Senior Solutions Engineer",
+      "duration": "septiembre de 2023 - Present",
+      "location": null
+    },
+    {
+      "company": "IBM CIO",
+      "position": "Dev Lead",
+      "duration": "septiembre de 2021 - agosto de 2023",
+      "location": "Slovakia"
+    },
+    {
+      "company": "IBM",
+      "position": "Senior Software Engineer",
+      "duration": "noviembre de 2019 - septiembre de 2021",
+      "location": null
+    },
+    {
+      "company": "IBM",
+      "position": "Marketing Cloud Consultant",
+      "duration": "junio de 2019 - noviembre de 2019",
+      "location": "Bratislava, Slovakia"
+    },
+    {
+      "company": "IBM",
+      "position": "Application Developer",
+      "duration": "junio de 2016 - noviembre de 2018",
+      "location": "Bratislava"
+    },
+    {
+      "company": "PwC Slovakia",
+      "position": "BPM Cloud Consultant",
+      "duration": "junio de 2015 - junio de 2016",
+      "location": "Bratislava"
+    },
+    {
+      "company": "sngular",
+      "position": "Technical Lead",
+      "duration": "octubre de 2015 - marzo de 2016",
+      "location": null
+    },
+    {
+      "company": "Esebe Software s.r.o.",
+      "position": "Java EE Developer",
+      "duration": "marzo de 2015 - mayo de 2015",
+      "location": "Bratislava"
+    },
+    {
+      "company": "BBVA Compass by MNS",
+      "position": "Java and Web Developer",
+      "duration": "junio de 2013 - marzo de 2015",
+      "location": "Madrid Area, Spain"
+    },
+    {
+      "company": "BBVA by MNS",
+      "position": "Java and Web Developer",
+      "duration": "enero de 2012 - junio de 2013",
+      "location": "Madrid"
+    },
+    {
+      "company": "Ministerio de Trabajo España (MTIN)",
+      "position": "Senior Java Developer",
+      "duration": "julio de 2010 - enero de 2012",
+      "location": null
+    },
+    {
+      "company": "Iberia by TAEIT",
+      "position": "Java Developer",
+      "duration": "julio de 2007 - junio de 2010",
+      "location": null
+    },
+    {
+      "company": "TAE IT",
+      "position": "Java Developer",
+      "duration": "enero de 2007 - junio de 2007",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITVER",
+      "degree": "Software engineering, Database and Software",
+      "duration": "2003 - 2007"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "IBM Design Thinking Practitioner",
+      "IBM Carbon Design System",
+      "Developer Essentials - React",
+      "Certified Pega System Architect",
+      "Data Science Foundations - Level 2 (V2)",
+      "Oracle Certified Associate, Java SE 7 Programmer"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Extensive experience in design of multi-tier applications integrating module projects with Maven, NPM. Good communication skills, team leader enthusiast and diversity seeker."
+  }
+}

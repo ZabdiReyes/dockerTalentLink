@@ -1,0 +1,57 @@
+{
+  "contact": {
+    "name": "Roberto Bustos Hernandez",
+    "linkedin": "www.linkedin.com/in/roberto-bustos-hernandez",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Globant"
+  },
+  "profile": "Specialist Engineer",
+  "title": "Specialist Engineer",
+  "skills": [
+    "Capacidad de análisis",
+    "Experiencia del cliente",
+    "Desarrollo de software"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Globant",
+      "position": "Specialist Engineer SSr Adv",
+      "duration": "abril de 2022 - junio de 2024",
+      "location": "Ciudad de México, México"
+    },
+    {
+      "company": "Welldex Logistics",
+      "position": "Software Development Engineer",
+      "duration": "febrero de 2017 - abril de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Certificado, Ingenieria en Sistemas Computacionales",
+      "duration": "agosto de 2011 - agosto de 2016"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "SCRUM PRODUCT OWNER® CERTIFIED EXPERT",
+      "SCRUM FOUNDATION® CERTIFIED EXPERT",
+      "Competent Leader (CL)",
+      "Advanced Communicator Bronze (ACB)",
+      "SCRUM DEVELOPER TEAM® CERTIFIED EXPERT"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

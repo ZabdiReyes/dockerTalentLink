@@ -1,0 +1,92 @@
+{
+  "contact": {
+    "name": "Ulises G. Montán",
+    "linkedin": "https://www.linkedin.com/in/ugmaster",
+    "website": "http://www.navugma.com",
+    "location": "Ciudad de México, México",
+    "company": "IBM"
+  },
+  "profile": "Microsoft 365 Business Central Technical consultant with experience in deploy extensions for Mexico localizations and new functionalities not native. Microsoft Dynamics Navision Technical Consultant with experience on retail, maintenance current system and new developments.",
+  "title": "Dynamics NAV Consultant",
+  "skills": [
+    "Dynamics NAV",
+    "C#",
+    "Visual",
+    "Python",
+    "Java",
+    "Javascript",
+    "Powerbuilder",
+    "Microsoft SQL Server",
+    "PostgreSQL",
+    "MySQL",
+    "Sybase"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "IBM",
+      "position": "Dynamics NAV Consultant",
+      "duration": "agosto de 2019 - Present",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Dräger",
+      "position": "Dynamics NAV Internal Consultant",
+      "duration": "febrero de 2017 - agosto de 2019",
+      "location": "México"
+    },
+    {
+      "company": "IZERTIS MEXICO",
+      "position": "Microsoft Dynamics NAV Developer",
+      "duration": "agosto de 2015 - febrero de 2017",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Corporativo Yepas",
+      "position": "Developer",
+      "duration": "enero de 2010 - agosto de 2015",
+      "location": "Boca del Río, Veracruz, México"
+    },
+    {
+      "company": "Comercializadora de productos cerveceros sa de cv",
+      "position": "Project Lead",
+      "duration": "febrero de 2008 - enero de 2010"
+    },
+    {
+      "company": "Bufete Constructor America",
+      "position": "System Coordinator",
+      "duration": "febrero de 2006 - febrero de 2008"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "ISC, tecnologias de la información",
+      "duration": "1999 - 2004"
+    },
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "System Compute Engineer, Development and Database",
+      "duration": "1999 - 2004"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "People Skills - Communication, Presentation, Collaboration, and Problem Solving",
+      "Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate",
+      "IBM Agile Explorer",
+      "Achieve New Heights with Microsoft Gen AI, Copilot Mega Event—Participant",
+      "IBM Garage Essentials"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Part of AMS Support Team, for Dynamics NAV Product, on several versions, mainly 2013R2 and 2017. The support activities includes track and solve incidents reported through a specific support tool, gathering changes requests and also develop them and provide support during their implementation."
+  }
+}

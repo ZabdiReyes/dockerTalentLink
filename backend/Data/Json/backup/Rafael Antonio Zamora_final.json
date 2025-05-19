@@ -1,0 +1,40 @@
+{
+  "contact": {
+    "name": "Rafael Antonio Zamora",
+    "linkedin": "https://www.linkedin.com/in/rafael-antonio-zamora-50842b282",
+    "website": null,
+    "location": "Veracruz, Veracruz, Mexico",
+    "company": "Promexa"
+  },
+  "profile": "Soy desarrollador Full Stack con preferencia hacia el Back End, me encanta desarrollar la lógica del negocio e implementar arquitecturas de desarrollo junto a los patrones de diseño adecuados para una elaboración de proyectos de calidad. En el Front End me especializo en crear la lógica de componentes para un funcionamiento de las aplicaciones adecuado y reactivo. Me encanta estudiar, practicar y siempre mantenerme actualizado con lo último en las tendencias y herramientas de desarrollo modernas.",
+  "title": "Software Developer",
+  "skills": [
+    "SQL",
+    "REST APIs",
+    "Project Management"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Promexa",
+      "position": "Software Developer",
+      "duration": "March 2022 - April 2024",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto tecnológico de veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "August 2017 - July 2022"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Mantenimiento de sistemas obsoletos. Desarrollo de SPA utilizando Vue.js y Quasar js, los componentes de quasar fueron modificados para crear una librería propia. Desarrollo de Web Api con .Net Core 7, implementando clean architecture, Entity Framework, Dapper ORM, Hosted Services, SignalR. Lider en proyecto de migración de aplicaciones de escritorio obsoletas llevadas hacía la web con las tecnologías mencionadas anteriormente. Desarrollo de Stored Procedures con SQL Server. Configuración de servidores Linux para el despliegue de aplicaciones web y .Net. Configuracion y despliegue de Apache Kafka para implementación de Event Driven Arquitecture. Documentación de proyectos y tareas elaboradas."
+  }
+}

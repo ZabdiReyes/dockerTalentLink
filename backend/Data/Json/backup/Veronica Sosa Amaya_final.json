@@ -1,0 +1,52 @@
+{
+  "contact": {
+    "name": "Veronica Sosa Amaya",
+    "linkedin": "https://www.linkedin.com/in/veronica-sosa-amaya-03b9828b",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniero en Sistemas Computacionales con experiencia en análisis de datos y logística.",
+  "title": "Analista de Datos",
+  "skills": [
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Análisis de datos"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Nemak",
+      "position": "Analista de Datos (Mantenimiento Industrial)",
+      "duration": "marzo de 2016 - febrero de 2017",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Polimeros de Veracruz S.A.P.I de C.V",
+      "position": "Auxiliar de Almacén (Logística)",
+      "duration": "diciembre de 2013 - febrero de 2014",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "SAHUAYO S.A de C.V",
+      "position": "Becario (Mapeo para la ubicación de clientes)",
+      "duration": "agosto de 2013 - diciembre de 2013",
+      "location": "Veracruz y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto tecnológico de veracruz",
+      "degree": "Sistemas Computacionales",
+      "duration": "2007 - 2012"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

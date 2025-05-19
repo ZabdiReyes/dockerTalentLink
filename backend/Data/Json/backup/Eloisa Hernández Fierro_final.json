@@ -1,0 +1,105 @@
+{
+  "contact": {
+    "name": "Eloisa Hernández Fierro",
+    "linkedin": "www.linkedin.com/in/eloisa-hernández-fierro-3836aa17",
+    "website": null,
+    "location": "Monterrey, Nuevo León, México",
+    "company": null
+  },
+  "profile": "Desarrollador de software con más de 10 años de experiencia profesional en desarrollo de software, centrada en programación back-end Java y bases de datos Oracle.",
+  "title": "Desarrollador de software",
+  "skills": [
+    "Estadística",
+    "Ciencia de datos",
+    "Desarrollo de software"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Developer",
+      "duration": "septiembre de 2022 - Present",
+      "location": null
+    },
+    {
+      "company": "Pentalog",
+      "position": "Back End Developer",
+      "duration": "junio de 2022 - agosto de 2022",
+      "location": null
+    },
+    {
+      "company": "Banregio",
+      "position": "Desarrollador de software",
+      "duration": "enero de 2020 - marzo de 2022",
+      "location": "México"
+    },
+    {
+      "company": "Valtre",
+      "position": "Desarrollador de Software",
+      "duration": "enero de 2018 - enero de 2020",
+      "location": "México"
+    },
+    {
+      "company": "Grupo TI Mexico",
+      "position": "Desarrollador de software",
+      "duration": "enero de 2017 - diciembre de 2017",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Softnet Soluciones SA de CV",
+      "position": "Desarrollador de software",
+      "duration": "octubre de 2014 - diciembre de 2016",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "NETPAY",
+      "position": "Desarrollador Web",
+      "duration": "octubre de 2011 - octubre de 2014",
+      "location": null
+    },
+    {
+      "company": "SoftNet Solutions",
+      "position": "Consultor ORACLE",
+      "duration": "diciembre de 2010 - octubre de 2011",
+      "location": null
+    },
+    {
+      "company": "EBCOMM",
+      "position": "Web Developer",
+      "duration": "abril de 2010 - noviembre de 2010",
+      "location": null
+    },
+    {
+      "company": "GRUPO CICE",
+      "position": "Analista de Desarrollo Sr",
+      "duration": "2008 - abril de 2010",
+      "location": null
+    },
+    {
+      "company": "GOMSA",
+      "position": "Programador Delphi",
+      "duration": "enero de 2008 - marzo de 2008",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "ISC, Computación, Ingeniería",
+      "duration": "2002 - 2007"
+    },
+    {
+      "institution": "CIMAT Aguascalientes",
+      "degree": "Especialidad en Métodos estadísticos enfocados a Ciencia de Datos",
+      "duration": "julio de 2023 - julio de 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Apasionada de la lectura y el aprendizaje continuo, busca mejorar habilidades de comunicación."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "contact": {
+    "name": "Josie Montemayor Fernández",
+    "linkedin": "www.linkedin.com/in/josie-montemayor-fernández-b27607196",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": "Ficachi y Asociados, S.C."
+  },
+  "profile": "Como Project Manager en Ficachi y Asociados, S.C, me dedico a optimizar procesos y fomentar la comunicación efectiva para alcanzar con éxito los objetivos de nuestros proyectos. La formación actual en Gestión de Proyectos en la Universidad del Valle de México está enriqueciendo mi visión estratégica y capacidad de análisis, lo cual se refleja en nuestro equipo al implementar soluciones innovadoras.",
+  "title": "Project Manager",
+  "skills": [
+    "Documentación",
+    "Ambiente de equipo",
+    "Habilidades sociales"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ficachi y Asociados, S.C.",
+      "position": "Project Manager",
+      "duration": "julio de 2019 - Present (5 años 8 meses)",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Ficachi y Asociados, S.C.",
+      "position": "Auxiliar del Área de Administración de Proyectos",
+      "duration": "enero de 2019 - enero de 2023 (4 años 1 mes)",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad del Valle de México",
+      "degree": "Master, Gestión de proyectos",
+      "duration": "marzo de 2022 - febrero de 2025"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ing. en Sistemas Computacionales",
+      "duration": "enero de 2014 - junio de 2019"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Comprometida con el aprendizaje continuo y la búsqueda de la excelencia."
+  }
+}

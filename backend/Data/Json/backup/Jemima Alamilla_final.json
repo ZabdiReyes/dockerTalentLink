@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "name": "Jemima Alamilla",
+    "linkedin": "https://www.linkedin.com/in/jemimaalamillam",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "TenarisTamsa"
+  },
+  "profile": "Practicante de TI en TenarisTamsa",
+  "title": "Practicante de TI",
+  "skills": [],
+  "languages": [],
+  "experience": [
+    {
+      "company": "TenarisTamsa",
+      "position": "Practicante de TI",
+      "duration": "enero de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico Nacional de Mexico campus Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "agosto de 2019 - agosto de 2024"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

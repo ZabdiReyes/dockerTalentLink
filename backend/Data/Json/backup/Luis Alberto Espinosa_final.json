@@ -1,0 +1,64 @@
+{
+  "contact": {
+    "name": "Luis Alberto Espinosa González",
+    "linkedin": "https://www.linkedin.com/in/luis-alberto-espinosa-gonzález-7988784a",
+    "website": null,
+    "location": "Raleigh, Carolina del Norte, Estados Unidos",
+    "company": "Syntax"
+  },
+  "profile": "SAP Principal en Syntax con más de 10 años de experiencia en administración de SAP Basis y consultoría.",
+  "title": "SAP Principal",
+  "skills": [
+    "SAP HANA",
+    "SAP Portal",
+    "SAP Solutions"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": null
+    },
+    {
+      "language": "Español",
+      "proficiency": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Syntax",
+      "position": "Senior SAP Basis Administrator",
+      "duration": "julio de 2018 - Present",
+      "location": "Estados Unidos"
+    },
+    {
+      "company": "Syntax",
+      "position": "SAP Basis Consultant",
+      "duration": "mayo de 2014 - Present",
+      "location": "Puebla de Zaragoza Area, Mexico"
+    },
+    {
+      "company": "T-Systems México Puebla",
+      "position": "SAP BASIS Consultant",
+      "duration": "enero de 2010 - mayo de 2014",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Engineer's degree, Systems Engineering",
+      "duration": "2005 - 2009"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "SAP Certified Technology Associate - System Administration (DB2 LUW) with SAP NetWeaver 7.4",
+      "System Administration (SAP HANA as a database) with SAP Netweaver 7.4"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Experiencia en administración de servidores MDM e integración con SAP Portals."
+  }
+}

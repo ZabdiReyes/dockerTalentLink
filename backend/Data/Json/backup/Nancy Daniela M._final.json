@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Nancy Daniela M.",
+    "linkedin": "www.linkedin.com/in/nancy-daniela-mendez-arpidez",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Programador web jr.",
+  "title": "Desarrollador Fullstack",
+  "skills": [
+    "Desarrollo web back end",
+    "Spring Framework",
+    "PostgreSQL"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "CrediSelect",
+      "position": "Programador Jr",
+      "duration": "agosto de 2024 - Present",
+      "location": null
+    },
+    {
+      "company": "Rufi.mx",
+      "position": "Programador Web Jr",
+      "duration": "noviembre de 2023 - agosto de 2024",
+      "location": "México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Licenciatura, Ingeniería en Sistemas Computacionales",
+      "duration": "agosto de 2018 - junio de 2023"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

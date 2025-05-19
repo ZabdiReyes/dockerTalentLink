@@ -1,0 +1,79 @@
+{
+  "contact": {
+    "name": "Luis Ernesto Freyre Gonzalez",
+    "linkedin": "https://www.linkedin.com/in/freyregonzalez",
+    "website": null,
+    "location": "Área metropolitana de Veracruz, México",
+    "company": "Insulet Corporation"
+  },
+  "profile": "As an experienced Analyst QA Engineer/Lead Quality Engineer, I specialize in enhancing software quality and efficiency through innovative testing strategies and robust automation frameworks. My technical expertise spans JAVA, Cucumber, JMeter, Postman, Git, and Jenkins Pipelines, enabling me to deliver high-quality solutions across diverse project environments.",
+  "title": "Cloud Test Engineer",
+  "skills": [
+    "Cucumber",
+    "Jenkins",
+    "Automatización de pruebas"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Insulet Corporation",
+      "position": "Cloud Test Engineer",
+      "duration": "septiembre de 2024 - Present (6 meses)",
+      "location": "México"
+    },
+    {
+      "company": "AgileThought",
+      "position": "Lead QA Engineer",
+      "duration": "enero de 2024 - agosto de 2024 (8 meses)",
+      "location": "México"
+    },
+    {
+      "company": "AgileThought",
+      "position": "Analyst Quality Engineer",
+      "duration": "agosto de 2022 - mayo de 2024 (1 año 10 meses)",
+      "location": "México"
+    },
+    {
+      "company": "Brivé Soluciones",
+      "position": "Automation Tester engineer",
+      "duration": "octubre de 2021 - julio de 2022 (10 meses)",
+      "location": "Área metropolitana de Ciudad de México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Information Technology Trainee",
+      "duration": "septiembre de 2020 - agosto de 2021 (1 año)",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "ClickSoft México",
+      "position": "Becario desarrollador",
+      "duration": "enero de 2020 - abril de 2020 (4 meses)",
+      "location": "Puebla, Puebla, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto tecnologico de veracruz",
+      "degree": "Ingeneria en sistemas computacionales, Procesamiento Distribuido de Alto Desempeño",
+      "duration": "2015 - 2020"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Key accomplishments include spearheading a critical testing project for AgileThought, leading a performance tuning initiative using JMeter, and developing a comprehensive API testing strategy with Postman."
+  }
+}

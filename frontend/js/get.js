@@ -1,195 +1,159 @@
+// ─────────────────── Elementos del DOM ───────────────────
 const searchInput = document.getElementById("searchInput");
-const tagList = document.getElementById("tagList");
-const searchBtn = document.getElementById("searchBtn");
-const resultsDiv = document.getElementById("results");
+const tagList     = document.getElementById("tagList");
+const searchBtn   = document.getElementById("searchBtn");
+const resultsDiv  = document.getElementById("results");
 
-let tags = [];
+// ─────────────────── Config & datos en memoria ───────────
+const API_URL = "https://humble-halibut-rq4q66qxq5g2x699-8000.app.github.dev";
+let tags = [];   // almacena strings:  skills, skills:python …
 
+// 1ª categoría y secciones anidadas válidas
 const etiquetasPrimera = new Set([
-  "profile", "title", "skills", "languages",
-  "experience", "education", "achievements", "others", "contact"
+  "profile","title","skills","languages",
+  "experience","education","achievements","others","contact"
 ]);
-
 const seccionesValidas = new Set([
-  "contact.name", "contact.linkedin", "contact.website",
-  "contact.location", "contact.company",
-  "achievements.certifications", "achievements.awards_honors",
-  "achievements.publications", "others.additional_information"
+  "contact.name","contact.linkedin","contact.website",
+  "contact.location","contact.company",
+  "achievements.certifications","achievements.awards_honors",
+  "achievements.publications","others.additional_information"
 ]);
 
-function normalize(text) {
-  return text.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-}
+// ─────────────────── Utilidades ───────────────────────────
+const normalize = t => t.normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase();
 
 function validarEtiqueta(tag) {
   if (tag.includes(":")) {
-    const [etiqueta, ...resto] = tag.split(":");
-    const valor = resto.join(":"); // permite valores con ":" dentro
-    const etiquetaNorm = normalize(etiqueta);
-    if (etiquetasPrimera.has(etiquetaNorm) || seccionesValidas.has(etiquetaNorm)) {
-      return { valida: true, tipo: "con_valor", etiqueta: etiquetaNorm, valor };
-    } else {
-      return { valida: false };
-    }
-  } else {
-    const etiquetaNorm = normalize(tag);
-    if (etiquetasPrimera.has(etiquetaNorm) || seccionesValidas.has(etiquetaNorm)) {
-      return { valida: true, tipo: "sin_valor", etiqueta: etiquetaNorm };
-    } else {
-      return { valida: false };
-    }
+    const [etq] = tag.split(":");
+    const eNorm = normalize(etq);
+    return (etiquetasPrimera.has(eNorm) || seccionesValidas.has(eNorm));
   }
+  const eNorm = normalize(tag);
+  return (etiquetasPrimera.has(eNorm) || seccionesValidas.has(eNorm));
 }
 
-searchInput.addEventListener("keydown", function (e) {
-  if (e.key === "Enter" && this.value.trim() !== "") {
-    const input = this.value.trim();
-    if (input.startsWith("#")) {
-      addTag(input.substring(1));
-      this.value = "";
-    }
+function buildSearchURL(query, tagsArr) {
+  let url = `${API_URL}/buscar/?query=${encodeURIComponent(query.trim())}`;
+  if (tagsArr.length) {
+    url += `&tags=${encodeURIComponent(tagsArr.join(","))}`;
+  }
+  return url;
+}
+
+// ─────────────────── Captura de etiquetas (#) ─────────────
+searchInput.addEventListener("keydown", e => {
+  if (e.key === "Enter" && searchInput.value.trim().startsWith("#")) {
+    const raw = searchInput.value.trim().slice(1); // quita #
+    if (validarEtiqueta(raw)) addTag(raw);
+    searchInput.value = "";
   }
 });
 
-function addTag(tag) {
-  const info = validarEtiqueta(tag); // No se normaliza aún el string completo
-  const normTag = info.tipo === "con_valor"
-    ? `${normalize(info.etiqueta)}:${info.valor}`  // Solo normaliza la etiqueta
-    : normalize(tag);
+function addTag(tagStr) {
+  const tagNorm = tagStr.toLowerCase();
+  if (tags.includes(tagNorm)) return; // evitar duplicados
+  tags.push(tagNorm);
 
-  // Evitar duplicados en tags
-  if (tags.includes(normTag)) return;
+  const span = document.createElement("span");
+  span.className = "tag";
+  span.textContent = tagStr;
 
-  const tagEl = document.createElement("span");
-  tagEl.className = "tag";
+  // color según lleve valor o no
+  span.style.backgroundColor = tagStr.includes(":") ? "#388e3c" : "#81c784";
 
-  const closeBtn = document.createElement("span");
-  closeBtn.className = "tag-close";
-  closeBtn.textContent = " ✕";
-  closeBtn.addEventListener("click", () => {
-    tagList.removeChild(tagEl);
-    tags = tags.filter((t) => t !== normTag);
-  });
-
-  if (!info.valida) {
-    tagEl.style.backgroundColor = "#e74c3c"; // rojo
-    tagEl.textContent = tag;
-    tagEl.appendChild(closeBtn);
-    tagList.appendChild(tagEl);
-    return; // No lo añade a `tags`
-  }
-
-  tags.push(normTag);
-
-  if (info.tipo === "sin_valor") {
-    tagEl.style.backgroundColor = "#81c784"; // verde claro
-    tagEl.textContent = tag;
-  } else if (info.tipo === "con_valor") {
-    tagEl.style.backgroundColor = "#388e3c"; // verde oscuro
-    tagEl.innerHTML = `<strong>${info.etiqueta}:</strong> ${info.valor}`;
-  }
-
-  tagEl.appendChild(closeBtn);
-  tagList.appendChild(tagEl);
+  // botón ✕
+  const x = document.createElement("span");
+  x.className = "tag-close";
+  x.textContent = " ✕";
+  x.onclick = () => {
+    tagList.removeChild(span);
+    tags = tags.filter(t => t !== tagNorm);
+  };
+  span.appendChild(x);
+  tagList.appendChild(span);
 }
 
+// ─────────────────── Búsqueda ─────────────────────────────
 searchBtn.addEventListener("click", async () => {
-  let queryInput = searchInput.value.trim();
-
-  if (!queryInput || queryInput.startsWith("#")) {
-    resultsDiv.innerHTML = "<p>Por favor escribe una consulta antes de buscar.</p>";
+  const queryText = searchInput.value.trim();
+  if (!queryText && !tags.length) {
+    resultsDiv.innerHTML = "<p>Escribe una consulta o al menos una etiqueta.</p>";
     return;
   }
 
-  // Limpiar etiquetas inválidas antes de enviar
-  const nuevasTags = [];
-  tags.forEach((t) => {
-    const info = validarEtiqueta(t);
-    if (info.valida) {
-      nuevasTags.push(t);
-    } else {
-      // Eliminar visualmente la etiqueta inválida
-      const tagSpans = [...tagList.children];
-      tagSpans.forEach(el => {
-        if (normalize(el.textContent.replace(" ✕", "")) === normalize(t)) {
-          tagList.removeChild(el);
-        }
-      });
-    }
-  });
-  tags = nuevasTags;
+  // Construir URL
+  const url = buildSearchURL(queryText, tags);
+  console.log("URL:", url);
 
-  const sectionTags = tags.filter(t => !t.includes(":"));
-  const filterTags = tags.filter(t => t.includes(":"));
-
-  const sections = sectionTags.join(",");
-  const filters = filterTags.join(",");
-
-  resultsDiv.innerHTML = "<p>Buscando...</p>";
+  // limpiar UI
+  resultsDiv.innerHTML = "<p>Buscando…</p>";
   searchInput.value = "";
 
   try {
-    const API_URL = "https://humble-halibut-rq4q66qxq5g2x699-8000.app.github.dev"; // <- sin slash
-    const url = `${API_URL}/buscar/?query=${encodeURIComponent(queryInput)}&sections=${encodeURIComponent(sections)}&filters=${encodeURIComponent(filters)}`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("API error");
+    const data = await res.json();
 
-    const response = await fetch(url);
-    if (!response.ok) throw new Error("La API devolvió un error");
-
-    const data = await response.json();
-    resultsDiv.innerHTML = "";
-
-    if (!data || !Array.isArray(data.resultados) || data.resultados.length === 0) {
-      resultsDiv.innerHTML = "<p>No se encontraron coincidencias o la consulta fue vacía.</p>";
+    if (!data.resultados?.length) {
+      resultsDiv.innerHTML = "<p>No se encontraron coincidencias.</p>";
       return;
     }
 
+    // ── Render CVs ────────────────────────────────────────
+    resultsDiv.innerHTML = "";
     data.resultados.forEach((item, i) => {
-      const cv = item.cv || {};
-      const contact = cv.contact || {};
-      const name = contact.name || "Sin nombre";
-      const linkedin = contact.linkedin || "#";
-      const title = cv.title || "Sin título";
-      const skills = Array.isArray(cv.skills) ? cv.skills.join(", ") : "No especificadas";
+      const cv        = item.cv || {};
+      const contact   = cv.contact || {};
+      const name      = contact.name || "Sin nombre";
+      const linkedin  = contact.linkedin || "#";
+      const title     = cv.title || "Sin título";
+      const skills    = Array.isArray(cv.skills) ? cv.skills.join(", ") : "No especificadas";
       const languages = Array.isArray(cv.languages)
-        ? cv.languages.map(l => typeof l === "string" ? l : l.language || "").filter(Boolean).join(", ")
+        ? cv.languages.map(l => typeof l === "string" ? l : l.language||"").filter(Boolean).join(", ")
         : "No especificados";
 
-      const experience = Array.isArray(cv.experience) && cv.experience.length > 0
-        ? `${cv.experience[0].position || "Cargo desconocido"} en ${cv.experience[0].company || "Empresa desconocida"} (${cv.experience[0].duration || "Duración no especificada"})`
+      const exp = (cv.experience?.[0]) ?
+        `${cv.experience[0].position || "Cargo"} en ${cv.experience[0].company || "Empresa"} (${cv.experience[0].duration || "-"})`
         : "No disponible";
 
-      const education = Array.isArray(cv.education) && cv.education.length > 0
-        ? `${cv.education[0].degree || "Título desconocido"} en ${cv.education[0].institution || "Institución desconocida"} (${cv.education[0].duration || "Duración no especificada"})`
+      const edu = (cv.education?.[0]) ?
+        `${cv.education[0].degree || "Título"} en ${cv.education[0].institution || "Institución"} (${cv.education[0].duration || "-"})`
         : "No disponible";
 
-      const safeLinkedin = linkedin.startsWith("http") ? linkedin : `https://${linkedin}`;
+      const safeLink = linkedin.startsWith("http") ? linkedin : `https://${linkedin}`;
 
       const card = document.createElement("div");
       card.className = "cv-card";
       card.innerHTML = `
         <h3>${name}</h3>
         <p><strong>Puesto:</strong> ${title}</p>
-        <p><strong>LinkedIn:</strong> <a href="${safeLinkedin}" target="_blank">${safeLinkedin}</a></p>
-
-        <div style="margin-top: 10px;">
-          <p><strong>Habilidades:</strong><br> ${skills}</p>
-          <p><strong>Idiomas:</strong><br> ${languages}</p>
-          <p><strong>Última experiencia:</strong><br> ${experience}</p>
-          <p><strong>Última educación:</strong><br> ${education}</p>
-          <p class="puntaje"><strong>Puntaje:</strong> ${data.puntuaciones?.[i]?.toFixed(2) || "N/A"}</p>
-        </div>
+        <p><strong>LinkedIn:</strong> <a href="${safeLink}" target="_blank">${safeLink}</a></p>
+        <p><strong>Habilidades:</strong> ${skills}</p>
+        <p><strong>Idiomas:</strong> ${languages}</p>
+        <p><strong>Última experiencia:</strong> ${exp}</p>
+        <p><strong>Última educación:</strong> ${edu}</p>
+        <p class="puntaje"><strong>Puntaje:</strong> ${data.puntuaciones?.[i]?.toFixed(2) || "N/A"}</p>
       `;
-
       resultsDiv.appendChild(card);
     });
 
+  } catch (err) {
+    console.error(err);
+    resultsDiv.innerHTML = "<p>Error al buscar. Intenta de nuevo.</p>";
+  }
+});
 
-  } catch (error) {
-    console.error("Error en fetch:", error);
-    console.log("URL final:", url);
-    console.log("Etiquetas:", tags);
-    console.log("Query:", queryInput);
-    resultsDiv.innerHTML = "<p>Error al buscar. Por favor intenta de nuevo.</p>";
+// ── Mostrar / ocultar la guía de etiquetas ─────────────────
+const helpBtn = document.getElementById("helpBtn");
+const tagHelp = document.getElementById("tagHelp");
 
+helpBtn.addEventListener("click", () => {
+  tagHelp.classList.toggle("hidden");
+});
+
+document.addEventListener("click", (e) => {
+  if (!tagHelp.contains(e.target) && e.target !== helpBtn) {
+    tagHelp.classList.add("hidden");
   }
 });

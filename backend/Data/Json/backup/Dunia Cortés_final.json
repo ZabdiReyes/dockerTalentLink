@@ -1,0 +1,48 @@
+{
+  "contact": {
+    "name": "Dunia Cortés",
+    "linkedin": "www.linkedin.com/in/duniacortes",
+    "website": null,
+    "location": "Roma Sur, Ciudad de México, México",
+    "company": "Konesh Soluciones"
+  },
+  "profile": "Directora de Consultoría",
+  "title": "Directora de Consultoría",
+  "skills": [
+    "Consultoría",
+    "Gestión de Proyectos"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Konesh Soluciones",
+      "position": "Gerente de consultoría",
+      "duration": "enero de 2010 - Present",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Diplomado en administración de proyectos",
+      "duration": "noviembre de 2013 - agosto de 2014"
+    },
+    {
+      "institution": "Instituto Técnologico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Project Management Professional",
+      "ITIL® Foundation Certificate in IT Service Management",
+      "Scrum Master Certified"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

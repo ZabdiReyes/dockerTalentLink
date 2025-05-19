@@ -1,0 +1,163 @@
+{
+  "contact": {
+    "name": "Jose Daniel Cuadra Kayser",
+    "linkedin": "www.linkedin.com/in/danielcuadra",
+    "website": null,
+    "location": "Veracruz, Mexico",
+    "company": "PPG"
+  },
+  "profile": "I am a proactive business analyst and software engineer with international experience, majored in Computer Systems Engineering, Master in Industrial Engineering and paired with over 12 years of professional experience working on different areas such as manufacturing, logistics, human resources, business management and industrial costing.",
+  "title": "Senior Business Analyst | Technical Product Owner | Project Manager",
+  "skills": [
+    "Desarrollo de oportunidades de negocio",
+    "Mejora de procesos",
+    "Gestión de proyectos"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Japonés",
+      "proficiency": "Limited Working"
+    },
+    {
+      "language": "Italiano",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Francés",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Alemán",
+      "proficiency": "Elementary"
+    }
+  ],
+  "experience": [
+    {
+      "company": "PPG",
+      "position": "Technical Product Owner",
+      "duration": "septiembre de 2023 - Present",
+      "location": null
+    },
+    {
+      "company": "PPG",
+      "position": "Business Analyst Specialist",
+      "duration": "septiembre de 2022 - septiembre de 2023",
+      "location": null
+    },
+    {
+      "company": "ARKEIDS",
+      "position": "General Manager",
+      "duration": "junio de 2018 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Self employed",
+      "position": "Information Technology Business Analyst",
+      "duration": "julio de 2015 - septiembre de 2022",
+      "location": null
+    },
+    {
+      "company": "RECO Redes y Consultoría",
+      "position": "Information Technology Business Analyst",
+      "duration": "agosto de 2017 - diciembre de 2017",
+      "location": null
+    },
+    {
+      "company": "Work in Love",
+      "position": "Project Analyst",
+      "duration": "agosto de 2016 - julio de 2017",
+      "location": "Veracruz"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Industrial Management Control Analyst",
+      "duration": "diciembre de 2014 - junio de 2015",
+      "location": null
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "IT Applications Analyst",
+      "duration": "mayo de 2011 - noviembre de 2014",
+      "location": null
+    },
+    {
+      "company": "Ritsumeikan University",
+      "position": "Software Engineer",
+      "duration": "marzo de 2010 - noviembre de 2010",
+      "location": "Kusatsu, Japan"
+    },
+    {
+      "company": "Bintech",
+      "position": "Software Engineer",
+      "duration": "mayo de 2009 - diciembre de 2009",
+      "location": null
+    },
+    {
+      "company": "Sinergia Corporativa",
+      "position": "Software Engineer",
+      "duration": "julio de 2008 - febrero de 2009",
+      "location": null
+    },
+    {
+      "company": "Tenaris",
+      "position": "Trainee",
+      "duration": "junio de 2007 - febrero de 2008",
+      "location": null
+    },
+    {
+      "company": "Instituto Tecnológico de Veracruz",
+      "position": "Software Engineer",
+      "duration": "agosto de 2006 - marzo de 2007",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Diploma, Managerial Skills",
+      "duration": "2009 - 2010"
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "Global Startup Lab, Entrepreneurship",
+      "duration": "2015 - 2015"
+    },
+    {
+      "institution": "Universidad Cristóbal Colón",
+      "degree": "Young Entrepreneurs Program, Entrepreneurship",
+      "duration": "2012 - 2012"
+    },
+    {
+      "institution": "Ritsumeikan University",
+      "degree": "Diploma in Information Technology, Information Science and Engineering",
+      "duration": "2010 - 2010"
+    },
+    {
+      "institution": "Universidad Cristóbal Colón",
+      "degree": "Master's, Industrial Engineering",
+      "duration": "2008 - 2010"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Prepare Data for Exploration",
+      "Sun Certified Programmer",
+      "Microsoft Project 2007, Managing Projects",
+      "Analyze Data to Answer Questions",
+      "Python Essentials 1"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": ""
+  }
+}

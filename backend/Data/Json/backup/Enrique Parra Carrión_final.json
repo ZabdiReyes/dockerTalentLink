@@ -1,0 +1,74 @@
+{
+  "contact": {
+    "name": "Enrique Parra Carrión",
+    "linkedin": "www.linkedin.com/in/enriqueparrac",
+    "website": null,
+    "location": "Monterrey, Nuevo León, México",
+    "company": "DataSystems Group"
+  },
+  "profile": "Ingeniero en Sistemas Computacionales con más de dos décadas de experiencia en el ciclo de desarrollo de software (SDLC) y 7 años de experiencia en desarrollo FullStack, con Python, JavaScript y Postgres.",
+  "title": "Desarrollador Python Senior",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Django",
+    "Node.js",
+    "PostgreSQL",
+    "Git",
+    "Visual Studio Code"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "DataSystems Group",
+      "position": "Desarrollador de software",
+      "duration": "mayo de 2017 - Present (7 años 10 meses)",
+      "location": "Monterrey, Nuevo León, México"
+    },
+    {
+      "company": "Axtel",
+      "position": "Desarrollador Lotus Notes",
+      "duration": "julio de 2007 - marzo de 2017 (9 años 9 meses)",
+      "location": "Monterrey, Nuevo León, México"
+    },
+    {
+      "company": "Villacero",
+      "position": "Desarrollador Lotus Notes",
+      "duration": "agosto de 2000 - julio de 2007 (7 años)",
+      "location": "Monterrey, Nuevo León, México"
+    },
+    {
+      "company": "Intervan Inc",
+      "position": "Soporte y Desarrollador Lotus Notes",
+      "duration": "agosto de 1998 - julio de 2000 (2 años)",
+      "location": "Monterrey, Nuevo León, México"
+    },
+    {
+      "company": "CONALEP",
+      "position": "Docente de Informática",
+      "duration": "septiembre de 1995 - agosto de 1998 (3 años)",
+      "location": "Veracruz"
+    },
+    {
+      "company": "Computación del Golfo",
+      "position": "Docente de Informática y Desarrollador Visual Basic",
+      "duration": "enero de 1994 - febrero de 1996 (2 años 2 meses)",
+      "location": "Veracruz"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Licenciatura, Ingeniería en Sistemas Computacionales",
+      "duration": "1990 - 1994"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Comprometido, autodidacta, actitud de servicio."
+  }
+}

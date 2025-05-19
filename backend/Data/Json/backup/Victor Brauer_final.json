@@ -1,0 +1,96 @@
+{
+  "contact": {
+    "name": "Victor Brauer",
+    "linkedin": "https://www.linkedin.com/in/victor-brauer-91316227",
+    "website": null,
+    "location": "Augsburgo, Baviera, Alemania",
+    "company": "MAN Energy Solutions"
+  },
+  "profile": "I have more than 10 years in the automotive industry experience, in 6 different positions, that let me understand better this business. I am a positive professional and I consider myself an IT expert. I am focused on results and in processes improvement.",
+  "title": "IT Domain Lead Enterprise Functions",
+  "skills": [
+    "Aptitudes para la coordinación",
+    "Automotive",
+    "SAP"
+  ],
+  "languages": [
+    {
+      "language": "Alemán",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "MAN Energy Solutions",
+      "position": "IT Domain Lead for Enterprise Functions",
+      "duration": "enero de 2023 - Present",
+      "location": "Augsburgo, Baviera, Alemania"
+    },
+    {
+      "company": "Volkswagen de México",
+      "position": "RPAs Program Manager",
+      "duration": "enero de 2020 - diciembre de 2022",
+      "location": "Puebla, México"
+    },
+    {
+      "company": "Volkswagen Group Services Mexico",
+      "position": "Non SAP Support Applications (AMS) /Middleware NAR Manager / emailing support 365",
+      "duration": "noviembre de 2017 - diciembre de 2022",
+      "location": "Puebla de Zaragoza y alrededores, México"
+    },
+    {
+      "company": "VW de Mexico",
+      "position": "IT Manager of (AMS) Application Management Service for Production Systems",
+      "duration": "mayo de 2015 - octubre de 2017",
+      "location": "Volkswagen de Mexico"
+    },
+    {
+      "company": "Volkswagen de Mexico",
+      "position": "IT Silao Manager",
+      "duration": "marzo de 2014 - abril de 2015",
+      "location": "Planta de Agregados Guanajuato Volkswagen de México"
+    },
+    {
+      "company": "Volkswagen de México",
+      "position": "IT and Processes Specialist",
+      "duration": "junio de 2010 - febrero de 2014",
+      "location": null
+    },
+    {
+      "company": "Volkswagen de México",
+      "position": "Controller Best of Benchmarking",
+      "duration": "enero de 2009 - mayo de 2010",
+      "location": null
+    },
+    {
+      "company": "Volkswagen de México",
+      "position": "Business Continuity Planner",
+      "duration": "junio de 2004 - diciembre de 2008",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "UPAEP",
+      "degree": "Strategic Planning and Technology Steering (Master Degree)",
+      "duration": "2011 - 2014"
+    },
+    {
+      "institution": "INSTITUTO TECNOLOGICO DE VERACRUZ",
+      "degree": "Computer Systems Engineering (Bachelor Degree)",
+      "duration": "1999 - 2004"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "I am an active person who is aligned with the goals of the company and to contribute to them actively. Project Manager for RPA in VWM responsible for the strategy definition."
+  }
+}

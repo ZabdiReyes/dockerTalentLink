@@ -12,8 +12,8 @@ uploadForm.addEventListener("submit", async (e) => {
     return;
   }
 
-  if (files.length > 20) {
-    uploadStatus.textContent = "Solo se permiten hasta 20 archivos.";
+  if (files.length > 50) {
+    uploadStatus.textContent = "Solo se permiten hasta 50 archivos.";
     uploadStatus.style.color = "red";
     return;
   }

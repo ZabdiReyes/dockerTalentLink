@@ -1,0 +1,99 @@
+{
+  "contact": {
+    "name": "Minerva Martin del Campo Barraza",
+    "linkedin": "www.linkedin.com/in/minerva-montse",
+    "website": null,
+    "location": "Edinburgh, Scotland, United Kingdom",
+    "company": "Business Modelling Applications"
+  },
+  "profile": "I am a researcher interested in developing optimisation and data science as tools to generate new opportunities to improve processes and create solutions that empower individuals and benefit organisations. I am globally-minded individual in constant search of new experiences and passion for solving problems. I consider myself adaptable and organised, with strong analytical skills and attention to detail with an enthusiastic approach to work. Currently, I am looking for new opportunities as a Data Scientist with an innovative company.",
+  "title": "OR Analytics and Optimisation Consultant",
+  "skills": [
+    "Research Projects",
+    "Research Skills",
+    "SQL"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Business Modelling Applications",
+      "position": "OR Analytics and Optimisation Consultant",
+      "duration": "septiembre de 2021 - Present",
+      "location": null
+    },
+    {
+      "company": "The University of Edinburgh",
+      "position": "Tutor",
+      "duration": "enero de 2017 - septiembre de 2021",
+      "location": "Edinburgh, Scotland, United Kingdom"
+    },
+    {
+      "company": "Universidad Panamericana",
+      "position": "Academic Coordinator/Teacher",
+      "duration": "noviembre de 2011 - agosto de 2015",
+      "location": "Guadalajara"
+    },
+    {
+      "company": "Universidad Panamericana",
+      "position": "Assistant Lecturer",
+      "duration": "agosto de 2009 - junio de 2012",
+      "location": "Guadalajara, Jalisco, Mexico"
+    },
+    {
+      "company": "bdm instalaciones",
+      "position": "Designer of electrical projects",
+      "duration": "agosto de 2010 - octubre de 2011",
+      "location": "Guadalajara, Jalisco, Mexico"
+    },
+    {
+      "company": "BIPCO",
+      "position": "Intern within Design team",
+      "duration": "julio de 2007 - julio de 2010",
+      "location": "Guadalajara, Jalisco, Mexico"
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Edinburgh",
+      "degree": "Doctor of Philosophy - PhD, Optimization and Operational Research",
+      "duration": "2017 - 2021"
+    },
+    {
+      "institution": "The University of Edinburgh",
+      "degree": "Master of Science (MSc), Operational Research with Computational Optimization",
+      "duration": "2015 - 2016"
+    },
+    {
+      "institution": "Universidad Panamericana",
+      "degree": "Bachelor of Engineering - BE, Mechatronic Engineering",
+      "duration": "2004 - 2009"
+    },
+    {
+      "institution": "Universidad Panamericana",
+      "degree": "Specialist diploma, Didactic Competencies",
+      "duration": "2013 - 2014"
+    },
+    {
+      "institution": "Universidad Panamericana",
+      "degree": "Specialist diploma, Anthropology and Ethics",
+      "duration": "2012 - 2013"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

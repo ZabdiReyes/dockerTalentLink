@@ -7,6 +7,7 @@ from app import *
 from pathlib import Path
 import re
 import numpy as np
+from urllib.parse import unquote_plus
 
 # Helpers del pipeline
 from app.utils.pipeline import (
@@ -182,76 +183,89 @@ async def upload_pdf(files: List[UploadFile] = File(...)):
 
 
 @app.get("/buscar/")
-def buscar_cv(query: str = "", top_k: int = 5):
-    if not query.strip():
-        return {"error": "Debes proporcionar una consulta (query)."}
+def buscar_cv(
+    query: str = "",
+    tags: str = "",
+    top_k: int | None = None,
+    min_score: float = 0.5          # ← umbral configurable
+):
+    query_libre = query.strip()
 
-    query = query.strip()
+    # ── Parsear tags ───────────────────────────────────────
+    etiquetas: list[tuple[str, str]] = []     # (etiqueta, valor)
+    secciones_solo_emb: list[str] = []        # etiquetas sin valor
 
-    # 🧩 Extraer todas las etiquetas con valores
-    etiquetas = re.findall(r'([a-zA-Z.]+):"([^"]+)"', query)
-    query_libre = re.sub(r'[a-zA-Z.]+:"[^"]+"', '', query).strip()
+    if tags:
+        for p in [s.strip() for s in tags.split(",") if s.strip()]:
+            if ":" in p:
+                etq, val = p.split(":", 1)
+                etiquetas.append((etq.strip(), unquote_plus(val.strip())))
+            else:
+                secciones_solo_emb.append(p)
 
-    # 🧱 Construir filtro Mongo con $and
-    filtro_mongo = {"$and": []}
+    # ── Filtrado directo (etiqueta + valor) ─────────────── etiqueta:valor
+    filtro = {"$and": []}
     for etiqueta, valor in etiquetas:
         if etiqueta in ETIQUETAS_PRIMERA:
             campo = f"cv_concatenado.{etiqueta}"
-            filtro_mongo["$and"].append({campo: {"$regex": valor, "$options": "i"}})
         elif etiqueta in SECCIONES_VALIDAS:
             campo = f"cv.{etiqueta}"
-            filtro_mongo["$and"].append({campo: {"$regex": valor, "$options": "i"}})
+        else:
+            continue
+        filtro["$and"].append({campo: {"$regex": valor, "$options": "i"}})
 
-    # Si no hubo etiquetas válidas, buscar todo
-    if not filtro_mongo["$and"]:
-        documentos_filtrados = list(db["cvs"].find({}))
-    else:
-        documentos_filtrados = list(db["cvs"].find(filtro_mongo))
-
-    if not documentos_filtrados:
+    docs_cv = list(
+        db["cvs"].find(filtro if filtro["$and"] else {}, {"_id": 0})
+    )
+    if not docs_cv:
         return {"query": query, "resultados": [], "puntuaciones": []}
 
-    # 🔍 Obtener nombres para buscar embeddings
-    nombres_filtrados = [doc["name"] for doc in documentos_filtrados]
-    embedding_docs = list(db["cv_embeddings"].find({ "name": { "$in": nombres_filtrados } }))
+    # ── Ranking por embeddings (si hay query libre) ───────
+    puntuaciones: list[float] = []
 
-    # Si no hay query libre, solo devuelve los nombres filtrados
-    if not query_libre:
-        return {"query": query, "resultados": nombres_filtrados, "puntuaciones": []}
+    if query_libre:
+        query_vec = obtener_embedding_texto(query_libre, modelo)
+        nombres   = [d["name"] for d in docs_cv]
 
-    # 🔄 Embedding de la query libre
-    query_vector = obtener_embedding_texto(query_libre, modelo)
+        emb_docs = db["cv_embeddings"].find(
+            {"name": {"$in": nombres}}, {"_id": 0}
+        )
 
-    resultados = []
-    for doc in embedding_docs:
-        vectores = []
+        resultados = []
+        for emb in emb_docs:
+            vectores = []
+            if secciones_solo_emb:
+                for sec in secciones_solo_emb:
+                    vectores.extend(emb["embedding"].get(sec, []))
+            else:
+                for v in emb["embedding"].values():
+                    vectores.extend(v)
 
-        # Si hay etiquetas de 1ra categoría, usar solo esas secciones
-        secciones_a_usar = [et[0] for et in etiquetas if et[0] in ETIQUETAS_PRIMERA]
-        if secciones_a_usar:
-            for seccion in secciones_a_usar:
-                vectores.extend(doc["embedding"].get(seccion, []))
-        else:
-            # Si no se especificó sección, usar todas
-            for v in doc["embedding"].values():
-                vectores.extend(v)
+            score = cosine_similarity_top_k(query_vec, vectores, k=1)
+            if score >= min_score:
+                resultados.append((emb["name"], score))
 
-        score = cosine_similarity_top_k(query_vector, vectores, k=3)
-        resultados.append((doc["name"], score))
+        # Ordenar por score descendente
+        resultados.sort(key=lambda x: x[1], reverse=True)
 
-    resultados.sort(key=lambda x: x[1], reverse=True)
+        # Nombres y diccionario {nombre:score}
+        nombres_validos = [n for n, _ in resultados]
+        orden           = {n: s for n, s in resultados}
 
-    cvs_completos = []
-    for nombre, score in resultados[:top_k]:
-        cv_doc = db["cvs"].find_one({"name": nombre})
-        if cv_doc:
-            cv_doc.pop("_id", None)
-            cvs_completos.append(cv_doc)
+        # Mantén solo los CV que pasaron el umbral
+        docs_cv = [d for d in docs_cv if d["name"] in nombres_validos]
+        docs_cv.sort(key=lambda d: orden[d["name"]], reverse=True)
+        puntuaciones = [orden[d["name"]] for d in docs_cv]
+
+    # ── top_k (opcional) ──────────────────────────────────
+    if top_k:
+        docs_cv      = docs_cv[:top_k]
+        puntuaciones = puntuaciones[:top_k]
 
     return {
         "query": query,
-        "resultados": cvs_completos,
-        "puntuaciones": [r[1] for r in resultados[:top_k]]
+        "resultados": docs_cv,
+        "puntuaciones": puntuaciones
     }
 
 def obtener_embedding_texto(texto: str, modelo) -> list:

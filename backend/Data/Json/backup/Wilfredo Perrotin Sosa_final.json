@@ -1,0 +1,71 @@
+{
+  "contact": {
+    "name": "Wilfredo Perrotin Sosa",
+    "linkedin": "www.linkedin.com/in/wperrotin",
+    "website": null,
+    "location": "Pittsburgh, Pennsylvania, Estados Unidos",
+    "company": "Tenaris"
+  },
+  "profile": "I'm M.D. Information Management System, with high degree of technical expertise of Automation Systems for Pipe’s Steel Manufacturing Industry; extensive experience in Software Project Management promoting agile methodology.",
+  "title": "Automation Senior Specialist",
+  "skills": [
+    "Ingeniería",
+    "Gestión de proyectos",
+    "Planeamiento de proyectos"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Ingles",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tenaris",
+      "position": "Automation Engineer Specialist",
+      "duration": "julio de 2013 - Present",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Automation Engineer",
+      "duration": "marzo de 2007 - julio de 2013",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Manpower",
+      "position": "Automation Project Leader",
+      "duration": "marzo de 1999 - marzo de 2007",
+      "location": "Veracruz y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "Machine Learning Online Program",
+      "duration": "2019 - 2019"
+    },
+    {
+      "institution": "Universidad Cristóbal Colón",
+      "degree": "Master's degree, Administracion de sistemas de información",
+      "duration": "2002 - 2004"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería, Sistemas Computacionales",
+      "duration": "1994 - 1999"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Responsible of Level 2 System Standardization management across Tenaris Mills, and definition of standard technologies to support strategic projects such as Tracking & Traceability, OT Cybersecurity and Data Analytics."
+  }
+}

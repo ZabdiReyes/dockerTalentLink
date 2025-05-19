@@ -1,0 +1,105 @@
+{
+  "contact": {
+    "name": "Manuel López-Ibáñez",
+    "linkedin": "www.linkedin.com/in/manuel-lopez-ibanez",
+    "website": "lopez-ibanez.eu",
+    "location": "Manchester, England, United Kingdom",
+    "company": "The University of Manchester"
+  },
+  "profile": "Dr López-Ibáñez is Full Professor (Chair) of Optimization in the Decision and Cognitive Sciences Research Centre at the Alliance Manchester Business School, The University of Manchester, UK. His research interests are in operational research, mathematical optimization, machine learning, and decision-making.",
+  "title": "Full Professor",
+  "skills": [
+    "Decision-Making",
+    "Business Analytics",
+    "University Lecturing"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "French",
+      "proficiency": "Elementary"
+    }
+  ],
+  "experience": [
+    {
+      "company": "The University of Manchester",
+      "position": "Full Professor (Chair)",
+      "duration": "August 2024 - Present",
+      "location": "United Kingdom"
+    },
+    {
+      "company": "The University of Manchester",
+      "position": "Senior Lecturer",
+      "duration": "December 2018 - August 2024"
+    },
+    {
+      "company": "The University of Manchester",
+      "position": "Lecturer",
+      "duration": "October 2015 - November 2018",
+      "location": "Manchester, United Kingdom"
+    },
+    {
+      "company": "The Alan Turing Institute",
+      "position": "Alan Turing Fellow",
+      "duration": "October 2021 - August 2023"
+    },
+    {
+      "company": "Universidad de Málaga",
+      "position": "Senior Distinguished Researcher",
+      "duration": "May 2020 - July 2022",
+      "location": "Spain"
+    },
+    {
+      "company": "F.R.S. - FNRS",
+      "position": "Chargé de recherches at Université Libre de Bruxelles",
+      "duration": "October 2011 - September 2015"
+    },
+    {
+      "company": "Université Libre de Bruxelles",
+      "position": "Postdoctoral researcher",
+      "duration": "July 2009 - September 2011"
+    },
+    {
+      "company": "Universitat Politècnica de Catalunya",
+      "position": "Research Assistant",
+      "duration": "2008 - 2008"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Napier University",
+      "degree": "PhD, Computer Science",
+      "duration": "2004 - 2009"
+    },
+    {
+      "institution": "Universidad de Granada",
+      "degree": "Ingeniería Superior Informática",
+      "duration": "September 2004"
+    },
+    {
+      "institution": "Technische Universität Darmstadt",
+      "degree": "Master's Degree, Computer Engineering",
+      "duration": "2003 - 2004"
+    },
+    {
+      "institution": "Universidad de Granada",
+      "degree": "M.S., Computer Science",
+      "duration": "1998 - 2004"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": ""
+  }
+}

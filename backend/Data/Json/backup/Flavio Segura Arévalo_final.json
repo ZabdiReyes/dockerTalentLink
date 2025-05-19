@@ -1,0 +1,157 @@
+{
+  "contact": {
+    "name": "Flavio Segura Arévalo",
+    "linkedin": "https://www.linkedin.com/in/flavio-segura-arévalo-887a443a",
+    "website": null,
+    "location": "Guadalajara, Jalisco, México",
+    "company": null
+  },
+  "profile": "Profesional con experiencia en el desarrollo de aplicaciones, manejo de bases de datos, programación de lenguajes de script, así como la realización de pruebas y el aseguramiento de calidad. Entusiasta y con gran interés por conocer nuevas tecnologías así como dominar nuevas herramientas y temas relacionados con la informática y el desarrollo de sistemas.",
+  "title": "Software Engineer - SDET",
+  "skills": [
+    "Programación orientada a objetos (POO)",
+    "Automatización de pruebas",
+    "Testing"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Alemán",
+      "proficiency": "Limited Working"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Concentrix",
+      "position": "SDET",
+      "duration": "marzo de 2024 - julio de 2024",
+      "location": "México"
+    },
+    {
+      "company": "Globant",
+      "position": "TAE",
+      "duration": "marzo de 2022 - abril de 2023",
+      "location": null
+    },
+    {
+      "company": "Reclu IT",
+      "position": "QA Engineer - Contractor - client panzura",
+      "duration": "junio de 2021 - febrero de 2022",
+      "location": "California, Estados Unidos"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Software Engineer",
+      "duration": "noviembre de 2020 - junio de 2021",
+      "location": null
+    },
+    {
+      "company": "Cognizant",
+      "position": "Ingeniero de software",
+      "duration": "marzo de 2020 - junio de 2020",
+      "location": "Guadalajara, Mexico Metropolitan Area"
+    },
+    {
+      "company": "Nokia",
+      "position": "Supply Chain Test Engineer",
+      "duration": "noviembre de 2015 - diciembre de 2019",
+      "location": "Guadalajara y alrededores, México"
+    },
+    {
+      "company": "ScreenIT",
+      "position": "Especialista en garantía de calidad",
+      "duration": "agosto de 2015 - octubre de 2015",
+      "location": "Área metropolitana de Querétaro"
+    },
+    {
+      "company": "Dextra Technologies",
+      "position": "Sr Test Engineer",
+      "duration": "agosto de 2014 - enero de 2015",
+      "location": null
+    },
+    {
+      "company": "GLOBAL HITSS",
+      "position": "Especialista en garantía de calidad",
+      "duration": "julio de 2014 - agosto de 2014",
+      "location": "Área metropolitana de Guadalajara, México"
+    },
+    {
+      "company": "HCL Technologies",
+      "position": "Test Engineer",
+      "duration": "agosto de 2013 - abril de 2014",
+      "location": null
+    },
+    {
+      "company": "Accenture",
+      "position": "Software Engineer",
+      "duration": "agosto de 2012 - agosto de 2013",
+      "location": null
+    },
+    {
+      "company": "Freelance, self-employed",
+      "position": "Freelance Software Engineer",
+      "duration": "agosto de 2011 - agosto de 2013",
+      "location": null
+    },
+    {
+      "company": "Dextra Technologies",
+      "position": "Test Engineer",
+      "duration": "noviembre de 2011 - agosto de 2012",
+      "location": null
+    },
+    {
+      "company": "Internet Brands",
+      "position": "Jr QA Engineer",
+      "duration": "marzo de 2011 - noviembre de 2011",
+      "location": null
+    },
+    {
+      "company": "Casino Palace",
+      "position": "Tecnico y responsable de sistemas",
+      "duration": "julio de 2010 - septiembre de 2010",
+      "location": "Nogales, Sonora"
+    },
+    {
+      "company": "SODES",
+      "position": "System Auxiliary",
+      "duration": "mayo de 2009 - mayo de 2010",
+      "location": null
+    },
+    {
+      "company": "Servicios de sistemas y venta de equipo de computo.",
+      "position": "Distribuidor de hardware y freelancer",
+      "duration": "agosto de 2007 - abril de 2009",
+      "location": null
+    },
+    {
+      "company": "PEMEX",
+      "position": "Practicante.",
+      "duration": "agosto de 2006 - febrero de 2007",
+      "location": "Urano Ylang Ylang"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales, Sistemas e Informática",
+      "duration": "2000 - 2006"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Python basic"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

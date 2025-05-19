@@ -1,0 +1,93 @@
+{
+  "contact": {
+    "name": "Estefania Solis Galindo",
+    "linkedin": "www.linkedin.com/in/estefania-solis-galindo-mechatronics",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniera mecatrónica con especialidad en sistemas robóticos y mecatrónicos, busco oportunidad para adquirir experiencia en automatización industrial, programación, mantenimiento y electrónica. Me gusta trabajar en equipo, cooperando con todos y apoyando de la mejor manera posible, con gran satisfacción en enseñar y aprender.",
+  "title": "Ingeniera Mecatrónica",
+  "skills": [
+    "Ingeniería mecatrónica",
+    "Redacción técnica",
+    "Ingeniería electrónica"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Elementary"
+    },
+    {
+      "language": "Alemán",
+      "proficiency": "Limited Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Cameron, a Schlumberger company",
+      "position": "Maintenance and Facilities Intern",
+      "duration": "abril de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "IEEE",
+      "position": "Secretaria Rama estudiantil IEEE Veracruz",
+      "duration": "agosto de 2022 - octubre de 2023",
+      "location": null
+    },
+    {
+      "company": "IEEE",
+      "position": "Nombramientos Rama Estudiantil IEEE Veracruz",
+      "duration": "agosto de 2021 - agosto de 2022",
+      "location": null
+    },
+    {
+      "company": "SEMAR",
+      "position": "Pasante de la UNINDETEC",
+      "duration": "enero de 2023 - julio de 2023",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "ICATVER",
+      "degree": "Instala y repara el Sistema Eléctrico Doméstico",
+      "duration": "mayo de 2024 - septiembre de 2024"
+    },
+    {
+      "institution": "Bedu",
+      "degree": "Programación",
+      "duration": "octubre de 2023 - febrero de 2024"
+    },
+    {
+      "institution": "Tecnológico Nacional de México Campus Veracruz",
+      "degree": "Ingeniería mecatrónica",
+      "duration": "agosto de 2018 - octubre de 2023"
+    },
+    {
+      "institution": "CONDUSEF",
+      "degree": "Diplomado Educación Financiera",
+      "duration": "septiembre de 2020 - diciembre de 2020"
+    },
+    {
+      "institution": "Bachillerato Agustín Yáñez Diurna",
+      "degree": "Técnico en informática",
+      "duration": "agosto de 2015 - julio de 2018"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Lógica de programación: sumérgete en la programación con JavaScript"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "contact": {
+    "name": "Gonzalo Beltrán Zuccolotto",
+    "linkedin": "www.linkedin.com/in/gonzalo-beltrán-zuccolotto-23527b22",
+    "website": "www.icsicorp.com.mx",
+    "location": "Ciudad de México, México",
+    "company": "Corporativo ICSI"
+  },
+  "profile": "Director Comercial en Corporativo ICSI con más de 20 años de experiencia en el sector.",
+  "title": "Director Comercial",
+  "skills": [
+    "Virtualización",
+    "Liderazgo de equipos",
+    "Gestión de proyectos"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": ""
+    }
+  ],
+  "experience": [
+    {
+      "company": "Corporativo ICSI",
+      "position": "Director Comercial",
+      "duration": "enero de 2016 - Present (9 años 2 meses)",
+      "location": "Ciudad de México"
+    },
+    {
+      "company": "Corporativo ICSI",
+      "position": "Gerente Región Centro",
+      "duration": "enero de 2010 - diciembre de 2015 (6 años)",
+      "location": "México, D.F."
+    },
+    {
+      "company": "Corporativo ICSI",
+      "position": "Gerente de Cuentas Corporativas",
+      "duration": "enero de 2005 - diciembre de 2009 (5 años)",
+      "location": "Poza Rica de Hidalgo, Ver."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "1995 - 2000"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": ""
+  }
+}

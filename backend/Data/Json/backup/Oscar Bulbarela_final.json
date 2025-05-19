@@ -1,0 +1,72 @@
+{
+  "contact": {
+    "name": "Oscar Bulbarela",
+    "linkedin": "https://www.linkedin.com/in/oscar-bulbarela-ab9807106",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniero en Sistemas Computacionales con Maestría en Gestión de las Tecnologías de la Información. Experiencia en gestión y coordinación de proyectos, administración de grupos de trabajo, y control de presupuestos.",
+  "title": "Coordinador de Especialidad",
+  "skills": [
+    "Sistemas de Automatización de procesos industriales",
+    "Sistemas Administrativos",
+    "Sistemas Web",
+    "Manejo de Bases de Datos Oracle",
+    "SQL Server",
+    ".Net",
+    "UML",
+    "VMware",
+    "MS Project",
+    "CMM",
+    "Scrum"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "KAFKA-AUTOMATION",
+      "position": "Data Analitics",
+      "duration": "febrero de 2024 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Level 2 Automation Sr. Specialist",
+      "duration": "abril de 2007 - mayo de 2024",
+      "location": null
+    },
+    {
+      "company": "Manpower",
+      "position": "Lider de Proyecto",
+      "duration": "mayo de 2001 - marzo de 2007",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Scrum Alliance",
+      "degree": "CSM - Certificación ScrumMaster",
+      "duration": "2015 - 2015"
+    },
+    {
+      "institution": "Universidad Tecmilenio",
+      "degree": "Maestría en Gestión de Tecnologías de la Información",
+      "duration": "2007 - 2009"
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales, Especialidad en Bases de Datos",
+      "duration": "1996 - 2001"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "CSM - Certificación ScrumMaster"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Experiencia en análisis, diseño, desarrollo, implementación, infraestructura y redes."
+  }
+}

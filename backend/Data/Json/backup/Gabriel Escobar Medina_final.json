@@ -1,0 +1,56 @@
+{
+  "contact": {
+    "name": "Gabriel Escobar Medina",
+    "linkedin": "https://www.linkedin.com/in/gabrielescmed",
+    "website": "https://github.com/gapsmd",
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Hospital Español de Veracruz"
+  },
+  "profile": "Desarrollador Full-Stack con experiencia en desarrollo web y participación en proyectos educativos. Ha impartido cursos de introducción al desarrollo web.",
+  "title": "Desarrollador de Software",
+  "skills": [
+    "Atención al detalle",
+    "Inglés",
+    "Metodologías ágiles"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Hospital Español de Veracruz",
+      "position": "Desarrollador de software",
+      "duration": "enero de 2025 - Present",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Corporativo Enciso",
+      "position": "Desarrollador de software",
+      "duration": "abril de 2024 - diciembre de 2024",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Instituto Tecnológico De Veracruz",
+      "position": "Desarrollo web",
+      "duration": "enero de 2022 - octubre de 2023"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "agosto de 2018 - junio de 2023"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Participante en el comité organizador de eventos de talla internacional para la difusión del software libre y la inteligencia artificial."
+  }
+}

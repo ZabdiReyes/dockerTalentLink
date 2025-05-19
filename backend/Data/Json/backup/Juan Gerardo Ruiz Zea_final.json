@@ -1,0 +1,58 @@
+{
+  "contact": {
+    "name": "Juan Gerardo Ruiz Zea",
+    "linkedin": "www.linkedin.com/in/juan-gerardo-ruiz-zea-9ba34a133",
+    "website": null,
+    "location": "México",
+    "company": "Santander Bank, N.A."
+  },
+  "profile": "Kubernetes enthusiasm | Cloud infrastructures contribute to robust and scalable application deployment strategies.",
+  "title": "Solutions Architect",
+  "skills": [
+    "Vulnerability",
+    "Red Hat Linux",
+    "Design Documents"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Santander Bank, N.A.",
+      "position": "Solutions Architect",
+      "duration": "abril de 2019 - Present",
+      "location": "boston"
+    },
+    {
+      "company": "Produban",
+      "position": "DevOps",
+      "duration": "septiembre de 2016 - abril de 2019",
+      "location": "Querétaro y alrededores, México"
+    },
+    {
+      "company": "Change Management Specialist US",
+      "position": "Change Management Specialist",
+      "duration": "junio de 2007 - septiembre de 2016",
+      "location": "Querétaro y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Grado en Ingeniería, Ingenieria en Sistemas Computacionales",
+      "duration": "2001 - 2006"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Certified Jenkins Engineer",
+      "21 Opportunities for Better Networking",
+      "Managing Microsoft Azure Applications and Infrastructure with Terraform",
+      "CSSLP Cert Prep: 4 Secure Software Implementation",
+      "CSSLP Cert Prep: 3 Secure Software Design"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

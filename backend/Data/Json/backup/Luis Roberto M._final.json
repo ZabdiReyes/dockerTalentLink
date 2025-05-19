@@ -1,0 +1,40 @@
+{
+  "contact": {
+    "name": "Luis Roberto M.",
+    "linkedin": "www.linkedin.com/in/malaganator",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Obisey"
+  },
+  "profile": "Soy un desarrollador de software con 4 años de experiencia en la creación de sistemas web, móviles y de escritorio utilizando tecnologías basadas en JavaScript como Angular, React, Next.js, Nest.js, Node.js, Typescript, entre otras. Actualmente, me desempeño en el despliegue de aplicaciones en la nube y en tiendas de aplicaciones para Android e iOS.",
+  "title": "Programador web y móvil full stack",
+  "skills": [
+    "Programación orientada a objetos (POO)",
+    "Servicios en la nube",
+    "Modelo-Vista-Controlador (MVC)"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Obisey",
+      "position": "Programador web Full Stack Angular, React, React Native y Nestjs",
+      "duration": "enero de 2018 - noviembre de 2023",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Me apasiona la tecnología y siempre estoy en busca de nuevas soluciones y desafíos. Soy una persona proactiva, responsable y enfocada en los resultados. Me encanta trabajar en equipo y aprender de los demás."
+  }
+}

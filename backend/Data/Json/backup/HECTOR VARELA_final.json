@@ -1,0 +1,63 @@
+{
+  "contact": {
+    "name": "Hector Varela",
+    "linkedin": "https://www.linkedin.com/in/hector-varela-ab07a9259",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Ingeniero en Sistemas Computacionales Egresado del TECNM con experiencia en enseñanza y análisis de automatización.",
+  "title": "Profesor de matemáticas",
+  "skills": [
+    "Matemáticas",
+    "Educación matemática",
+    "Habilidad matemática"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "GARNER COLLEGE",
+      "position": "Profesor de matemáticas",
+      "duration": "octubre de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "GIGA IT",
+      "position": "Analista de automatización Nivel 2",
+      "duration": "septiembre de 2023 - septiembre de 2024",
+      "location": "Veracruz, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Trainee - IT Application Development",
+      "duration": "agosto de 2022 - agosto de 2023",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Integradora de servicios punch",
+      "position": "Demostrador",
+      "duration": "septiembre de 2018 - octubre de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnm campus Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "agosto de 2017 - diciembre de 2022"
+    },
+    {
+      "institution": "CONALEP Veracruz",
+      "degree": "Bachelor's degree, Tecnología/Técnico de ingeniería informática",
+      "duration": "agosto de 2014 - junio de 2017"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Impartición de clases a alumnos de media superior en materias de ciencias exactas."
+  }
+}

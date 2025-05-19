@@ -1,0 +1,112 @@
+{
+  "contact": {
+    "name": "Emerson Alain García Mercado",
+    "linkedin": "www.linkedin.com/in/emersonmercado",
+    "website": null,
+    "location": "Monterrey, Nuevo León, Mexico",
+    "company": "Clarios"
+  },
+  "profile": "SAP Senior GRC and Security Consultant with over 11 years of experience implementing the SAP GRC suite into a multitude of different industry sectors, utilizing core expertise in identifying functional requirements whilst acknowledging regulatory and industry regulations.",
+  "title": "SAP Security and GRC Lead",
+  "skills": [
+    "SAP BTP",
+    "SAP Implementation",
+    "SAP Security Administration"
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "proficiency": "Elementary"
+    },
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Clarios",
+      "position": "SAP Security and GRC Lead",
+      "duration": "September 2024 - Present",
+      "location": "Monterrey, Nuevo León, Mexico"
+    },
+    {
+      "company": "Globant",
+      "position": "Senior SAP GRC and Security Consultant",
+      "duration": "December 2020 - September 2024",
+      "location": "Guadalajara, Jalisco, Mexico"
+    },
+    {
+      "company": "KPMG México",
+      "position": "SAP Security and GRC Specialist",
+      "duration": "May 2020 - December 2020",
+      "location": "Mexico City Metropolitan Area"
+    },
+    {
+      "company": "Wipro Technologies",
+      "position": "Senior SAP Security and GRC Consultant",
+      "duration": "November 2019 - April 2020",
+      "location": "Guadalajara, Jalisco, Mexico"
+    },
+    {
+      "company": "Ernst & Young Global Consulting Services",
+      "position": "Senior SAP GRC & Security Consultant",
+      "duration": "January 2019 - November 2019",
+      "location": "Guadalajara, Jalisco, Mexico"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "SAP GRC Security Architect",
+      "duration": "November 2017 - December 2018",
+      "location": "Santiago de Querétaro Centro, Querétaro, México"
+    },
+    {
+      "company": "KPMG México",
+      "position": "Supervising Senior - SAP GRC & Security Consultant",
+      "duration": "March 2014 - October 2017",
+      "location": "Mexico City Metropolitan Area"
+    },
+    {
+      "company": "FEMSA",
+      "position": "SAP Security Consultant",
+      "duration": "November 2013 - March 2014",
+      "location": null
+    },
+    {
+      "company": "Accenture",
+      "position": "SAP Security and GRC Consultant",
+      "duration": "May 2013 - November 2013",
+      "location": "Mexico City Area, Mexico"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Support Engineer",
+      "duration": "December 2010 - March 2013",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITVER",
+      "degree": "Bachelor's degree, Networking and Databases",
+      "duration": "2005 - 2010"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Java SCJP Standard Edition 5.0 Certification",
+      "SAP Certified Technology Associate - SAP System Security and Authorizations",
+      "SAP Certified Application Associate - SAP Business Objects Access Control 10.0",
+      "SAP Certified Application Associate - SAP Access Control 12.0"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

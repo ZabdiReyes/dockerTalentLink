@@ -1,0 +1,69 @@
+{
+  "contact": {
+    "name": "Karla Reyes Avila",
+    "linkedin": "www.linkedin.com/in/karla-reyes-avila-736242140",
+    "website": null,
+    "location": "Veracruz, Veracruz de Ignacio de la Llave, México",
+    "company": null
+  },
+  "profile": "Tengo 24 años soy ingeniera en sistemas computacionales me considero una persona adaptable, amable, honesta, respetuosa, curiosa y comprometida. Estoy abierta a asimilar cualquier tipo de nuevo conocimiento porque se que cualquier aprendizaje es útil. Profesionalmente soy una persona dispuesta a trabajar y comprometida a crecer como líder, apoyar a al equipo de trabajo y dar resultados de gran valor, que aporten y sean de gran utilidad.",
+  "title": "Ingeniera en Sistemas Computacionales",
+  "skills": [
+    "Análisis de datos",
+    "Capacidad de análisis",
+    "Análisis de negocio"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "GRUVER",
+      "position": "Auxiliar de compras",
+      "duration": "abril de 2024 - Present",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Tenaris Tamsa",
+      "position": "Trainee Project Management Supply Chain | Order Manager",
+      "duration": "agosto de 2022 - julio de 2023",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Ficachi y Asociados, S.C.",
+      "position": "Residente Profesional | Project Manager Assistant",
+      "duration": "enero de 2022 - junio de 2022",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Escuela Primaria Matutina \"Divina Morales de Gutiérrez Barrios\"",
+      "position": "Practicante | Técnico en mantenimiento preventivo y correctivo a equipos de computo.",
+      "duration": "junio de 2020 - noviembre de 2020",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Instituto Tecnológico Nacional de México Campus Veracruz",
+      "position": "Acompañamiento al Docente de Creación de contenidos Digitales",
+      "duration": "enero de 2020 - junio de 2020",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro de estudios tecnologicos indistriales y de servicios no.15 \"Epigmenio Gonzales\"",
+      "degree": "Tecnico programador, Preparatoria",
+      "duration": "julio de 2014 - agosto de 2017"
+    },
+    {
+      "institution": "Instituto Tecnológico de México, Campus Veracruz",
+      "degree": "Ingeniería de sistemas",
+      "duration": "agosto de 2017 - junio de 2022"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

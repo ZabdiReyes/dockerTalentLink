@@ -1,0 +1,71 @@
+{
+  "contact": {
+    "name": "Carlos Arturo Pintor Salomón",
+    "linkedin": "www.linkedin.com/in/carpinsal",
+    "website": null,
+    "location": "Ciudad de México, México",
+    "company": "Globant"
+  },
+  "profile": "Salesforce Developer en Globant con experiencia en desarrollo e implementación de soluciones en la plataforma Salesforce.",
+  "title": "Salesforce Developer",
+  "skills": [
+    "Inteligencia artificial",
+    "Salesforce",
+    "Apex"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Portugués",
+      "proficiency": "Elementary"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Globant",
+      "position": "Salesforce Developer",
+      "duration": "junio de 2017 - Present",
+      "location": "Ciudad de México, México"
+    },
+    {
+      "company": "Global Hitss",
+      "position": "Consultor Salesforce",
+      "duration": "abril de 2015 - junio de 2017",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Volkswagen de Mexico",
+      "position": "Practicante Nacional (Datamanagement)",
+      "duration": "julio de 2013 - enero de 2014",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales, Desarrollo de software",
+      "duration": "2009 - 2013"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Salesforce Certified Advanced Administrator",
+      "Salesforce Certified Platform App Builder",
+      "Salesforce Certified Platform Developer I",
+      "Salesforce Certified AI Associate",
+      "Salesforce Certified Administrator"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

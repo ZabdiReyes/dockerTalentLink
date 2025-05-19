@@ -1,0 +1,45 @@
+{
+  "contact": {
+    "name": "Yelitza Magali Rosas Jiménez",
+    "linkedin": "www.linkedin.com/in/yelitza-magali-rosas-jiménez-729153297",
+    "website": null,
+    "location": "Veracruz, Veracruz, Mexico",
+    "company": "Instituto Tecnológico De Veracruz"
+  },
+  "profile": "I'm a graduate of Instituto Tecnológico de Veracruz.",
+  "title": "Web Developer",
+  "skills": [
+    "Front-End Design",
+    "Bootstrap (Framework)",
+    "HTML"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Instituto Tecnológico De Veracruz",
+      "position": "Web Developer",
+      "duration": "January 2023 - October 2023",
+      "location": "Veracruz, Veracruz, Mexico"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico De Veracruz",
+      "degree": "Bachelor's degree, Computer Systems Engineering",
+      "duration": "2018 - 2023"
+    },
+    {
+      "institution": "Centro de Bachillerato Tecnológico Industrial y de Servicios No. 79",
+      "degree": "High School Diploma, Office Technology Technician",
+      "duration": "2015 - 2018"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Development of efficient and attractive websites that promote the institution's programs, managing information about faculty, subjects, and the communities they comprise."
+  }
+}

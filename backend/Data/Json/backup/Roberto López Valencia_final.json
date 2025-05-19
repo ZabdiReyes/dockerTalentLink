@@ -1,0 +1,211 @@
+{
+  "contact": {
+    "name": "Roberto López Valencia",
+    "linkedin": "www.linkedin.com/in/rolopezvalencia",
+    "website": null,
+    "location": "Los Ángeles, California, Estados Unidos",
+    "company": null
+  },
+  "profile": "Roberto with 20+ years of experience in consulting industry is focused and interested in helping companies to accomplish its digital transformation for getting competitive advantages in the present global market. His vision and personal goal is to achieve a successful IT-Business Engagement to lead the firm to accomplish its overall business strategy.",
+  "title": "Senior Business Consultant",
+  "skills": [
+    "SAP Finance",
+    "SAP FICO"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ontex",
+      "position": "SAP Specialist",
+      "duration": "octubre de 2023 - agosto de 2024",
+      "location": null
+    },
+    {
+      "company": "PwC",
+      "position": "SAP Manager",
+      "duration": "septiembre de 2020 - agosto de 2023",
+      "location": "Los Angeles, California, United States"
+    },
+    {
+      "company": "Enable Global",
+      "position": "SAP Project Manager",
+      "duration": "marzo de 2020 - agosto de 2020",
+      "location": "Huixquilucan, México, México"
+    },
+    {
+      "company": "AKConsulting México",
+      "position": "SAP Finance",
+      "duration": "febrero de 2020 - febrero de 2020",
+      "location": "Huamantla, Tlaxcala, Mexico"
+    },
+    {
+      "company": "PwC UK",
+      "position": "SAP Project Manager",
+      "duration": "junio de 2019 - noviembre de 2019",
+      "location": "Mexico City"
+    },
+    {
+      "company": "Artha Capital",
+      "position": "SAP Finance",
+      "duration": "diciembre de 2018 - marzo de 2019",
+      "location": "Mexico City"
+    },
+    {
+      "company": "Global Business Solutions",
+      "position": "SAP Consulting Director",
+      "duration": "marzo de 2018 - diciembre de 2018",
+      "location": "Tepeji del Río, Hidalgo, Mexico"
+    },
+    {
+      "company": "Global Business Solutions",
+      "position": "SAP Project Lead",
+      "duration": "enero de 2018 - marzo de 2018",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "NEORIS",
+      "position": "SAP Finance Senior Consultant",
+      "duration": "julio de 2016 - noviembre de 2017",
+      "location": "St Louis, Missouri, United States"
+    },
+    {
+      "company": "Global Business Solutions",
+      "position": "SAP Finance Lead",
+      "duration": "octubre de 2014 - marzo de 2016",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "PwC",
+      "position": "SAP Presales & Proposals",
+      "duration": "noviembre de 2013 - septiembre de 2014",
+      "location": "Mexico City"
+    },
+    {
+      "company": "Accenture",
+      "position": "SAP Treasury Senior Consultant",
+      "duration": "marzo de 2012 - agosto de 2012",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "K2 Partnering Solutions",
+      "position": "SAP Finance Senior Consultant",
+      "duration": "noviembre de 2011 - febrero de 2012",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "Nasoft Consulting",
+      "position": "SAP Finance Senior Consultant",
+      "duration": "julio de 2011 - noviembre de 2011",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "EY",
+      "position": "SAP Treasury Senior Consultant",
+      "duration": "mayo de 2008 - noviembre de 2008",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "IBM",
+      "position": "SAP Finance Senior Consultant",
+      "duration": "marzo de 2006 - diciembre de 2007",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "SAP",
+      "position": "SAP Finance Senior Consultant",
+      "duration": "julio de 2005 - febrero de 2006",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "Coca-Cola FEMSA",
+      "position": "Senior SAP Treasury Consultant",
+      "duration": "diciembre de 2003 - septiembre de 2004",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Samsung Electronics Mexico",
+      "position": "SAP Finance Lead",
+      "duration": "enero de 2002 - diciembre de 2002",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Procter & Gamble",
+      "position": "SAP Treasury Consultant",
+      "duration": "agosto de 2000 - julio de 2001",
+      "location": "Costa Rica"
+    },
+    {
+      "company": "Transportación Ferroviaria Mexicana (TFM)",
+      "position": "SAP Consultant",
+      "duration": "abril de 2000 - julio de 2000",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Nemak",
+      "position": "SAP Consultant",
+      "duration": "agosto de 1999 - diciembre de 1999",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Televisa",
+      "position": "Junior SAP Consultant",
+      "duration": "mayo de 1999 - julio de 1999",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Grupo Bocar",
+      "position": "SAP Consultant",
+      "duration": "diciembre de 1998 - abril de 1999",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Siemens",
+      "position": "SAP Consultant",
+      "duration": "agosto de 1998 - noviembre de 1998",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "company": "Transportación Ferroviaria Mexicana (TFM)",
+      "position": "SAP Coordinator",
+      "duration": "marzo de 1997 - julio de 1998",
+      "location": "Ciudad de México y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Master's degree, Administration",
+      "duration": null
+    },
+    {
+      "institution": "Tecnológico de Monterrey",
+      "degree": "Master's of Science, Information Technology",
+      "duration": null
+    },
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Bachelor's degree, Computer Systems Engineering",
+      "duration": null
+    },
+    {
+      "institution": "Instituto de Computación Práctica",
+      "degree": "Technician, Computer Programmer",
+      "duration": null
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "International Graduate Certificate 'Maximizing Global Business Performance'. Boston University · Audencia Business School · Tecnológico de Monterrey"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Total of Projects since 1997: 43. International Projects: 7 (Upfield, Bunge, Advance America, Pepsico, Coca-Cola, Procter&Gamble & TexMex). Consulting Companies: PwC USA, PwC UK, PwC Mexico, EY, IBM, Accenture, SAP, Solution Factory, Rolva Consulting, Neoris USA, GBS, K2 Partnering Solutions, NexTIe, Nasoft, AVA Consulting Group, Soluziona, WSS & Montreal Associates London. Countries: United States, Uruguay, Honduras, Argentina, Brazil, Costa Rica, Colombia, Venezuela & Mexico."
+  }
+}

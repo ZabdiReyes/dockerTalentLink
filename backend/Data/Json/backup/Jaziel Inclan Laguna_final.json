@@ -1,0 +1,90 @@
+{
+  "contact": {
+    "name": "Jaziel Inclan Laguna",
+    "linkedin": "www.linkedin.com/in/jaziel",
+    "website": "www.about.me/jaziel",
+    "location": "Mascot, Nueva Gales del Sur, Australia",
+    "company": "Flying Bark Productions"
+  },
+  "profile": "Software engineer with experience in Python development and pipeline tools. Focused on improving production processes and artist workflows.",
+  "title": "Pipeline TD",
+  "skills": [
+    "Python development",
+    "Pipeline development",
+    "Database management (MySQL, MongoDB)"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Flying Bark Productions",
+      "position": "Pipeline TD",
+      "duration": "julio de 2024 - Present",
+      "location": "Mascot, Nueva Gales del Sur, Australia"
+    },
+    {
+      "company": "Boxel Studio",
+      "position": "Pipeline Developer",
+      "duration": "noviembre de 2021 - junio de 2024",
+      "location": "Mexico"
+    },
+    {
+      "company": "Huevocartoon",
+      "position": "Pipeline Developer",
+      "duration": "enero de 2021 - septiembre de 2021",
+      "location": "México"
+    },
+    {
+      "company": "4G D4T4 Systems",
+      "position": "Desarrollador Python",
+      "duration": "mayo de 2018 - mayo de 2020",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "H. ayuntamiento de Veracruz",
+      "position": "Administrador de redes y servidores",
+      "duration": "febrero de 2014 - enero de 2018",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Volkswagen de Mexico",
+      "position": "Practicante Nacional",
+      "duration": "julio de 2013 - enero de 2014",
+      "location": "Mexico"
+    },
+    {
+      "company": "Poder Judicial de la Federacion",
+      "position": "Asistente Departamento de Informatica",
+      "duration": "septiembre de 2007 - mayo de 2008",
+      "location": "Veracruz, Veracruz, Mexico"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero, Sistemas Computacionales",
+      "duration": "2009 - 2013"
+    },
+    {
+      "institution": "Centro de Bachillerato Tecnológico Industrial y de Servicios 79",
+      "degree": "Técnico en Informática",
+      "duration": "2005 - 2008"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Experience in developing tools and frameworks for production pipelines and improving departmental processes."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "contact": {
+    "name": "Tere Ruiz",
+    "linkedin": "https://www.linkedin.com/in/tere-ruiz-bb5001220",
+    "website": null,
+    "location": "Guadalajara, Jalisco, México",
+    "company": "MBGE Intersistemas"
+  },
+  "profile": "Computer Systems Engineer with experience in programming IT systems, database, networks, technical support, repairs of electrical and electronic equipment, warranty processing. With field experience (Steel and automotive), administrative experience on personal administration, supply chain, public tenders, projects, and products offering, ISO9000 and EHS processes, data analytic and decision making, search for opportunities and business expansion.",
+  "title": "TECH LEAD",
+  "skills": [
+    "Leadership",
+    "Responsibility",
+    "Creativity",
+    "Persuasion",
+    "Flexibility",
+    "Initiative",
+    "Communication",
+    "Digital mindset",
+    "Resilience",
+    "Focus on results"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "MBGE Intersistemas",
+      "position": "Tech Lead",
+      "duration": "marzo de 2024 - Present",
+      "location": "Guadalajara, Jalisco, México"
+    },
+    {
+      "company": "Sanmina",
+      "position": "Programmer Analyst Sr",
+      "duration": "enero de 2023 - mayo de 2023",
+      "location": "Tlajomulco de Zúñiga, Jalisco, México"
+    },
+    {
+      "company": "Siemens",
+      "position": "Warranty Decision & Repair Engineer",
+      "duration": "enero de 2019 - noviembre de 2022",
+      "location": "Guadalajara, Jalisco, México"
+    },
+    {
+      "company": "Audi México",
+      "position": "Field Service Engineer",
+      "duration": "noviembre de 2017 - diciembre de 2018",
+      "location": "Puebla, México"
+    },
+    {
+      "company": "Tenaris Tamsa",
+      "position": "Field Service Engineer",
+      "duration": "julio de 2016 - noviembre de 2017",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "SistEG SA de CV",
+      "position": "Administrative Manager",
+      "duration": "abril de 2008 - junio de 2016",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "TenarisTamsa",
+      "position": "Programador Analista",
+      "duration": "noviembre de 2000 - marzo de 2007",
+      "location": "Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "INSTITUTO TECNOLÓGICO DE VERACRUZ",
+      "degree": "INGENIERO EN SISTEMAS COMPUTACIONALES",
+      "duration": "junio de 1994 - julio de 1999"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Power BI Data Methods",
+      "Cómo crear una mentalidad digital"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}
