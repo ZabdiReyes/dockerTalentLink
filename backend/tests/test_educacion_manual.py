@@ -19,7 +19,7 @@ casos = {
     "Subcaso 10 - Fragmento con punto final y salto": "UABC\nCurso de Redes.\n\n(2022 - Actualidad)",
     "Subcaso 11 - Grado con carácter final raro": "UPV\nBlockchain · (2018 - 2020)",
     "Subcaso 12 - Fragmento con año suelto entre medio": "ITESM\nCertificado en AI\n(2020)\nTaller de robótica",
-    "Subcaso 13 - Mes en francés": "Université Paris-Saclay\nLicence Informatique (septembre de 2016 - juin de 2019)",
+    "Subcaso 13 - Mes en francés": "Université Paris-Saclay\nLicence Informatique (Septembre de 2016 - Juin de 2019)",
     "Subcaso 14 - Mes en alemán": "Technische Universität München\nMaster Maschinenbau (März 2015 - Dezember 2018)",
     "Subcaso 15 - Inglés/francés combinado": "École Polytechnique\nAI Program (janvier 2020 - July 2022)"
 }

@@ -1,0 +1,52 @@
+{
+  "contact": {
+    "name": "Ricardo David Rojas Flores",
+    "linkedin": "www.linkedin.com/in/ricardo-david-rojas-flores-20458919a",
+    "website": null,
+    "location": "Área metropolitana de Veracruz",
+    "company": "TONY SUPERPAPELERÍAS"
+  },
+  "profile": "Passionate about web development, persistent and autodidact. Always open to learning new technologies and putting them into practice. The key's to keep balance between absorbed and assimilated knowledge.",
+  "title": "Desarrollador Jr.",
+  "skills": [
+    "Desarrollo web",
+    "Node.js",
+    "Laravel"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "TONY SUPERPAPELERÍAS",
+      "position": "Desarrollador Jr.",
+      "duration": "julio de 2020 - Present",
+      "location": null
+    },
+    {
+      "company": "Grupo Inversor Veracruzano, SAPI de CV",
+      "position": "Desarrollador web",
+      "duration": "febrero de 2019 - agosto de 2019",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Grupo Inversor Veracruzano, SAPI de CV",
+      "position": "Becario",
+      "duration": "julio de 2018 - febrero de 2019",
+      "location": "Veracruz y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "2014 - 2019"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

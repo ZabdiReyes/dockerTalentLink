@@ -44,7 +44,7 @@ class BM25SearchEngine:
         for fname in os.listdir(self.directory_path):
             if fname.endswith('.json'):
                 path = os.path.join(self.directory_path, fname)
-                with open(path, 'r', encoding='utf-8') as f:
+                with open(path, 'r', encoding='UTF-8') as f:
                     data = json.load(f)
                     text = self.extract_relevant_text(data)
                     if text:

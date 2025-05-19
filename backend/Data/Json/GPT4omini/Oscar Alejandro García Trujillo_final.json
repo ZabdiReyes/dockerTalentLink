@@ -1,0 +1,79 @@
+{
+  "contact": {
+    "name": "Oscar Alejandro García Trujillo",
+    "linkedin": "www.linkedin.com/in/ogtrujillo",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Datio"
+  },
+  "profile": "I´m an amazing speaker with great leadership skills, able to give speeches and explain projects to big crowds and small groups. Highly reliable, optimistic and organized. Skilled configuring routers and switches, programming in Java, C++ and using HTML + CSS.",
+  "title": "Data Developer | Data Engineer",
+  "skills": [
+    "Microsoft Azure",
+    "Desarrollo de software",
+    "Scala"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "NTT DATA Europe & Latam",
+      "position": "Data Engineer",
+      "duration": "mayo de 2023 - Present",
+      "location": "México"
+    },
+    {
+      "company": "Centro de estudios amparo de la torre de pasos.",
+      "position": "Profesor",
+      "duration": "agosto de 2022 - septiembre de 2023",
+      "location": "Boca del Río, Veracruz de Ignacio de la Llave, México"
+    },
+    {
+      "company": "Instituto de Tramitación Aduanal del Golfo",
+      "position": "Profesor",
+      "duration": "enero de 2020 - diciembre de 2021",
+      "location": "Veracruz y alrededores, México"
+    },
+    {
+      "company": "Krolls Telcomm",
+      "position": "DevOps Engineer",
+      "duration": "agosto de 2019 - septiembre de 2019",
+      "location": "Monterrey y alrededores, México"
+    },
+    {
+      "company": "Accenture",
+      "position": "Becario de TI",
+      "duration": "febrero de 2019 - agosto de 2019",
+      "location": "Monterrey y alrededores, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniería en Sistemas Computacional",
+      "duration": "2014 - 2019"
+    },
+    {
+      "institution": "Instituto Tecnológico Superior de Mi",
+      "degree": "Maestría, Inteligencia artificial",
+      "duration": null
+    },
+    {
+      "institution": "UNIVERSIDAD IEXPRO",
+      "degree": "Maestría, Educación",
+      "duration": "2020 - 2021"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Explorer Day",
+      "Professional Scrum Master Certificado 231006",
+      "Microsoft Certified: Azure Fundamentals",
+      "Certified Scrum Professional® (CSP)"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

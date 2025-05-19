@@ -1,0 +1,57 @@
+{
+  "contact": {
+    "name": "Hugo Fabrizio Pozos Herrera",
+    "linkedin": "https://linkedin.com/in/hugopozos",
+    "website": null,
+    "location": "Veracruz, México",
+    "company": null
+  },
+  "profile": "Fullstack developer con experiencia en desarrollo de microservicios, implementación de OAuth2 y creación de endpoints RESTful.",
+  "title": "Fullstack Developer",
+  "skills": [
+    "Desarrollo de microservicios",
+    "Implementación de OAuth2",
+    "Creación de endpoints RESTful",
+    "Arquitectura limpia y modular",
+    "Desarrollo en Laravel y Java Spring Boot"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Neodigital",
+      "position": "Fullstack developer",
+      "duration": "Marzo 2022 - Julio 2024",
+      "location": "Veracruz, México"
+    },
+    {
+      "company": "Alphasoluciones",
+      "position": "Backend developer",
+      "duration": "Agosto 2024 - Abril 2025",
+      "location": "Veracruz, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "INSTITUTO TECNOLOGICO DE VERACRUZ",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "duration": "Agosto 2020"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Uso de Vue/Bootstrap5/Tailwindcss para el desarrollo frontend. Uso de Git. Base de datos SQL."
+  }
+}

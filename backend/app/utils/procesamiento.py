@@ -31,7 +31,7 @@ def guardar_txt(txt_content, nombre_archivo, directorio_destino):
     """
     try:
         ruta_completa = os.path.join(directorio_destino, f"{nombre_archivo}.txt")
-        with open(ruta_completa, "w", encoding="Latin-1") as f:
+        with open(ruta_completa, "w", encoding="UTF-8") as f:
             f.write(txt_content)
         return True
     except Exception as e:
@@ -75,7 +75,7 @@ def guardar_json(json_content, nombre_archivo, directorio_destino):
     """
     try:
         ruta_completa = os.path.join(directorio_destino, f"{nombre_archivo}.json")
-        with open(ruta_completa, "w", encoding="Latin.1") as f:
+        with open(ruta_completa, "w", encoding="UTF-8") as f:
             f.write(json_content)
         return True
     except Exception as e:
@@ -342,7 +342,8 @@ def convert_pdf_to_txt(source_directory: str, pdf_filename: str, destination_dir
     command = [
         "pdftotext",
         "-layout",
-
+        "-enc",
+        "UTF-8",
         source_path,
         destination_path,
     ]
@@ -402,7 +403,7 @@ def find_keyword_in_dictionary(text_dictionary: dict[int, str], keyword: str) ->
 def file_to_dic(full_file_path, log: bool = False) -> dict[int, str] | None:
     print_function_name_once("file_to_dic", locals())
     try:
-        with open(full_file_path, 'r', newline="", encoding='Latin-1') as file:
+        with open(full_file_path, 'r', newline="", encoding='UTF-8') as file:
             content = file.read()
             lines = re.split(r'\r\n|\r|\n', content)  # Split lines by \n, \r, or \r\n
             # Build the dictionary
@@ -427,7 +428,7 @@ def dividir_txt_por_form_feed(txt_content, directorio_destino, nombre_base, log:
     for i, seccion in enumerate(secciones):
         nombre_archivo = f"{nombre_base}_parte_{i+1}.txt"
         ruta_archivo = os.path.join(directorio_destino, nombre_archivo)
-        with open(ruta_archivo, "w", encoding="utf-8") as f:
+        with open(ruta_archivo, "w", encoding="UTF-8") as f:
             f.write(seccion)
         archivos_generados.append(ruta_archivo)
         
@@ -441,7 +442,7 @@ def dividir_txt_por_form_feed(txt_content, directorio_destino, nombre_base, log:
 def read_file_content(file_path: str, log: bool = False) -> Optional[str]:
     print_function_name_once("read_file_content", locals())
     try:
-        with open(file_path, 'r', encoding='Latin-1') as file:
+        with open(file_path, 'r', encoding='UTF-8') as file:
             return file.read()
     except FileNotFoundError:
         if log:
@@ -469,16 +470,33 @@ def get_pages(file_path: str, log: bool = False) -> Optional[int]:
 def obtener_nombre(dic_sin_procesar, margen, log: bool = False):
     print("_"*40)
     print("obtener_nombre")
+
     iterador_lineas = iter(dic_sin_procesar.items())
+
+    # 1️⃣  Primera línea (siempre la tomamos)
     primera_linea = next(iterador_lineas)
     nombre = str(primera_linea[1])[margen:]
-    
+
+    # 2️⃣  Segunda línea
     segunda_linea = next(iterador_lineas)
-    
-    if not re.match(r'^\s*$', str(segunda_linea[1])):
-        nombre = nombre + " " + str(segunda_linea[1][margen:])
-    
-    return nombre
+    segunda_txt = str(segunda_linea[1])[margen:]
+
+    # ---- NUEVO CASO 3 -----------------------------------------------
+    # Si la 1ª *y* la 2ª están vacías → el nombre está en la 3ª línea
+    if re.match(r'^\s*$', nombre) and re.match(r'^\s*$', segunda_txt):
+        try:
+            tercera_linea = next(iterador_lineas)
+            return str(tercera_linea[1])[margen:].strip()
+        except StopIteration:
+            return ""      # no había una tercera línea; devuelve vacío
+
+    # ---- Lógica ORIGINAL --------------------------------------------
+    # Si la segunda línea NO está vacía, añádela
+    if not re.match(r'^\s*$', segunda_txt):
+        # evita dobles espacios
+        nombre = nombre.rstrip() + " " + segunda_txt.lstrip()
+
+    return nombre.strip()
 
 def limpiar_final(dic_sin_procesar, log: bool = False):
     print("_"*40)
@@ -498,7 +516,7 @@ def dividir_txt_por_columnas(file_path: str, margen: int, log: bool = False) -> 
     print("dividir_txt_por_columnas")
     
     try:
-        with open(file_path, 'r', encoding='latin-1') as file:
+        with open(file_path, 'r', encoding='UTF-8') as file:
             txt_content = file.read()
     except FileNotFoundError:
         if log:
@@ -519,22 +537,32 @@ def dividir_txt_por_columnas(file_path: str, margen: int, log: bool = False) -> 
     return parte1, parte2
 
 def verificar_extension(directorio_destino, nombre, margen, log: bool = False):
+    """
+    Devuelve True si NINGUNA línea tiene texto en las primeras `margen-1`
+    columnas (=> la parte 2 es extensión).  
+    Apenas encuentra un carácter visible en ese rango, devuelve False.
+    """
     print_function_name_once("verificar_extension", locals())
-    extension = False
-    archivo_parte_2 = os.path.join(directorio_destino, nombre)
+
+    ruta = os.path.join(directorio_destino, nombre)
     if log:
-        print(archivo_parte_2, "verificar_extension")
-    lineas_en_blanco = []
-    if os.path.exists(archivo_parte_2):
-        with open(archivo_parte_2, "r", encoding="Latin-1") as f:
-            lineas = f.readlines()
-            for linea in lineas[-5:]:
-                lineas_en_blanco.append(linea[:margen-1])
-                #print(linea[:margen-1])
-            if all(re.match(r'^\s*$', linea) for linea in lineas_en_blanco):
-                extension = True
-                
-    return extension
+        print(ruta, "verificar_extension")
+
+    if not os.path.exists(ruta):
+        return False  # no existe ⇒ lo tratamos como “no extensión”
+
+    with open(ruta, "r", encoding="UTF-8") as f:
+        for num, linea in enumerate(f, 1):
+            # ¿Hay algo distinto de espacio/tab dentro del margen?
+            if not re.match(r"^\\s*$", linea[:margen-1]):
+                if log:
+                    print(f"   Línea {num}: texto invade margen → NO extensión")
+                return False  # hay continuidad ⇒ no se debe recortar
+
+    # Si llega aquí, ninguna línea invadió el margen
+    if log:
+        print("   Todas las líneas vacías en margen → EXTENSIÓN")
+    return True
     
 def borrar_txts(txt_directory: str, log: bool = False) -> None:
     print_function_name_once("borrar_txts", locals())
@@ -563,7 +591,7 @@ def print_education_from_json(directory):
     if filename.endswith(".json"):
       filepath = os.path.join(directory, filename)
       try:
-        with open(filepath, 'r', encoding='Latin-1') as f:
+        with open(filepath, 'r', encoding='UTF-8') as f:
           try:
             data = json.load(f)
             if "Education" in data:
@@ -575,7 +603,7 @@ def print_education_from_json(directory):
       except Exception as e:
         print(f"Error reading file {filename}: {e}")
 
-def save_json(name, data, output_dir="/content/residencias/Data/Json/Custom"):
+def save_json(name, data, output_dir="Data/Json/Custom"):
     """Guarda el JSON en la carpeta especificada con el nombre de la persona."""
 
     if not name:
@@ -592,7 +620,7 @@ def save_json(name, data, output_dir="/content/residencias/Data/Json/Custom"):
     file_path = os.path.join(output_dir, f"{safe_name}.json")
 
     # Guardar el JSON
-    with open(file_path, "w", encoding="Latin-1") as json_file:
+    with open(file_path, "w", encoding="UTF-8") as json_file:
         json.dump(data, json_file, indent=4, ensure_ascii=False)
         
 #################################################################################################################################
@@ -624,14 +652,14 @@ def process_txt(file_path, log = False):
 
     # Definir reglas personalizadas para categorías (si deben ser listas o concatenadas con \n)
     categories_to_concat = []
-    categories_to_concat = ["Summary", "Education", "Experience"]
+    categories_to_concat = ["Profile", "Education", "Experience"]
     # Estas categorías serán concatenadas con \n
     categories_to_keep_as_list = ["Skills","Top Skills","Languages"]  # Estas categorías permanecerán como listas
 
     try:
         logging.info(f"Iniciando el procesamiento del archivo: {file_path}")
 
-        with open(file_path, 'r', encoding='Latin-1') as file:
+        with open(file_path, 'r', encoding='UTF-8') as file:
             for line_number, line in enumerate(file, start=1):
                 line = line.strip()
 
@@ -644,8 +672,8 @@ def process_txt(file_path, log = False):
                     continue  # Ignorar líneas vacías"""
 
                 # Detectar cada categoría manualmente
-                if line in ["Extracto", "Summary", "Resumen"]:
-                    current_category = "Summary"
+                if line in ["Extracto", "Profile", "Resumen"]:
+                    current_category = "Profile"
                 elif line in ["Experiencia", "Experience", "Expérience", "Berufserfahrung"]:
                     current_category = "Experience"
                 elif line in ["Educación", "Education", "Formation", "Ausbildung"]:
@@ -705,7 +733,7 @@ def process_txt(file_path, log = False):
                                 continue
 
 
-                        """if current_category == "Summary" or current_category == "Education" or current_category == "Experience":
+                        """if current_category == "Profile" or current_category == "Education" or current_category == "Experience":
                             final_data[current_category].append(line)  # Agregar a la lista para concatenar después
                             continue"""
 
@@ -769,7 +797,7 @@ def save_json(name, data, output_dir="/content/residencias/Data/Json/Custom"):
     file_path = os.path.join(output_dir, f"{safe_name}.json")
 
     # Guardar el JSON
-    with open(file_path, "w", encoding="Latin-1") as json_file:
+    with open(file_path, "w", encoding="UTF-8") as json_file:
         json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 def list_txt_files(directory):
@@ -795,7 +823,7 @@ def load_json_data_from_directory(directory_path):
     for filename in os.listdir(directory_path):
         if filename.endswith(".json"):
             full_path = os.path.join(directory_path, filename)
-            with open(full_path, "r", encoding="utf-8") as f:
+            with open(full_path, "r", encoding="UTF-8") as f:
                 try:
                     json_data = json.load(f)
                     json_data["_filename"] = filename
@@ -803,4 +831,68 @@ def load_json_data_from_directory(directory_path):
                 except json.JSONDecodeError:
                     print(f"Error al decodificar {filename}")
     return data
+
+def normalize_final_txt_headers(filepath, log=False):
+    # Lista de encabezados comunes en múltiples idiomas
+    SECTION_HEADERS = {
+        "Extracto", "Profile", "Resumen",
+        "Experiencia", "Experience", "Expérience", "Berufserfahrung",
+        "Educación", "Education", "Formation", "Ausbildung",
+        "Contactar", "Contact", "Coordonnées", "Kontakt",
+        "Aptitudes principales", "Top Skills", "Principales compétences", "Top-Kenntnisse",
+        "Certifications", "Certificaciones",
+        "Languages", "Idiomas", "Sprachen",
+        "Honors-Awards", "Distinctions",
+        "Publications", "Publicaciones",
+        "Skills"
+    }
+    with open(filepath, 'r', encoding='UTF-8') as f:
+        lines = f.readlines()
+
+    new_lines = []
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        #print(f"Processing line {i}: '{stripped}'")
+        new_lines.append(line)
+        if (
+            stripped in SECTION_HEADERS and
+            i + 1 < len(lines) and
+            lines[i + 1].strip() and
+            lines[i + 1] != '\n'
+        ):
+            # Si no hay doble salto después, agregar uno
+            if log:
+                print(f"🔧 Añadiendo salto después de encabezado en línea {i + 1}: '{stripped}'")
+            new_lines.append('\n')
+
+    with open(filepath, 'w', encoding='UTF-8') as f:
+        f.writelines(new_lines)
+
+    if log:
+        print(f"✅ Archivo normalizado: {os.path.basename(filepath)}")
+
+import re
+
+def normalizar_texto(texto: str) -> str:
+    """
+    Normaliza un string:
+    - Minúsculas
+    - Elimina puntuación (excepto letras con acento)
+    - Reemplaza saltos de línea por espacios
+    - Colapsa espacios múltiples
+    """
+    texto = texto.lower()
+    texto = texto.replace("\n", " ")
+
+    # Separar por guión y slash (coloca espacio antes de borrarlos)
+    texto = texto.replace("-", " ")
+    texto = texto.replace("/", " ")
+
+    # Eliminar puntuación restante
+    texto = re.sub(r"[\"'!?,.:;()\[\]{}<>|*\\]", " ", texto)
+
+    # Normalizar espacios múltiples
+    texto = re.sub(r"\s+", " ", texto)
+    return texto.strip()
+
 

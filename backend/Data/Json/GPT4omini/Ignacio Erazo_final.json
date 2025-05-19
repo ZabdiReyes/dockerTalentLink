@@ -1,0 +1,140 @@
+{
+  "contact": {
+    "name": "Ignacio Erazo",
+    "linkedin": "https://www.linkedin.com/in/ierazo",
+    "website": "http://ierazo.github.io",
+    "location": "Bellevue, Washington, Estados Unidos",
+    "company": "Amazon Fulfillment Technologies & Robotics"
+  },
+  "profile": "Research Scientist / Optimization / Ph.D. in Operations Research with a minor in Machine Learning at Georgia Tech.",
+  "title": "Research Scientist",
+  "skills": [
+    "Industrial Engineering",
+    "Analytics",
+    "Statistics"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "French",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "proficiency": "Full Professional"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Amazon Fulfillment Technologies & Robotics",
+      "position": "Research Scientist",
+      "duration": "enero de 2024 - Present",
+      "location": "Bellevue, Washington, United States"
+    },
+    {
+      "company": "Georgia Tech H. Milton Stewart School of ISyE",
+      "position": "Graduate Research Assistant",
+      "duration": "agosto de 2019 - enero de 2024",
+      "location": "Atlanta, Georgia, United States"
+    },
+    {
+      "company": "Amazon Fulfillment Technologies & Robotics",
+      "position": "Research Scientist Intern",
+      "duration": "mayo de 2023 - agosto de 2023",
+      "location": "Seattle, Washington, United States"
+    },
+    {
+      "company": "Amazon",
+      "position": "Applied Scientist Intern",
+      "duration": "septiembre de 2022 - diciembre de 2022",
+      "location": "Edinburgh, Scotland, United Kingdom"
+    },
+    {
+      "company": "Apple",
+      "position": "Operations Research Scientist Intern",
+      "duration": "mayo de 2022 - agosto de 2022",
+      "location": "Sunnyvale, California, United States"
+    },
+    {
+      "company": "Georgia Institute of Technology",
+      "position": "Head graduate teaching assistant",
+      "duration": "mayo de 2020 - diciembre de 2020",
+      "location": "Atlanta, Georgia, United States"
+    },
+    {
+      "company": "BHP",
+      "position": "Summer Intern",
+      "duration": "enero de 2019 - marzo de 2019",
+      "location": "Santiago Province, Chile"
+    },
+    {
+      "company": "Universidad de Concepción",
+      "position": "Teaching Assistant",
+      "duration": "marzo de 2018 - julio de 2018",
+      "location": "Concepción Province, Chile"
+    },
+    {
+      "company": "Universidad de Concepción",
+      "position": "Teaching Assistant",
+      "duration": "marzo de 2017 - julio de 2017",
+      "location": "Concepción Province, Chile"
+    },
+    {
+      "company": "Universidad de Concepción",
+      "position": "Tutor",
+      "duration": "marzo de 2015 - julio de 2017",
+      "location": "Provincia de Concepción, Chile"
+    },
+    {
+      "company": "Instituto Sistemas Complejos de Ingeniería",
+      "position": "Research Assistant",
+      "duration": "marzo de 2016 - julio de 2017",
+      "location": "Concepción Province, Chile"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "degree": "Doctor of Philosophy - PhD, Operations Research",
+      "duration": "2019 - 2023"
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "degree": "Master of Science - MS, Operations Research",
+      "duration": "agosto de 2017 - diciembre de 2019"
+    },
+    {
+      "institution": "Universidad de Concepción",
+      "degree": "Bachelor of Science - BS, Industrial Engineering",
+      "duration": "2014 - 2019"
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "degree": "Exchange Student, Industrial Engineering",
+      "duration": "2017 - 2017"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [
+      "World Finalist SIMIO competition",
+      "First Place in the Programming tourney University of Concepcion 2019",
+      "Stewart Fellowship",
+      "Best GPA of the Industrial Engineering class.",
+      "Top 3 Student Research Video at YinzOr workshop"
+    ],
+    "publications": [
+      "Cost-Efficient Fixed-Width Confidence Intervals for the Difference of Two Bernoulli Proportions",
+      "Efficient Confidence Intervals for the Difference of Two Bernoulli Distributions' Success Parameters",
+      "A Simulation-Optimization Framework to Improve the Organ Transplantation Offering System",
+      "Smart Sports Predictions Via Hybrid Simulation, NBA Case Study",
+      "Enabling Intelligent Processes in Simulation Utilizing the TensorFlow Deep Learning Resources"
+    ]
+  },
+  "others": {
+    "additional_information": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "contact": {
+    "name": "Jose Pablo Verduzco Wenglas",
+    "linkedin": "www.linkedin.com/in/jose-pablo-verduzco-wenglas-29bb60215",
+    "website": null,
+    "location": "Hermosillo, Sonora, México",
+    "company": "Liceo San Agustin"
+  },
+  "profile": "Como profesional dedicado y comprometido, busco desempeñarme en el área educativa con jóvenes en educación media, aprovechando mi sólida formación humanista. Mi objetivo es brindar un ambiente de aprendizaje enriquecedor, donde los estudiantes no solo adquieran conocimientos académicos, sino también desarrollen habilidades sociales y emocionales que les permitan enfrentar los desafíos de la vida con confianza y resiliencia.",
+  "title": "Coordinador de servicios estudiantiles",
+  "skills": [
+    "Control de sistema",
+    "Asesoramiento estudiantil",
+    "Admisiones"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "Liceo San Agustín",
+      "position": "Coordinador de servicios estudiantiles",
+      "duration": "septiembre de 2023 - Present",
+      "location": "Hermosillo, Sonora, México"
+    },
+    {
+      "company": "Liceo San Agustín",
+      "position": "Administrativo de cobros",
+      "duration": "septiembre de 2023 - febrero de 2024",
+      "location": "Hermosillo, Sonora, México"
+    },
+    {
+      "company": "Liceo San Agustín",
+      "position": "Profesor",
+      "duration": "agosto de 2022 - agosto de 2023",
+      "location": "Hermosillo, Sonora, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "CESSUM- Centro de Estudios Superiores del Mayo",
+      "degree": "Maestria en psicoedagogia, Educación",
+      "duration": "agosto de 2023 - 2025"
+    },
+    {
+      "institution": "Universidad de Sonora",
+      "degree": "Licenciatura, Deportes y ejercicio físico",
+      "duration": "agosto de 2017 - mayo de 2021"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": ""
+  }
+}

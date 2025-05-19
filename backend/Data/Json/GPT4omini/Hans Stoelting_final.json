@@ -1,0 +1,71 @@
+{
+  "contact": {
+    "name": "Hans Stoelting",
+    "linkedin": "www.linkedin.com/in/hans-stoelting-16a86551",
+    "website": null,
+    "location": "Veracruz de Ignacio de la Llave, México",
+    "company": "Distribuidora de Autopartes Pescador, S.A. de C.V."
+  },
+  "profile": "Soy Hans, estoy en el medio de las tecnologías desde el año 2000. Conozco diversas ramas, desde el desarrollo de aplicaciones, hasta la infraestructura física y virtual. He supervisado varios tipos de proyectos, así mismo me he involucrado en adecuación y construcción de instalaciones laborables.",
+  "title": "Gerente de TI",
+  "skills": [
+    "Gestión de proyectos y programas informáticos",
+    "Gestión de personas",
+    "Mejora de procesos de negocio"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Distribuidora de Autopartes Pescador, S.A. de C.V.",
+      "position": "Gerente de TI",
+      "duration": "noviembre de 2004 - Present (20 años 4 meses)",
+      "location": null
+    },
+    {
+      "company": "ManPower - TenarisTamsa",
+      "position": "Programador",
+      "duration": "febrero de 2002 - noviembre de 2004 (2 años 10 meses)",
+      "location": null
+    },
+    {
+      "company": "ManPower - TenarisTamsa",
+      "position": "Residente Profesional",
+      "duration": "agosto de 2001 - febrero de 2002 (7 meses)",
+      "location": "Veracruz, Veracruz"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales, Base de Datos",
+      "duration": "1998 - 2002"
+    },
+    {
+      "institution": "Inttelmex IT",
+      "degree": "Especialidad, Tecnología de la información",
+      "duration": "2017 - 2018"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Fundamentos del teletrabajo",
+      "Fundamentos de la gestión del tiempo",
+      "Transformación digital: Equipos online y trabajo colaborativo",
+      "Bienestar, coordinación y flexibilidad en casa y en el trabajo"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

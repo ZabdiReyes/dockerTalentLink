@@ -7,7 +7,7 @@ def process_all(directory="./Data/Json/Custom"):
     for archivo in os.listdir(directory):
         if archivo.endswith(".json"):
             path = os.path.join(directory, archivo)
-            with open(path, "r", encoding="utf-8") as f:
+            with open(path, "r", encoding="UTF-8") as f:
                 data = json.load(f)
 
             for module in [idiomas, certificaciones, educacion, experiencia]:

@@ -1,0 +1,57 @@
+{
+  "contact": {
+    "name": "Agustin Zarate",
+    "linkedin": "www.linkedin.com/in/agustin-zarate-54148314",
+    "website": null,
+    "location": "Richmond, Texas, United States",
+    "company": "Tenaris"
+  },
+  "profile": "Automation Specialist with experience in applying technologies for basic engineering and project management execution.",
+  "title": "Automation Specialist",
+  "skills": [
+    "Java",
+    "C++",
+    "HTML"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tenaris",
+      "position": "Automation Specialist",
+      "duration": "junio de 2013 - Present",
+      "location": "Houston y alrededores, Texas, Estados Unidos"
+    },
+    {
+      "company": "Siemens Servicios",
+      "position": "Ingeniero Proyectista",
+      "duration": "julio de 2009 - junio de 2013",
+      "location": "Tenaris Tamsa - Automatizacion"
+    },
+    {
+      "company": "VAI-INGDESI AUTOMATION",
+      "position": "Ingeniero Proyectista",
+      "duration": "enero de 2006 - julio de 2009",
+      "location": "Monterrey, Tenaris Tamsa"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Veracruz",
+      "degree": "Ingeniero en Sistemas Computacionales",
+      "duration": "2001 - 2006"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Desarrollo e implementación de sistemas para control y monitoreo de producción, en Visual Studio .Net."
+  }
+}

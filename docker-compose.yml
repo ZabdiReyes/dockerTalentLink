@@ -18,13 +18,14 @@ services:
       - "8000:8000"
     volumes:
       - ./backend:/app
+      - ./backend/app/models/miniLM:/app/app/models/miniLM
     depends_on:
       - mongodb
     environment:
       - MONGO_URI=mongodb://mongo:27017
     restart: always
 
- # Frontend - NGINX (para /get/ y /post/)
+  # Frontend - NGINX (para /get/ y /post/)
   frontend:
     build: ./frontend
     container_name: nginx-frontend

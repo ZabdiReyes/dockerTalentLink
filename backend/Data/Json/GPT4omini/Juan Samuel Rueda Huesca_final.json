@@ -1,0 +1,58 @@
+{
+  "contact": {
+    "name": "Juan Samuel Rueda Huesca",
+    "linkedin": "www.linkedin.com/in/juan-samuel-rueda-huesca-3816a4167",
+    "website": null,
+    "location": "Houston, Texas, Estados Unidos",
+    "company": "ROSEN USA Inc."
+  },
+  "profile": "Pensador innovador con una pasión por desentrañar los últimos avances en tecnología. Impulsado por el deseo de mantenerme al día, ya sea dominando nuevas tecnologías o desarrollando soluciones novedosas a desafíos complejos.",
+  "title": "IT Service Architect",
+  "skills": [
+    "Network",
+    "Control de acceso",
+    "Ciberseguridad"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "ROSEN USA Inc.",
+      "position": "IT Service Architect",
+      "duration": "mayo de 2023 - Present",
+      "location": "Houston, Texas, Estados Unidos"
+    },
+    {
+      "company": "Rosen",
+      "position": "System Administrator",
+      "duration": "junio de 2022 - mayo de 2023",
+      "location": "Houston, TX"
+    },
+    {
+      "company": "H Rosen de Mexico",
+      "position": "IT Professional",
+      "duration": "mayo de 2004 - mayo de 2022",
+      "location": "Boca del Río, Veracruz de Ignacio de la Llave, México"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "Ingenieria en Sistema Computacionales",
+      "duration": "1998 - 2003"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Scrum Fundamentals Certified",
+      "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      "SC900",
+      "Foundations of Cybersecurity",
+      "Play It Safe: Manage Security Risks"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Cuando no estoy explorando las tendencias emergentes en inteligencia artificial, blockchain y seguridad cibernética, puedo encontrarme en el campo de fútbol o animando a mi equipo favorito desde las tribunas."
+  }
+}

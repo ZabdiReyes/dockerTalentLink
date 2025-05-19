@@ -1,4 +1,3 @@
-
 from parser import idiomas
 
 def test_parse_languages():

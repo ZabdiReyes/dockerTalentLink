@@ -6,3 +6,8 @@ rank-bm25
 nltk
 python-multipart
 dateparser
+openai
+python-dotenv
+gensim==4.3.2
+numpy==1.26.4
+sentence-transformers

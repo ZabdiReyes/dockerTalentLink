@@ -1,0 +1,8 @@
+# Evitar que el modelo se copie al build context
+app/models/miniLM/
+
+# Otras carpetas pesadas o innecesarias
+.venv/
+__pycache__/
+*.pyc
+.git/

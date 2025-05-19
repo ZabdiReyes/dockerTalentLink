@@ -1,0 +1,49 @@
+{
+  "contact": {
+    "name": "Jose Antonio Gámez Martín",
+    "linkedin": "www.linkedin.com/in/jose-antonio-gámez-martín-03304a19",
+    "website": null,
+    "location": "Albacete, España",
+    "company": "UCLM"
+  },
+  "profile": "Catedrático de Universidad / Full Professor en UCLM",
+  "title": "Catedrático de Universidad",
+  "skills": [
+    "Bayesian networks",
+    "Data Mining",
+    "Evolutionary Algorithms"
+  ],
+  "languages": [],
+  "experience": [
+    {
+      "company": "UCLM",
+      "position": "Catedrático de Universidad",
+      "duration": "2011 - Present",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Granada",
+      "degree": "Doctor, Informática",
+      "duration": "1992 - 1998"
+    },
+    {
+      "institution": "Universidad de Granada",
+      "degree": "Licenciado, Informática",
+      "duration": "1986 - 1991"
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Computing for data analysis (coursera)",
+      "Machine Learning (Coursera)",
+      "Probabilistic Graphical Models (Coursera)"
+    ],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": null
+  }
+}

@@ -1,0 +1,47 @@
+2021 - 2022, Implementation of MES at Tenaris Algoma, Ontario, Canada,
+covering the Bars Cutting, Hot Rolling Mill, Heat Treatment, Finishing,
+Premium Threading production lines.
+
+IT Project Leader
+diciembre de 2011 - diciembre de 2021 (10 años 1 mes)
+Working as an IT Project Leader for a globally steel pipe manufacturer,
+I defined the MES that has been extended to the north America region,
+the model was defined in collaboration with a group of MES experts from
+different countries, I led and developed the cross-functional team in charge to
+implement MES (PSI Metals) on different locations in North America, I was the
+mentor of the support team in charge to support operations of Tenaris plants in
+USA and Canada, and attend evolutive and corrective changes.
+
+
+2021, Implementation of MES (using PSI Metals) at Tenaris's Ambridge facility
+in Pennsylvania, focusing on the Hot Rolling Mill production line. The project
+involved a deep analysis of production workflows, customization of MES
+software to fit unique operational needs, and a targeted approach to enhance
+process efficiency and data integrity.
+
+
+2021, Implementation of MES (using PSI Metals) at Tenaris's Koppel facility in
+Pennsylvania, covering the Steel shop, and Bars Cutting production lines.
+
+
+2018, Implementation of MES (using PSI Metals) at Tenaris's Conroe facility
+in Texas, covering the Heat Treatment, Finishing, and Threading production
+lines.
+
+
+2016 - 2018, Implementation of MES (using PSI Metals) at Tenaris's Bay City
+facility in Texas, covering the Bars Cutting, Hot Rolling Mill, Heat Treatment,
+and Finishing production lines.
+
+
+2012 - 2014, Designed of the Manufacturing Execution System (MES) using
+PSI Metals for Tenaris's US manufacturing plants, and the implementation of
+MES at Tenaris's Conroe facility in Texas, covering the Slitter, Welder, Heat
+Treatment, and Finishing production lines. This model had been extended and
+implemented across 7 Tenaris plants located at USA and Canada.
+
+IT Application Responsable
+abril de 2005 - noviembre de 2011 (6 años 8 meses)
+Responsibilities
+Led and development the functional and development teams
+                                   Page 4 of 5

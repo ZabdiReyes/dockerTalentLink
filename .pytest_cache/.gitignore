@@ -1,0 +1,3 @@
+# Created by pytest automatically.
+# Ignorar modelos grandes
+backend/app/models/

@@ -1,0 +1,81 @@
+{
+  "contact": {
+    "name": "URIEL MÉNDEZ ROMERO",
+    "linkedin": "www.linkedin.com/in/urielmendezr",
+    "website": null,
+    "location": "Veracruz, Ver.",
+    "company": "COMMERCIAL INFORMATION SERVICES | TENARISTAMSA"
+  },
+  "profile": "Apasionado de las tecnologías de la información con principales conocimientos en el desarrollo de software. Teniendo mayor experiencia en el lenguaje de programación Java, base de datos relacionales y últimamente en reporting con Power BI. Busco oportunidad para aprender y crecer en una empresa tecnológica de vanguardia.",
+  "title": "Desarrollador de Software",
+  "skills": [
+    "Programación",
+    "Java",
+    "Python",
+    "C",
+    "C++",
+    "SQL",
+    "Bases de datos relacionales",
+    "Redes de computadoras",
+    "Control de versiones (Git)",
+    "Linux",
+    "Diagramas UML",
+    "Visual Studio Code",
+    "NetBeans",
+    "IntelliJ IDEA",
+    "Microsoft Office",
+    "Fundamentos de ensamblador x86-64",
+    "Power BI Desktop",
+    "Power BI Service"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio (B1)"
+    }
+  ],
+  "experience": [
+    {
+      "company": "COMMERCIAL INFORMATION SERVICES | TENARISTAMSA",
+      "position": "Desarrollador de Software",
+      "duration": "FEB 2025 - ACTUALIDAD",
+      "location": null
+    },
+    {
+      "company": "INSTITUTO TECNOLÓGICO DE VERACRUZ",
+      "position": "Colaborador en Proyecto DAILY DIARY",
+      "duration": "2023",
+      "location": null
+    },
+    {
+      "company": "CONALEP VERACRUZ II",
+      "position": "Colaborador en Proyecto SECOND CHANCE",
+      "duration": "2019",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Veracruz",
+      "degree": "INGENIERÍA EN SISTEMAS COMPUTACIONALES",
+      "duration": "2020 - 2025"
+    },
+    {
+      "institution": "Colegio Nacional de Educación Profesional Técnica (CONALEP)",
+      "degree": "PROFESIONAL TÉCNICO BACHILLER EN INFORMÁTICA",
+      "duration": "2017 - 2020"
+    }
+  ],
+  "achievements": {
+    "certifications": [],
+    "awards_honors": [],
+    "publications": []
+  },
+  "others": {
+    "additional_information": "Comprometido con el aprendizaje continuo, siempre buscando mejorar mis habilidades y mis conocimientos."
+  }
+}

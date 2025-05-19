@@ -91,12 +91,12 @@ def extract_data(text):
 
 def convert_txt_to_json(input_file, output_file):
     try:
-        with open(input_file, 'r', encoding='utf-8') as f:
+        with open(input_file, 'r', encoding='UTF-8') as f:
             text = f.read()
 
         data = extract_data(text)
 
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, 'w', encoding='UTF-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
 
         print(f"Conversión exitosa: {input_file} -> {output_file}")
